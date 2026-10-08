@@ -1,3 +1,13 @@
+---
+title: Chatbot RAG Gunadarma v2.0
+emoji: 🎓
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # 🎓 Chatbot RAG Kampus Universitas Gunadarma v2.0
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
