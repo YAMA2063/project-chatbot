@@ -28,9 +28,9 @@ Sistem Chatbot Akademik berbasis **Retrieval-Augmented Generation (RAG)** cerdas
 
 Anda dapat langsung mencoba chatbot ini secara interaktif:
 
-### 🔗 Link Demo Online:
-👉 **[Buka Demo Chatbot Gunadarma di Hugging Face Spaces](https://huggingface.co/spaces/REXYM/chatbot-rag-gunadarma)**  
-*(Host di Hugging Face Spaces — Siap Digunakan Langsung via Browser)*
+### 🔗 Link Demo Online (Aktif & Siap Pakai):
+👉 **[Buka Demo Online Chatbot Gunadarma](https://efficient-predicted-alcohol-overnight.trycloudflare.com)**  
+*(Dilindungi Cloudflare HTTPS — Siap Digunakan Langsung via Browser HP & Laptop tanpa login/password)*
 
 ### 💬 Contoh Pertanyaan untuk Menguji Sistem:
 Coba tanyakan berbagai topik berikut untuk melihat kemampuan pencarian hybrid dan kecerdasan AI:
