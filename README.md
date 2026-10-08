@@ -20,7 +20,31 @@ pinned: false
 Sistem Chatbot Akademik berbasis **Retrieval-Augmented Generation (RAG)** cerdas untuk lingkungan kampus Universitas Gunadarma. Sistem ini mampu menjawab pertanyaan mahasiswa terkait jadwal kuliah, dosen wali/pembimbing, RPS, kalender akademik, dan prosedur administrasi secara cepat, akurat, dan transparan.
 
 > **Catatan Akademik & Asal Usul Proyek:**  
-> Proyek ini dikembangkan dan dimodernisasi dari penelitian tugas akhir / skripsi oleh **Muhammad Thufeil Putrayama (NPM: 11122006)**. Versi 2.0 ini menyempurnakan kelemahan arsitektur dasar dengan mengimplementasikan rekomendasi dewan penguji (**Dr. Ernianti Hasibuan, SKom., MSc.**) terkait *Ablation Study* dan evaluasi *retrieval* eksplisit.
+> Proyek ini dikembangkan dan dimodernisasi dari penelitian tugas akhir / skripsi oleh **Muhammad Thufeil Putrayama (NPM: 11122006)**. Versi 2.0 ini menyempurnakan kelemahan arsitektur dasar dengan mengimplementasikan evaluasi komprehensif terkait *Ablation Study* dan benchmark *retrieval* eksplisit.
+
+---
+
+## 🚀 Live Demo & Panduan Uji Coba Cepat
+
+Anda dapat langsung mencoba chatbot ini secara interaktif:
+
+### 🔗 Link Demo Online:
+👉 **[Buka Demo Chatbot Gunadarma di Hugging Face Spaces](https://huggingface.co/spaces/YAMA2063/chatbot-rag-gunadarma)**  
+*(Host di Hugging Face Spaces — Siap Digunakan Langsung via Browser)*
+
+### 💬 Contoh Pertanyaan untuk Menguji Sistem:
+Coba tanyakan berbagai topik berikut untuk melihat kemampuan pencarian hybrid dan kecerdasan AI:
+
+| Kategori Pengujian | Contoh Pertanyaan Uji Coba | Yang Perlu Diperhatikan |
+|---|---|---|
+| 📅 **Jadwal Kuliah** | *"Jadwal kuliah untuk kelas 3IA01 hari apa dan jam berapa?"* | Akurasi pencarian kode kelas spesifik |
+| 👨‍🏫 **Dosen Wali** | *"Siapa dosen wali untuk kelas 1KA01?"* | Ketepatan ekstraksi nama dosen |
+| 📝 **Dosen Pembimbing PI** | *"Dosen pembimbing PI kelas 4KA27 siapa?"* | Pencarian data bimbingan mahasiswa |
+| 📚 **Kurikulum & RPS** | *"Mata kuliah semester 5 untuk jurusan Sistem Informasi apa saja?"* | Filter metadata berbasis program studi |
+| 🏛️ **Administrasi Kampus** | *"Bagaimana alur pengurusan ujian yang bentrok?"* | Penjelasan langkah-langkah prosedural resmi |
+
+> 💡 **Fitur Transparansi Sumber:**  
+> Di akhir setiap jawaban, bot akan menyematkan **Badge Sitasi Sumber** resmi (misal: `[Sumber: Jadwal Kuliah Master, Daftar Dosen Kelas]`), membuktikan informasi bersumber dari data kampus yang valid (anti-halusinasi).
 
 ---
 
@@ -43,7 +67,7 @@ Sistem Chatbot Akademik berbasis **Retrieval-Augmented Generation (RAG)** cerdas
 
 ## 📊 Hasil Ablation Study (Evaluasi Kuantitatif)
 
-Sesuai catatan Penguji 3 (**Dr. Ernianti Hasibuan, SKom., MSc.**), dilakukan pengujian *ablation* 4 skenario pada 30 *ground-truth test cases*:
+Dilakukan pengujian *ablation* 4 skenario pada 30 *ground-truth test cases* untuk mengukur kontribusi masing-masing komponen retrieval:
 
 | Skenario | Hit Rate@5 | MRR (Mean Reciprocal Rank) | Context Precision | Rata-rata Latency |
 | :--- | :---: | :---: | :---: | :---: |

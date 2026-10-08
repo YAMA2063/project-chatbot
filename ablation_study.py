@@ -1,13 +1,11 @@
 """
 ablation_study.py - Tahap 2: Ablation Study & Retrieval Evaluation
 ===================================================================
-Sesuai masukan Dr. Ernianti Hasibuan, SKom., MSc. (Penguji 3):
-"Tambahkan ablation study minimal empat skenario:
-  raw query+dense; transformed query+dense;
-  raw query+hybrid; transformed query+hybrid."
-
-"Evaluasi retrieval secara eksplisit menggunakan Context Precision/Recall
- atau retrieval hit rate pada ground-truth source."
+Evaluasi Retrieval Komparatif 4 Skenario:
+  1. Raw Query + Dense
+  2. Transformed Query + Dense
+  3. Raw Query + Hybrid
+  4. Transformed Query + Hybrid
 
 Metrik yang dihitung:
 - Hit Rate @ K (apakah dokumen ground-truth muncul di top-K retrieval?)
@@ -321,7 +319,7 @@ SCENARIOS = [
 def run_ablation():
     print("=" * 70)
     print("  ABLATION STUDY - 4 Skenario Retrieval x 30 Pertanyaan Uji")
-    print("  Sesuai Catatan Penguji Dr. Ernianti Hasibuan, SKom., MSc.")
+    print("  Evaluasi Kuantitatif Performa Information Retrieval")
     print("=" * 70)
 
     # Load vectordb & BM25
