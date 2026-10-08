@@ -1,0 +1,36 @@
+=== JURUSAN PSIKOLOGI ===
+Topik: Visi, Misi, Kompetensi, dan CPL
+URL Asli: https://fpsi.gunadarma.ac.id/psikologi/profil/
+
+KONTEN:
+
+## VISI
+Pada tahun 2027 menjadi Program Studi Psikologi berorientasi global dan berkontribusi dalam perkembangan berkelanjutan berbasis Tridharma perguruan tinggi yang inovatif, responsif, dan adaptif dalam mendukung peningkatan daya saing nasional dalam bidang psikologi dengan pendekatan interdisipliner, khususnya dengan teknologi informasi.
+
+## MISI
+- Menyelenggarakan proses pendidikan dan pelatihan di bidang psikologi yang inovatif dan transformatif dengan basis interdisipliner (teknologi informasi).
+- Menciptakan suasana akademik melalui kegiatan penelitian bertaraf nasional/internasional yang interdisipliner dan bermanfaat.
+- Menyelenggarakan pengabdian kepada masyarakat untuk mendukung tujuan pembangunan berkelanjutan (peningkatan kualitas hidup).
+- Menyelenggarakan dan mengembangkan kemitraan nasional dan internasional untuk penguatan identitas bangsa di lingkungan global.
+- Menerapkan tata kelola program studi yang baik, modern, adaptif, dan transformatif dalam ekosistem digital.
+
+## KOMPETENSI LULUSAN
+- Mampu menganalisa terkait manajemen SDM (industri/organisasi), seperti seleksi, pelatihan, dan analisis jabatan.
+- Mampu menjadi fasilitator, pendidik usia dini/dasar/menengah, dan memberi konseling non-klinis.
+- Mampu melakukan penelitian perilaku manusia dan dampak interaksi manusia dengan IT (menyongsong Society 5.0).
+- Mampu bertindak sebagai asisten psikolog dalam proses evaluasi psikologi.
+- Mampu mengelola biro konsultasi atau usaha mandiri di bidang psikologi.
+
+## CAPAIAN PEMBELAJARAN LULUSAN (CPL)
+- Nilai Moral Pluralisme dan Empati: Berperilaku didasari moral luhur, menghargai perbedaan, empatik.
+- Konsep & Teori Psikologi: Menguasai proses fungsi mental, statistika, pengukuran psikologi, psikodiagnostik dasar, intervensi, dan penulisan ilmiah (APA).
+- Asesmen: Mampu interview, observasi, dan tes psikologi sesuai Kode Etik.
+- Pengukuran: Mengembangkan instrumen tes berdasarkan teori klasik.
+- Pemecahan Masalah: Menganalisis persoalan psikologis non-klinis.
+- Intervensi Psikologis: Melakukan konseling, psikoedukasi, dan pelatihan sesuai kode etik.
+- Hubungan Profesional/Interpersonal: Membangun rapport dan hubungan kerja yang sehat.
+- Komunikasi: Menyampaikan gagasan tertulis, presentasi, dan menggunakan IT bertanggungjawab.
+- Penelitian: Melakukan penelitian kuantitatif maupun kualitatif generik.
+- Analisa Interaksi Teknologi: Menelaah perilaku manusia yang dipengaruhi IT (Human-Computer Interaction, computer based learning).
+- Pengembangan Diri: Merencanakan karir dan pengembangan diri.
+- Etika Psikologi: Memahami dan bertanggungjawab atas etika profesi Psikologi Indonesia.

@@ -1,0 +1,61 @@
+DOKUMEN: KETENTUAN, SYARAT, DAN PROSEDUR CUTI AKADEMIK UNIVERSITAS GUNADARMA
+
+# KETENTUAN DAN ATURAN UMUM
+Cuti Akademik adalah pembebasan mahasiswa dari kewajiban mengikuti kegiatan akademik selama jangka waktu tertentu. 
+- Cuti secara keseluruhan dapat diberikan sebanyak-banyaknya untuk jangka waktu maksimal 2 (dua) semester, baik diambil secara berurutan maupun tidak berurutan.
+- Mahasiswa baru dinyatakan SAH melakukan Cuti Akademik HANYA SETELAH mendapatkan Surat Keterangan (SK) Cuti Akademik yang dikeluarkan oleh BAAK.
+- Pengurusan cuti akademik ini dapat dikuasakan (diwakilkan kepada orang lain).
+
+## ATURAN MUTLAK (WAJIB DIPERHATIKAN):
+1. Syarat Semester: Mahasiswa WAJIB sudah menginjak minimal semester ke-3 (Tingkat II). Mahasiswa tingkat 1 tidak diperkenankan cuti.
+2. Syarat KRS: Mahasiswa belum mengisi dan/atau mengambil KRS sampai dengan batas akhir pengambilan KRS.
+3. Batas Waktu: Pengurusan cuti akademik wajib diajukan sebelum masa pengurusan cuti akademik berakhir (sesuai kalender akademik).
+4. Status TIDAK AKTIF: Mahasiswa yang tidak mempunyai KRS tetapi TIDAK mengajukan permohonan cuti sampai batas waktu yang ditentukan akan dinyatakan TIDAK AKTIF kuliah.
+
+## SYARAT BERKAS DAN BIAYA:
+1. Mengisi Formulir Permohonan Cuti Akademik secara lengkap.
+2. Melampirkan Surat Izin Cuti / Persetujuan dari Orang Tua / Wali.
+3. Membayar biaya cuti akademik sebesar Rp 500.000,- (Lima Ratus Ribu Rupiah) untuk satu semester.
+
+---
+
+# PROSEDUR PENGURUSAN CUTI AKADEMIK
+
+## OPSI A: PROSEDUR DIGITAL / HYBRID (TERBARU)
+1. Unduh Berkas Administrasi: Mahasiswa mengunduh format Surat Persetujuan Orangtua/Wali pada link: https://bit.ly/SuratOrtuCuti
+2. Isi Formulir Digital: Mengisi data diri (NPM, Kelas, Nama) melalui form digital pada link pengurusan cuti di https://bit.ly/FormPengurusanCutiPTA25-26 dan melampirkan Surat Persetujuan Orangtua yang sudah ditandatangani. Bagi mahasiswa non-kelas atau sudah 2 kali cuti/non aktif, wajib melampirkan surat persetujuan tambahan dari Jurusan.
+3. Verifikasi & Pembayaran VA: Setelah diverifikasi oleh BAAK, mahasiswa akan mendapatkan tagihan Virtual Account (VA) sebesar Rp. 500.000,- di Studentsite. Segera lakukan pembayaran VA tersebut.
+4. Serahkan Fisik ke Loket BAAK: Bawa Surat Persetujuan Orangtua yang sudah ditandatangani beserta fotokopi bukti pembayaran cuti VA (atau bukti pemotongan biaya) ke Loket BAAK kampus setempat (Margonda Loket 3 Gedung 4 Lt 1, Kalimalang Loket Gedung 1 Lt 2, atau Sekdos Karawaci/Cengkareng).
+5. Penyerahan Bukti & Cetak SK: Setelah menyerahkan berkas, mahasiswa akan mendapatkan SK Cuti yang dicetak oleh staf loket BAAK.
+
+## OPSI B: PROSEDUR KONVENSIONAL (OFFLINE LAMA)
+1. Mahasiswa mengambil formulir permohonan cuti yang disediakan di BAAK, atau mengunduhnya melalui tautan: [Formulir Cuti Akademik] (https://baak.gunadarma.ac.id/file/Administrasi%20Akademik/F-CUTI%20New.doc)
+2. Formulir diisi dengan benar dan dilampiri dengan Surat ijin cuti dari orang tua / wali;
+3. Formulir dan lampiran-lampirannya diserahkan kembali ke BAAK. Setelah mendapat persetujuan dari kepala BAAK, formulir dibawa ke Bagian Keuangan (loket 25 - 28 Gedung 4 lantai 1 Kampus D) untuk mendapatkan blanko pembayaran cuti akdemik;
+4. Membayar uang cuti pada Bank yang ditunjuk;
+5. Membawa foto copy pembayaran cuti dan seluruh berkas permohonan cuti ke BAAK;
+6. Mahasiswa akan mendapatkan Surat Keterangan Cuti Akademik;
+
+## KASUS KHUSUS PEMBAYARAN:
+1. SUDAH BAYAR UANG KULIAH: Bagi mahasiswa yang sudah terlanjur membayar uang kuliah (UKT) secara penuh, uang cuti dapat dibayarkan dengan cara memotong uang kuliah tersebut. Syaratnya: Mahasiswa WAJIB melampirkan Bukti Pembayaran Uang Kuliah ASLI saat penyerahan berkas fisik di Loket BAAK/Bagian Keuangan untuk diproses potong biaya.
+2. STATUS 'DICUTIKAN' (CUTI PAKSA): Bagi mahasiswa yang berstatus DICUTIKAN karena tidak mengambil KRS sampai batas waktu yang ditentukan (padahal sudah bayar kuliah), uang cuti juga dapat dipotong dari uang kuliah tersebut. Syaratnya: Mahasiswa yang DICUTIKAN harus tetap mengikuti prosedur pengurusan cuti di atas, dan melampirkan Bukti Pembayaran Uang Kuliah ASLI ke loket BAAK/Bagian Keuangan.
+
+---
+
+# ISI DARI FORMULIR PERMOHONAN CUTI AKADEMIK
+Jika mahasiswa bertanya apa saja isi atau data yang harus diisi di dalam Formulir Permohonan Cuti Akademik, formulir tersebut berisi isian data sebagai berikut:
+- Nama
+- NPM & Kelas
+- Alamat
+- Jumlah semester yang telah diselesaikan (dalam satuan semester)
+- Jumlah SKS yang telah diperoleh (dalam satuan SKS)
+- IPK yang telah diperoleh
+- Keterangan riwayat cuti: Tidak pernah / pernah cuti selama (berapa semester), pada semester PTA / ATA
+- Mengajukan permohonan untuk cuti akademik pada semester PTA / ATA dikarenakan (alasan cuti)
+- Daftar lampiran wajib: Surat persetujuan dari Orang Tua / Wali.
+- Tanda tangan: Mengetahui (Orang Tua / Wali), Pemohon (Mahasiswa), dan Menyetujui (Ka. BAAK)
+- Catatan Penting yang tertera di formulir:
+  1. Formulir yang sudah disetujui dibawa ke Bagian Keuangan (Loket 26 Kampus Depok atau Lt.2 Kampus Kalimalang) untuk meminta blanko pembayaran cuti akademik. Biaya cuti akademik sebesar Rp. 500.000,-
+  2. Blanko cuti akademik dibayarkan ke Bank DKI, kemudian blanko tersebut di foto copy sebanyak 2 lembar.
+  3. Mahasiswa kembali ke BAAK menyerahkan semua berkas untuk dibuatkan SK Cuti. Mahasiswa dinyatakan sah Cuti Akademik setelah mendapat SK Cuti dari BAAK.
+  4. Cuti Akademik diberikan sebanyak-banyaknya untuk jangka waktu 2 (dua) semester, baik berurutan maupun tidak.

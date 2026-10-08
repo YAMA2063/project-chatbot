@@ -1,0 +1,70 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 TEKNIK ARSITEKTUR (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1TB01, 1TB02, 1TB03 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PP00020X - Pendidikan Agama (2 SKS)
+2. PB032208 - Bahasa Indonesia (2 SKS)
+3. IT032307 - Estetika Bentuk (3 SKS)
+4. IT032208 - Gambar Arsitektur (2 SKS)
+5. IT032249 - Gambar Teknik (2 SKS)
+6. IT032344 - Komputer Arsitektur Dasar dan Praktikum (3 SKS) [PP]
+7. IT032202 - Matematika 1 (2 SKS)
+8. IT032206 - Pengantar Arsitektur (2 SKS)
+(Note: Kelas 1TB04 SARMAG juga memiliki daftar mata kuliah dan total 18 SKS yang sama)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2TB01, 2TB02, 2TB03 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. PP032209 - Bahasa Inggris (2 SKS)
+2. IT032245 - Metode Perancangan Arsitektur (2 SKS)
+3. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+4. AK032303 - Struktur dan Konstruksi 2 (3 SKS) [UU]
+5. AK032404 - Studio Perancangan Arsitektur 2 (4 SKS) [UU]
+6. AK032207 - Utilitas 1 (2 SKS)
+7. IT032251 - Perkembangan Arsitektur Indonesia (2 SKS)
+8. IT000203 - Komputasi Big Data (2 SKS) [TT]
+9. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT]
+(Note: Kelas 2TB04 SARMAG berjumlah 24 SKS dengan tambahan Azas Perancangan dan Teknologi Bahan)
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3TB01, 3TB02, 3TB03 ===
+Total SKS: 22 SKS
+Daftar Mata Kuliah:
+1. PB032302 - Metodologi dan Penelitian Arsitektur (3 SKS)
+2. IT032209 - Arsitektur Berkelanjutan dan Bangunan Hijau (2 SKS)
+3. IT032201 - Regulasi Bangunan Gedung (2 SKS)
+4. IT032253 - Teknologi Bahan Bangunan (2 SKS)
+5. AK032409 - Struktur dan Konstruksi 4 (4 SKS) [UU]
+6. AK032610 - Studio Perancangan Arsitektur 4 (6 SKS) [UU]
+7. AK032314 - Tata Ruang Dalam (3 SKS)
+(Note: Kelas 3TB04 SARMAG berjumlah 24 SKS dengan tambahan Kerja Praktek dan Perumahan Permukiman)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4TB01, 4TB02, 4TB03, 4TB04, 4TB05 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. HM032205 - Kritik Arsitektur (2 SKS)
+2. PB032307 - Penelitian Arsitektur (3 SKS)
+3. IT032333 - Perancangan Kota (3 SKS) [UU]
+4. IT032348 - Perumahan dan Pemukiman (3 SKS) [UU]
+5. IT000108 - Praktikum Robotika Cerdas (1 SKS) [TT]
+6. IT000207 - Robotika Cerdas (2 SKS) [TT]
+7. AK032415 - Studio Perancangan Arsitektur 6 (4 SKS)
+8. IT032240 - Simulasi dan Pemodelan Komputer Arsitektur (2 SKS)

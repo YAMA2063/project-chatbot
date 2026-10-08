@@ -1,0 +1,64 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 DESAIN INTERIOR (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1TC01, 1TC02, 1TC03 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. HM033202 - Bahasa Indonesia (2 SKS)
+2. PB033214 - Ergonomi dan Antropometri (2 SKS)
+3. PB033315 - Sejarah Perkembangan Interior Klasik-Modern (3 SKS)
+4. PB033208 - Pengantar Desain Interior (2 SKS)
+5. AK033331 - Nirmana Dwimatra (3 SKS)
+6. IT033304 - Gambar Teknik Interior (3 SKS) [UU] [PP]
+7. IT033318 - Pengantar Gambar Bentuk Interior (3 SKS) [UU] [PP]
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2TC01, 2TC02, 2TC03 ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. HM033203 - Bahasa Inggris (2 SKS)
+2. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+3. PB033206 - Ilmu Pengetahuan Bahan Fabrikasi (2 SKS)
+4. AK033303 - Desain Furniture Dasar (3 SKS) [UU] [PP]
+5. AK033616 - Perancangan Desain Interior Ruang Personal (6 SKS) [UU] [PP]
+6. IT033329 - Aplikasi Komputer Interior 2D (3 SKS)
+7. IT033215 - Pengantar Teknologi Informasi (2 SKS) [PP]
+8. IT000203 - Komputasi Big Data (2 SKS)
+9. IT000104 - Praktikum Komputasi Big Data (1 SKS)
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3TC01 ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. PB033302 - Creative Thinking (3 SKS)
+2. PP033308 - Psikologi Desain (3 SKS)
+3. AK033309 - Desain Furniture Built-in (3 SKS) [UU] [PP]
+4. AK033307 - Desain Temporer (3 SKS)
+5. AK033620 - Perancangan Desain Interior Ruang Komersial (6 SKS) [UU] [PP]
+6. IT033317 - Teknik Komunikasi Interior (3 SKS)
+7. AK033230 - Visual Merchandising (2 SKS)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4TC01 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. PP033209 - Ilmu Budaya Dasar (2 SKS)
+2. HM033201 - Antropologi Interior (2 SKS)
+3. HM033204 - Etika Profesi (2 SKS)
+4. HM033405 - Kerja Praktek (4 SKS)
+5. HM033207 - Manajemen Proyek (2 SKS)
+6. IT033214 - Kapita Selekta (2 SKS)
+7. AK033615 - Perancangan Desain Interior Public Space (6 SKS) [UU] [PP]

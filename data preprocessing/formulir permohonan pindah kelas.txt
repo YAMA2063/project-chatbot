@@ -1,0 +1,58 @@
+DOKUMEN: KETENTUAN, SYARAT, DAN PROSEDUR PINDAH KELAS ATAU LOKASI KAMPUS UNIVERSITAS GUNADARMA
+
+# KETENTUAN DAN ATURAN UMUM (BERLAKU UNTUK SEMUA JALUR)
+Proses ini terbagi menjadi dua jenis permohonan:
+1. Pindah Lokasi Kuliah: 
+   Perpindahan lokasi kampus (misalnya dari kelas Salemba ke kelas Depok atau sebaliknya). 
+   - ATURAN LOKASI: Pindah lokasi dari wilayah pinggiran (Karawaci/Cengkareng) ke wilayah pusat kota (Depok/Kalimalang/Salemba) TIDAK DIIZINKAN.
+
+2. Pindah Waktu Kuliah: 
+   Perpindahan jadwal (misalnya dari kelas reguler/pagi ke kelas malam/sore atau sebaliknya).
+   - ATURAN WAKTU: Pindah ke kelas malam HANYA diperbolehkan bagi mahasiswa yang sudah bekerja.
+
+## ATURAN MUTLAK (WAJIB DIPERHATIKAN):
+- Waktu Pengajuan: Permohonan pindah kelas/lokasi diajukan SELAMBAT-LAMBATNYA 1 (satu) bulan sebelum perkuliahan semester baru dimulai.
+- Ketersediaan: Permohonan hanya dapat diproses JIKA TERSEDIA kelas tujuan yang memungkinkan (Cek ketersediaan kelas malam untuk jurusan & angkatan yang sama di situs BAAK).
+- Batas Kuota: Permohonan pindah kelas/lokasi HANYA BOLEH DIAJUKAN 1 (SATU) KALI selama masa studi mahasiswa.
+
+## SYARAT DAN BERKAS LAMPIRAN:
+Mahasiswa WAJIB menyiapkan kelengkapan berikut:
+1. Formulir Permohonan Pindah Kelas yang telah diisi dan ditandatangani.
+2. Surat Persetujuan dari Orang Tua / Wali.
+3. Fotokopi bukti pembayaran uang kuliah (blanko/UKT) untuk semester yang akan diikuti.
+4. 1 (satu) lembar pas photo ukuran 2 x 3.
+5. Surat Keterangan Bekerja dari tempat kerja (Hanya dilampirkan bagi mahasiswa yang pindah ke kelas sore/malam).
+
+---
+
+# PROSEDUR PENGAJUAN PINDAH KELAS
+
+## OPSI A: PROSEDUR PENGAJUAN DIGITAL (TERBARU)
+Pengajuan pindah kelas/lokasi kini dilakukan secara digital melalui Google Form resmi BAAK pada periode waktu tertentu yang telah ditetapkan (misal: 09-24 Februari).
+1. Unduh Berkas Administrasi: Mahasiswa WAJIB mengunduh format dokumen resmi berikut:
+   - Formulir Pindah Kelas: https://docs.google.com/document/d/1S-gnHOB61LGBqLsPjaHcm4Zk-hOlH9pZ/edit
+   - Surat Persetujuan Orangtua: https://docs.google.com/document/d/1N-9BnYRu7fAuX5D5ZE2oaSQu0xVipa_q/edit
+2. Cek Ketersediaan Kelas: Mahasiswa WAJIB mengecek file PDF Daftar Matakuliah dari BAAK Online untuk memastikan apakah kelas/jurusan/angkatan yang dituju (misal kelas malam) tersedia atau tidak.
+3. Pengisian Form Digital: Setelah berkas lengkap (termasuk Surat Keterangan Bekerja jika ke kelas malam), mahasiswa mengisi dan mengunggahnya pada form digital pendaftaran: https://bit.ly/UGPindahKelas
+4. Pantau pengumuman persetujuan penempatan kelas baru melalui akun portal mahasiswa atau situs BAAK.
+
+## OPSI B: PROSEDUR KONVENSIONAL / LOKET (OFFLINE)
+1. Mahasiswa mengambil dan mengisi formulir permohonan pindah kelas yang disediakan BAAK, atau mengunduhnya pada tautan berikut: [Formulir Pindah Kelas] (https://baak.gunadarma.ac.id/file/Administrasi%20Akademik/F-PINKEL%20New.doc)
+2. Formulir yang telah diisi dan ditandatangani mahasiswa dikembalikan ke BAAK dengan membawa seluruh lampiran fisik (Pas foto, Surat Keterangan Bekerja, Fotokopi blanko, Surat persetujuan orang tua).
+3. Apabila permohonan disetujui, mahasiswa akan ditempatkan di kelas baru dan menerima Surat Keterangan Kelas.
+
+---
+
+# ISI DARI FORMULIR PERMOHONAN PINDAH KELAS
+Jika mahasiswa bertanya apa saja isi atau data yang harus diisi di dalam Formulir Permohonan Pindah Kelas, formulir tersebut berisi isian data sebagai berikut:
+- Nama, NPM & Kelas
+- Fakultas, Jurusan / Jenjang
+- Tabel Detail Permohonan Pindah:
+  1. Dari Kelas (pagi / sore) -> Ke Kelas (pagi / sore)
+  2. Dari Kampus (Depok/ Salemba/ Kalimalang/ Cengkareng/ Karawaci) -> Ke Kampus (Depok/ Salemba/ Kalimalang/ Cengkareng/ Karawaci)
+- Terhitung mulai semester PTA / ATA tahun akademik (kapan pindah efektif)
+- Alasan pindah kelas
+- Daftar lampiran wajib:
+  1. Surat persetujuan dari orang tua / wali
+  2. Surat Keterangan dari tempat bekerja (khusus untuk pindah ke kelas malam/sore)
+- Tanda tangan Pemohon (Mahasiswa)

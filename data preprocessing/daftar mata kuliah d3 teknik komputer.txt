@@ -1,0 +1,60 @@
+DOKUMEN: DAFTAR MATA KULIAH D3 TEKNIK KOMPUTER (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1DC01, 1DC02 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT014201 - Algoritma dan Pemrograman (2 SKS)
+2. IT014202 - Aljabar Linier (2 SKS)
+3. AK014201 - Bahasa Indonesia (2 SKS)
+4. AK014203 - Bahasa Inggris (2 SKS)
+5. IT014206 - Fisika Dasar 1 (2 SKS)
+6. IT014223 - Matematika Dasar (2 SKS) [UU]
+7. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+8. IT014251 - Pengantar Teknologi Informasi (2 SKS)
+9. IT014123 - Praktikum Algoritma dan Pemrograman (1 SKS)
+10. IT014126 - Praktikum Fisika Dasar (1 SKS)
+11. IT014230 - Rangkaian Listrik dan Sistem Linier (2 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2DC01, 2DC02 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. Pendidikan Agama (2 SKS)
+2. IT014243 - Elektronika Lanjut (2 SKS)
+3. IT000203 - Komputasi Big Data (2 SKS)
+4. IT014252 - Komunikasi Data (2 SKS)
+5. AK014211 - Manajemen Proyek Teknologi Informasi (2 SKS)
+6. IT014144 - Praktikum Elektronika Lanjut (1 SKS)
+7. IT000104 - Praktikum Komputasi Big Data (1 SKS)
+8. IT014146 - Praktikum Sistem Digital (1 SKS)
+9. IT014233 - Probabilitas dan Statistika (2 SKS)
+10. IT014345 - Sistem Digital (3 SKS) [UU]
+11. IT014248 - Sistem Operasi (2 SKS) [UU] [PP]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3DC01, 3DC02 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT014253 - Analisis Kinerja Sistem (2 SKS)
+2. AK014438 - Aplikasi Internet of Things (IoT) (4 SKS) [Tidak ada UTS dan UAS]
+3. PB014201 - Etika Profesi (2 SKS)
+4. AK014229 - Jaringan Komputer Lanjut (2 SKS)
+5. AK014239 - Pemrograman Perangkat Bergerak (2 SKS)
+6. AK014135 - Praktikum Jaringan Komputer Lanjut (1 SKS)
+7. AK014140 - Praktikum Pemrograman Perangkat Bergerak (1 SKS)
+8. AK014124 - Praktikum Sistem Tertanam (Embedded System) (1 SKS)
+9. AK014225 - Robotika (2 SKS) [PP]
+10. AK014327 - Sistem Tertanam (Embedded System) (3 SKS) [UU]

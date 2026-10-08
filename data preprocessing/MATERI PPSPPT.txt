@@ -1,0 +1,147 @@
+MATERI PENGENALAN PROGRAM STUDI DAN PROGRAM PENDIDIKAN TINGGI (PPSPPT)
+UNIVERSITAS GUNADARMA
+
+1. VISI DAN MISI UNIVERSITAS
+Visi Universitas Gunadarma: Menjadi Universitas Berbasis Teknologi Informasi Terkemuka di Indonesia yang dikenal di lingkungan global. Termasuk 100 besar ASEAN untuk Pemanfaatan ICT dalam proses belajar mengajar.
+
+Misi Universitas:
+1. Memberi kontribusi dalam pembangunan ekonomi yang berkesinambungan dan meningkatkan kemakmuran masyarakat.
+2. Menyumbangkan pendidikan yang bermutu tinggi pada masyarakat sebagai sarana untuk menghasilkan lulusan yang berkualitas, professional, kompeten, dan sesuai dengan kebutuhan bangsa untuk saat ini dan yang akan datang.
+3. Memainkan peranan penting dalam ilmu yang berbasis teknologi informasi dan pengembangan teknologi.
+4. Memenuhi kebutuhan masyarakat melalui pengenalan, pengalihan dan penyebaran ilmu pengetahuan yang relevan untuk mencapai kualitas standar nasional dan internasional perguruan tinggi dengan berfokus pada integrasi teknologi informasi dalam setiap aspek kehidupan manusia.
+
+2. SEJARAH (UG-HISTORY)
+1981: Berawal dari ASKI.
+1985: Berubah menjadi STMIK.
+1990: STIE didirikan.
+1996 sampai Sekarang: Seluruh institusi tergabung menjadi Universitas Gunadarma.
+
+3. PROGRAM PENDIDIKAN
+Program Diploma (D3): Manajemen Informatika (A), Teknik Komputer (A), Akuntansi Komputer (A), Manajemen Pemasaran (A), Manajemen Keuangan (A), Kebidanan (A).
+Program Sarjana (S1): Sistem Informasi (A), Sistem Komputer (A), Manajemen (A), Akuntansi (A), Teknik Informatika (A), Teknik Mesin (A), Teknik Elektro (A), Teknik Industri (A), Teknik Sipil (B), Arsitektur (A), Psikologi (A), Sastra (A).
+Program Magister (S2): Magister Manajemen, Magister Sistem Informasi, Magister Elektro, Magister Psikologi, Magister Sastra, Magister Sipil.
+Program Doktor (S3): Doktor Teknologi Informasi, Doktor Ilmu Ekonomi.
+Lainnya: Program Sarjana-Magister dan Program International (Dual Degree).
+
+4. ALUR PROSES AKADEMIK
+1. Calon Mahasiswa: Melakukan Daftar Ulang menjadi Mahasiswa.
+2. Perkuliahan: Mahasiswa wajib mengikuti Kuliah dan Praktikum.
+3. Evaluasi: Mengikuti Ujian Tengah Semester (UTS), Ujian Akhir Semester (UAS), dan Ujian Utama (UU).
+4. Hasil Evaluasi: Dibagikan melalui DNS (Daftar Nilai Sementara) dan DNU (Daftar Nilai Utama).
+5. Khusus Semester Terakhir: Mahasiswa wajib mengikuti Kursus dan Workshop, mendapatkan ACC Tugas Akhir, memenuhi Kecukupan Nilai, Bebas Keuangan, dan Bebas Pustaka sebagai Syarat Sidang.
+6. Tahap Akhir: Sidang Sarjana atau Diploma.
+Sumber informasi resmi dapat diakses melalui: PSMA Online, Website BAAK, Mading, dan Studentsite.
+
+5. MASALAH DAN SOLUSI DALAM PROSES AKADEMIK
+
+A. Calon Mahasiswa
+Masalah: Lupa/salah/belum punya KTM dan kelas. NPM dan Kelas tidak sama dengan yang diperoleh saat pendaftaran.
+Solusi: Hubungi PSMA online atau bagian Registrasi (Perhatikan lokasi dan jam layanan).
+
+B. Aktivasi Studentsite (Single ID)
+Aktivasi menggunakan Nopend dan atau NPM. Hanya untuk mahasiswa aktif.
+Masalah: Tempat dan tanggal lahir yang diinput tidak sesuai dengan data di PSMA online. Lupa user ID dan Password.
+Solusi: Gunakan Help desk on line pada Studentsite atau kunjungi Loket pelayanan di BAAK/PSA.
+
+C. Perkuliahan
+Yang Harus Diketahui: Kalender akademik, Jadwal kuliah, Tata tertib, Jenis perkuliahan, Wali kelas dan Pembimbing Akademik, dan Persentase kehadiran minimal 70 persen.
+Masalah: Bentrok kuliah dengan praktek/kursus, mata kuliah belum terjadwal, atau masalah perkuliahan lainnya.
+Solusi: Hubungi BAAK atau konsultasi dengan wali kelas.
+
+D. Praktikum
+Masalah: Bentrok dengan praktikum lain, terlambat datang, tidak hadir.
+Solusi: Hubungi lab masing-masing. Pelanggaran akan dikenakan sanksi/denda atau mempengaruhi penilaian.
+
+E. Pengisian KRS
+Pengisian berlokasi di PSMA online Kampus E Gedung 1 Lantai 1.
+Masalah: Tidak datang sesuai jadwal, lupa NPM/tanggal lahir, transfer, belum bayar uang kuliah, batal/tambah/ubah mata kuliah.
+Solusi: Melapor ke PSMA online atau hubungi pembimbing akademik. Jika batal mengambil KRS dan tidak melapor, mahasiswa harus mengambil status cuti atau tidak aktif.
+
+F. Kartu Tanda Mahasiswa (KTM)
+Masalah: Tidak datang sesuai jadwal foto, KTM hilang.
+Solusi: Hubungi PSMA online. Pengenaan denda untuk KTM hilang (UG Smart Card) adalah Rp 50.000.
+
+G. Ujian (UTS, UAS, dan Ujian Utama)
+Masalah: Bentrok ujian, tidak hadir, tidak membawa persyaratan, melanggar tata tertib.
+Solusi: Hubungi BAAK atau Bagian Ujian Utama, ikuti ujian susulan, atau terima sanksi penegakan peraturan.
+
+H. Distribusi DNS dan DNU
+Masalah: Cetakan tidak bagus, DNS/DNU tidak ada, DNS tidak sesuai KRS.
+Solusi: Hubungi BAAK atau Bagian Ujian Utama.
+
+6. BIRO ADMINISTRASI AKADEMIK DAN KEMAHASISWAAN (BAAK)
+Biro yang menangani aspek penyelenggaraan proses belajar mengajar serta administrasi akademik bagi seluruh mahasiswa.
+Website: baak.gunadarma.ac.id
+Lokasi: Gedung 4 Lantai 1, Kampus Depok (Terdapat 36 Loket Layanan).
+
+Peruntukan Loket:
+Loket 01 sampai 06: Layanan Umum
+Loket 07 sampai 08: Pengurusan Surat Keterangan Mahasiswa
+Loket 09 sampai 10: Penulisan Ilmiah FTI
+Loket 11 sampai 12: Penulisan Ilmiah FE
+Loket 13 sampai 16: Sidang Sarjana
+Loket 17 sampai 18: Penulisan Ilmiah Filkom
+Loket 19: Penulisan Ilmiah F. Psikologi
+Loket 20: Penulisan Ilmiah F. Sastra
+Loket 21 sampai 24: Kursus / Workshop
+Loket 25 sampai 26: Keuangan
+Loket 33 sampai 36: Ujian Utama
+
+Jenis Layanan BAAK:
+Perkuliahan dan Ujian: Kalender Akademik, Jadwal Kuliah, Formulir Rencana Studi (FRS), Jadwal Ujian, Ujian Bentrok, Ujian Susulan.
+Administrasi Akademik: Cuti Akademik, Tidak Aktif Kuliah, Pindah Lokasi/Waktu, Surat Keterangan, Pembagian DNS, Komplain Nilai, Pindah Jurusan.
+
+7. CONTOH KALENDER AKADEMIK
+PPSPPT: 14 sampai 15 September 2015
+Perkuliahan sebelum UTS: 21 September sampai 28 November 2015
+Batas akhir pengambilan KRS: 9 November 2015
+UTS: 1 sampai 23 Desember 2015
+Perkuliahan setelah UTS: 28 Desember 2015 sampai 23 Januari 2016
+UAS: 26 Januari sampai 13 Februari 2016
+Ujian Utama: 15 sampai 20 Februari 2016
+
+8. KODE KELAS, JURUSAN, DAN LOKASI
+
+A. Cara Membaca Kode Kelas (Contoh: 1KA05)
+1 sama dengan Tingkat 1
+KA sama dengan Jenjang dan Program Studi (S1 Sistem Informasi)
+05 sama dengan Kelas paralel ke-5
+
+B. Kode Jenjang dan Program Studi
+D3: DB (Manajemen Informatika), DC (Teknik Komputer), DA (Akuntansi), DD (Manajemen), DE (Kebidanan).
+S1: KA (Sistem Informasi), KB (Sistem Komputer), IA (Teknik Informatika), IB (Teknik Elektro), IC (Teknik Mesin), ID (Teknik Industri), EA (Manajemen), EB (Akuntansi), TA (Teknik Sipil), TB (Teknik Arsitektur), PA (Psikologi), SA (Sastra).
+
+C. Waktu dan Lokasi Kuliah
+Kuliah Pagi: Jam ke-1 s/d 10 (Jam ke-1 dimulai Pukul 07.30 sampai 08.30 WIB).
+Kuliah Malam: Jam ke-11 s/d 14 (Jam ke-14 berakhir Pukul 20.30 sampai 21.30 WIB).
+Kode Lokasi: A (Kenari, Jakarta Pusat), C (Salemba, Jakarta Pusat), D (Margonda, Depok), E (Kelapa Dua, Akses UI), G (Prapatan, Kelapa Dua), H (Ciliwung, Kelapa Dua), J (Kalimalang, Bekasi).
+Contoh Jadwal: Rabu, Jam 4/5, Lokasi D424 (Artinya Kampus Depok Gedung 4, Lantai 2, Ruang ke-4).
+
+9. UJIAN DAN KOMPOSISI NILAI
+Syarat mutlak mengikuti ujian: Mahasiswa berstatus aktif (terbukti via KRS) dan memenuhi kehadiran minimal 70 persen.
+
+A. Sistem Penilaian (Standar Huruf Mutu)
+Huruf Mutu A sama dengan Angka Mutu 4
+Huruf Mutu B sama dengan Angka Mutu 3
+Huruf Mutu C sama dengan Angka Mutu 2
+Huruf Mutu D sama dengan Angka Mutu 1
+Huruf Mutu E sama dengan Angka Mutu 0
+
+B. Komposisi Penilaian Ujian
+1. Ujian Lokal (Mata Kuliah Tanpa Praktikum)
+UTS: 70 persen
+UAS: 30 persen
+
+2. Ujian Lokal (Mata Kuliah Dengan Praktikum)
+UTS: 50 persen
+UAS: 30 persen
+Praktikum: 20 persen
+
+3. Ujian Utama (UU)
+Nilai Lokal: 50 persen (Diambil dari porsi UTS dan Praktikum sesuai jenis mata kuliahnya)
+Ujian Utama: 50 persen
+
+C. Rumus Indeks Prestasi Kumulatif (IPK)
+IPK dihitung dengan menjumlahkan hasil kali antara SKS dan Angka Mutu, lalu dibagi dengan total SKS yang diambil.
+
+Distribusi Nilai: Mahasiswa menerima laporan nilai lokal (DNS) pada bulan Februari (Semester Ganjil/PTA) dan September (Semester Genap/ATA). Nilai Ujian Utama dilaporkan secara terpisah. DNS dapat diakses secara langsung melalui Studentsite.

@@ -1,0 +1,35 @@
+Silabus dan RPS Gunadarma online
+
+Halaman Utama
+Daftar RPS
+Search RPS
+Kontak
+
+Selamat Datang di Web Silabus dan Rencana Pembelajaran Semester
+Silabus dan Rencana Pembelajaran Semester (RPS)
+
+Apa sebenarnya Silabus dan RPS itu? Silabus dapat diartikan sebagai gambaran tentang suatu mata kuliah yang mencakup nama mata kuliah, kode mata kuliah, semester, SKS, fakultas/program studi, mata kuliah prasyarat, capaian pembelajaran mata kuliah, deskripsi mata kuliah, bahan kajian, dan sumber pustaka. RPS adalah kegiatan atau tindakan mengkoordinasikan komponen-komponen pembelajaran sehingga tujuan pembelajaran, meteri pembelajaran, cara penyampaian kegiatan (metode, model, dan teknik) serta cara menilainya menjadi jelas dan sistematis, sehingga proses belajar selama satu semester menjadi efektif dan efisien.
+
+Silabus
+Silabus tak lain dari suatu dokumen yang menjabarkan capaian pembelajaran ke dalam substansi materi pembahasan, yang terangkum dalam mata kuliah atau praktikum. Sebab itu, ia tersusun dari komponen identitas mata kuliah atau praktikum, standar capaian pembelajaran, deskripsi mata kuliah, bahan kajian atau pokok bahasan, dan sumber pustaka. Gambaran komponennya dapat terlihat sbb:
+- Mata Kuliah/Praktikum
+- Kode Mata Kuliah
+- Semester
+- SKS
+- Fakultas/Program Studi
+- Mata Kuliah Prasyarat
+- Capaian Pembelajaran Mata Kuliah
+- Bahan Kajian
+- Referensi
+
+RENCANA PEMBELAJARAN SEMESTER (RPS)
+Berdasarkan Permendikbud RI No. 49 Tahun 2014 tentang Standar Nasional Pendidikan Tinggi, tertanggal 9 Juni 2014, komponen rencana pembelajaran semester terdiri dari:
+1. Nama program studi, nama dan kode mata kuliah, semester, sks, nama dosen pengampu
+2. Capaian pembelajaran lulusan yang dibebankan pada mata kuliah
+3. Kemampuan akhir yang direncanakan
+4. Bahan kajian yang terkait dengan kemampuan yang akan dicapai
+5. Metode pembelajaran
+6. Waktu yang disediakan untuk mencapai kemampuan
+7. Pengalaman belajar mahasiswa yang diwujudkan dalam deskripsi tugas yang harus dikerjakan oleh mahasiswa selama 1 semester
+8. Kriteria, indikator, dan bobot penilaian; dan
+9. Daftar referensi yang digunakan.

@@ -1,0 +1,35 @@
+DOKUMEN: KETENTUAN DAN PROSEDUR DAFTAR ULANG UNIVERSITAS GUNADARMA
+
+DESKRIPSI DAN KETENTUAN UMUM:
+Daftar Ulang adalah proses wajib yang dilakukan untuk menyatakan bahwa seseorang akan aktif menjadi mahasiswa pada semester/tahun ajaran yang akan datang. Proses daftar ulang dibedakan menjadi dua kategori utama, yakni untuk Mahasiswa Lama (Aktif) dan Calon Mahasiswa Baru. Seluruh proses saat ini dilakukan secara ONLINE.
+
+1. DAFTAR ULANG MAHASISWA LAMA (AKTIF PERKULIAHAN)
+Bagi mahasiswa lama, daftar ulang pada dasarnya adalah proses pembaruan data dan pembayaran uang kuliah agar statusnya aktif dan bisa mengisi KRS. Terdapat 2 (dua) cara untuk melakukan ini, tergantung kebutuhan mahasiswa:
+
+A. Cara SOP Resmi (Gunakan ini jika ingin memilih sistem CICILAN atau jika sistem mewajibkan update data):
+1. Login ke portal resmi (Studentsite / BAAK Online).
+2. Akses menu "Daftar Ulang".
+3. Lakukan pembaruan (update) biodata diri. Pastikan data seperti Kota Lahir, Tanggal Lahir, No KTP, Data Orang Tua, dan Alamat sudah benar (Klik Next).
+4. Pilih skema periode pembayaran uang kuliah (Pilih skema CICILAN atau bayar LUNAS).
+5. Sistem akan menerbitkan Blanko Pembayaran / Virtual Account (VA).
+6. Lakukan pembayaran. Status mahasiswa akan menjadi aktif dan dapat melanjutkan ke pengisian KRS sesuai jadwal.
+
+B. Cara Praktis / Langsung (Gunakan ini jika ingin bayar LUNAS dan tidak ada perubahan data):
+1. Login ke portal resmi (Studentsite).
+2. Langsung akses menu "Blanko Pembayaran" (tanpa perlu masuk ke menu Daftar Ulang).
+3. Cari tagihan uang kuliah untuk semester aktif (contoh: ATA 25/26 UANG KLH SM 8).
+4. Klik tombol [Download Blanko] untuk menerbitkan tagihan / Virtual Account (VA).
+5. Lakukan pembayaran. Jika sudah lunas, abaikan saja blanko tersebut. Status mahasiswa otomatis aktif.
+
+Catatan: Jika terjadi error/ketidaksesuaian data saat update biodata, mahasiswa tidak perlu datang ke loket, cukup hubungi kontak bantuan PSA:
+- Kampus Salemba & Depok: 087875845293 / 087775496174
+- Kampus Kalimalang (Bekasi): 0895340987371 / 081934576801
+- Kampus Karawaci & Cengkareng: 089654154309
+ 
+2. DAFTAR ULANG CALON MAHASISWA BARU
+Bagi calon mahasiswa yang baru saja dinyatakan lulus seleksi masuk, daftar ulang wajib dilakukan untuk mengesahkan status sebagai mahasiswa resmi Universitas Gunadarma.
+Prosedur Daftar Ulang Mahasiswa Baru:
+1. Cek pengumuman kelulusan di akun Pendaftaran Mahasiswa Baru.
+2. Lakukan pembayaran biaya kuliah awal (Uang Gedung, SKS, dll) melalui Virtual Account Bank DKI atau bank mitra sesuai petunjuk.
+3. Lakukan proses Daftar Ulang Online di portal pendaftaran dengan mengunggah (upload) bukti pembayaran beserta kelengkapan berkas administrasi lainnya (ijazah, foto, dll).
+4. Panitia akan memvalidasi berkas. Jika valid, calon mahasiswa resmi diterima dan tinggal menunggu informasi jadwal Orientasi/Pengenalan Kampus (PPSPPT) melalui email atau website.

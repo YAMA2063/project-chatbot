@@ -1,0 +1,41 @@
+DOKUMEN: DAFTAR MATA KULIAH UNIVERSITAS GUNADARMA (SEMESTER GANJIL PTA 2025/2026)
+JURUSAN: D3 AKUNTANSI KOMPUTER - KODE KELAS: DA
+
+SEMESTER 1 (TINGKAT 1) - Total 17 SKS - JURUSAN D3 AKUNTANSI KOMPUTER
+Berlaku untuk kelas 1DA01
+
+1. Pendidikan Agama - 2 SKS
+2. Algoritma dan Pemrograman 1 - 2 SKS
+3. Ilmu Alamiah Dasar - 2 SKS
+4. Komunikasi Bahasa Inggris Bisnis 1 - 1 SKS
+5. Pendidikan Kewarganegaraan - 2 SKS
+6. Pengantar Akuntansi 1 dan Praktikum - 2 SKS
+7. Pengantar Bisnis - 2 SKS
+8. Pengantar Ekonomi - 2 SKS
+9. Pengantar Komputer 1 dan Praktikum - 2 SKS
+
+SEMESTER 3 (TINGKAT 2) - Total 20 SKS - JURUSAN D3 AKUNTANSI KOMPUTER
+Berlaku untuk kelas 2DA01 sampai 2DA02
+
+1. Akuntansi Keuangan Menengah 1 dan Praktikum - 3 SKS
+2. Kewirausahaan - 2 SKS
+3. Komputerisasi Anggaran 1 dan Praktikum - 2 SKS
+4. Komputerisasi Perpajakan 1 dan Praktikum - 2 SKS
+5. Pemrograman Akuntansi 1 - 2 SKS
+6. Pengantar Manajemen - 2 SKS
+7. Perangkat Lunak Akuntansi 1 dan Praktikum - 2 SKS
+8. Praktikum Social Networking dan Creative Content - 1 SKS
+9. Social Networking And Creative Content - 2 SKS
+10. Statistika 1 dan Praktikum - 2 SKS
+
+SEMESTER 5 (TINGKAT 3) - Total 20 SKS - JURUSAN D3 AKUNTANSI KOMPUTER
+Berlaku untuk kelas 3DA01 sampai 3DA02
+
+1. Akuntansi Biaya - 3 SKS
+2. Akuntansi Keuangan Lanjut 1 dan Praktikum - 3 SKS
+3. Akuntansi Pajak - 3 SKS
+4. Akuntansi Sektor Publik - 2 SKS
+5. Auditing 1 dan Praktikum - 3 SKS
+6. Komunikasi Bahasa Inggris Bisnis 3 - 1 SKS
+7. Manajemen Keuangan dan Praktikum - 3 SKS
+8. Sistem Informasi Akuntansi - 2 SKS

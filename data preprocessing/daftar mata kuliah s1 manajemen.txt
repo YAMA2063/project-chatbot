@@ -1,0 +1,119 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 MANAJEMEN (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1EA01, 1EA02, 1EA03, 1EA04, 1EA05, 1EA06, 1EA07, 1EA08, 1EA09, 1EA10, 1EA11, 1EA12, 1EA13, 1EA14, 1EA15, 1EA16, 1EA17, 1EA18, 1EA19, 1EA20, 1EA21, 1EA22, 1EA23, 1EA24, 1EA25, 1EA26, 1EA27, 1EA28, 1EA29, 1EA30, 1EA31 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PB021203 - Bahasa Inggris (2 SKS)
+2. IT021213 - Dasar Pemasaran (2 SKS)
+3. PB021105 - Ilmu Budaya Dasar (1 SKS)
+4. IT021233 - Matematika Ekonomi 1 (2 SKS) [PP]
+5. PP00020X - Pendidikan Agama (2 SKS)
+6. PP000207 - Pendidikan Kewarganegaraan (2 SKS)
+7. IT021237 - Pengantar Akuntansi 1 (2 SKS) [PP]
+8. IT021240 - Pengantar Ekonomi 1 (2 SKS)
+9. IT021243 - Pengantar Komputer dan Teknologi Informasi 1 (2 SKS)
+10. IT021152 - Praktikum Komputer 1 (1 SKS)
+
+=== KELAS: 1EA32 (SARMAG) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. PB021203 - Bahasa Inggris (2 SKS)
+2. IT021213 - Dasar Pemasaran (2 SKS)
+3. PB021105 - Ilmu Budaya Dasar (1 SKS)
+4. IT021233 - Matematika Ekonomi 1 (2 SKS) [PP]
+5. PP00020X - Pendidikan Agama (2 SKS)
+6. PP000207 - Pendidikan Kewarganegaraan (2 SKS)
+7. IT021237 - Pengantar Akuntansi 1 (2 SKS) [PP]
+8. IT021240 - Pengantar Ekonomi 1 (2 SKS)
+9. IT021243 - Pengantar Komputer dan Teknologi Informasi 1 (2 SKS)
+10. IT021152 - Praktikum Komputer 1 (1 SKS)
+11. IT021262 - Teori Ekonomi 1 (2 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2EA01, 2EA02, 2EA03, 2EA04, 2EA05, 2EA06, 2EA07, 2EA08, 2EA09, 2EA10, 2EA11, 2EA12, 2EA13, 2EA14, 2EA15, 2EA16, 2EA17, 2EA18, 2EA19, 2EA20, 2EA21, 2EA22, 2EA23, 2EA24, 2EA25, 2EA26, 2EA27, 2EA28, 2EA29, 2EA30, 2EA31, 2EA32, 2EA33, 2EA34, 2EA35, 2EA36, 2EA37 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT021209 - Bank dan Lembaga Keuangan (2 SKS) [UU]
+2. IT021311 - Dasar Manajemen Keuangan (3 SKS)
+3. IT021222 - Komputerisasi Akuntansi Keuangan (2 SKS) [PP]
+4. IT021246 - Pengantar Teknologi Sistem Informasi Manajemen 1 (2 SKS)
+5. IT021251 - Perilaku Keorganisasian (2 SKS) [UU]
+6. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS) [TT]
+7. IT021253 - Riset Operasional 1 (2 SKS) [PP]
+8. IT000211 - Social Networking dan Creative Content (2 SKS) [TT]
+9. IT021258 - Statistika 1 (2 SKS) [UU] [PP]
+10. IT021262 - Teori Ekonomi 1 (2 SKS)
+
+=== KELAS: 2EA38 (SARMAG) ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. IT021206 - Aspek Hukum dalam Ekonomi (2 SKS)
+2. IT021209 - Bank dan Lembaga Keuangan (2 SKS) [UU]
+3. IT021311 - Dasar Manajemen Keuangan (3 SKS)
+4. IT021174 - Komunikasi Bisnis Mandarin (1 SKS)
+5. IT021242 - Pengantar Ekonomi Pembangunan (2 SKS)
+6. IT021246 - Pengantar Teknologi Sistem Informasi Manajemen 1 (2 SKS)
+7. IT021251 - Perilaku Keorganisasian (2 SKS) [UU]
+8. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS)
+9. IT021253 - Riset Operasional 1 (2 SKS) [PP]
+10. IT000211 - Social Networking dan Creative Content (2 SKS)
+11. IT021258 - Statistika 1 (2 SKS) [UU] [PP]
+12. IT021262 - Teori Ekonomi 1 (2 SKS)
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3EA01, 3EA02, 3EA03, 3EA04, 3EA05, 3EA06, 3EA07, 3EA08, 3EA09, 3EA10, 3EA11, 3EA12, 3EA13, 3EA14, 3EA15, 3EA16, 3EA17, 3EA18, 3EA19, 3EA20, 3EA21, 3EA22, 3EA23, 3EA24, 3EA25, 3EA26, 3EA27, 3EA28, 3EA29, 3EA30, 3EA31, 3EA32, 3EA33, 3EA34, 3EA35, 3EA36 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT021203 - Akuntansi Biaya (2 SKS) [UU]
+2. IT021206 - Aspek Hukum dalam Ekonomi (2 SKS)
+3. IT021215 - Ekonomi Koperasi (2 SKS)
+4. IT021174 - Komunikasi Bisnis Mandarin (1 SKS)
+5. AK021206 - Manajemen Investasi (2 SKS)
+6. AK021314 - Manajemen Proyek (3 SKS)
+7. IT021235 - Metode Riset (2 SKS) [PP]
+8. IT021242 - Pengantar Ekonomi Pembangunan (2 SKS)
+9. PB021206 - Tatap Muka Penulisan Ilmiah (2 SKS)
+10. IT021266 - Teori Pengambilan Keputusan (2 SKS)
+
+=== KELAS: 3EA37 (SARMAG) ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. IT021203 - Akuntansi Biaya (2 SKS) [UU]
+2. IT021212 - Ekonomi Internasional (2 SKS) [UU]
+3. AK021206 - Manajemen Investasi (2 SKS)
+4. AK021314 - Manajemen Proyek (3 SKS)
+5. IT021332 - Manajemen Strategik (3 SKS) [UU]
+6. IT021235 - Metode Riset (2 SKS) [PP]
+7. AK021316 - Peranggaran Perusahaan (3 SKS) [UU] [PP]
+8. PB021206 - Tatap Muka Penulisan Ilmiah (2 SKS)
+9. IT021262 - Teori Ekonomi 1 (2 SKS)
+10. IT021266 - Teori Pengambilan Keputusan (2 SKS)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4EA01, 4EA02, 4EA03, 4EA04, 4EA05, 4EA06, 4EA07, 4EA08, 4EA09, 4EA10, 4EA11, 4EA12, 4EA13, 4EA14, 4EA15, 4EA16, 4EA17, 4EA18, 4EA19, 4EA20, 4EA21, 4EA22, 4EA23, 4EA24, 4EA25, 4EA26, 4EA27, 4EA28, 4EA29, 4EA30, 4EA31, 4EA32, 4EA33, 4EA34, 4EA35, 4EA36, 4EA37, 4EA38, 4EA39, 4EA40 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT021212 - Ekonomi Internasional (2 SKS) [UU]
+2. IT000215 - Kecerdasan Artifisial dan Masyarakat (2 SKS) [TT]
+3. HM021303 - Kewirausahaan Era Revolusi Industri 4.0 (3 SKS)
+4. AK021207 - Manajemen Keuangan Internasional (2 SKS)
+5. IT021232 - Manajemen Pemasaran Era Revolusi Industri 4.0 (2 SKS)
+6. IT021332 - Manajemen Strategik (3 SKS) [UU]
+7. AK021316 - Peranggaran Perusahaan (3 SKS) [UU] [PP]
+8. IT000116 - Praktikum Kecerdasan Artifisial dan Masyarakat (1 SKS) [TT]
+9. IT021270 - Seminar Kajian Bidang Manajemen (2 SKS)

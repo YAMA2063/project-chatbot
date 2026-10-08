@@ -1,0 +1,17 @@
+Bagi mahasiswa yang hendak mengurus Bebas Keuangan Setelah Sidang, Bebas Keuangan Pengunduran Diri, dan Pengembalian Uang Kuliah (PUK) silahkan kirimkan data diri berupa:
+1. Nama :
+2. NPM :
+3. No. HP yg dapat dihubungi (WA) :
+4. Fakultas :
+5. Lokasi Kampus :
+6. Keperluan : Bebas Keuangan Setelah Sidang / Bebas Keuangan Pengunduran Diri / Pengembalian Uang Kuliah (PUK)
+
+Ke alamat email: keuangan@gunadarma.ac.id
+Dengan subject email: LokasiKampus_NPM_Keperluan
+Contoh subject email: Kalimalang_22233456_Bebas Keuangan Setelah Sidang
+
+Silahkan tunggu konfirmasi dari Bagian Keuangan via email untuk tahap selanjutnya.
+
+Terima kasih
+
+Tautan dokumen resmi: https://drive.google.com/file/d/1c7mPj0O1thJF5ChoCz4qqvEBL3CbxwDz/view

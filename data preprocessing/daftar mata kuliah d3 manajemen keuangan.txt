@@ -1,0 +1,57 @@
+DOKUMEN: DAFTAR MATA KULIAH D3 MANAJEMEN KEUANGAN (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1DF01 ===
+Total SKS: 18 SKS [cite: 564]
+Daftar Mata Kuliah:
+1. PB025204 - Bahasa Inggris (2 SKS) [cite: 564]
+2. IT025256 - Ekonomi Bisnis (2 SKS) [cite: 564]
+3. IT025252 - Ekonomika 1 (2 SKS) [cite: 564]
+4. PP000209 - Ilmu Alamiah Dasar (2 SKS) [cite: 564]
+5. IT025229 - Matematika Bisnis (2 SKS) [cite: 564]
+6. Pendidikan Agama (2 SKS) [cite: 564]
+7. PP000207 - Pendidikan Kewarganegaraan (2 SKS) [cite: 564]
+8. IT025222 - Pengantar Akuntansi 1 dan Praktikum (2 SKS) [PP] [cite: 564]
+9. IT025221 - Pengantar Aplikasi Komputer dan Praktikum (2 SKS) [PP] [cite: 564]
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2DF01, 2DF02 ===
+Total SKS: 19 SKS [cite: 574]
+Daftar Mata Kuliah:
+1. IT025260 - Akuntansi Keuangan Menengah 1 dan Prak (2 SKS) [PP] [cite: 574]
+2. HM025211 - Bank dan Lembaga Keuangan 1 (2 SKS) [cite: 574]
+3. HM025217 - Kewirausahaan 2 (2 SKS) [cite: 574]
+4. IT025248 - Komputerisasi Peranggaran 1 (2 SKS) [PP] [cite: 574]
+5. HM025201 - Manajemen Keuangan 1 dan Praktikum (2 SKS) [PP] [cite: 574]
+6. IT025265 - Manajemen Sumber Daya Manusia (2 SKS) [cite: 574]
+7. IT025218 - Perdagangan Internasional (2 SKS) [cite: 574]
+8. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS) [TT] [cite: 574]
+9. IT000211 - Social Networking dan Creative Content (2 SKS) [TT] [cite: 574]
+10. IT025202 - Statistika 1 dan Praktikum (2 SKS) [UU] [PP] [cite: 574]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3DF01, 3DF02 ===
+Total SKS: 20 SKS [cite: 580]
+Daftar Mata Kuliah:
+1. IT025262 - Akuntansi Biaya dan Praktikum (2 SKS) [UU] [PP] [cite: 580]
+2. IT025264 - Akuntansi Manajemen dan Praktikum (2 SKS) [PP] [cite: 580]
+3. HM025215 - Analisis Laporan Keuangan (2 SKS) [UU] [cite: 580]
+4. HM025214 - Asuransi dan Manajemen Risiko 2 (2 SKS) [cite: 580]
+5. HM025208 - Komputerisasi Lembaga Keuangan Perbankan (2 SKS) [cite: 580]
+6. IT025243 - Manajemen Investasi (2 SKS) [cite: 580]
+7. IT025235 - Manajemen Perkreditan (2 SKS) [cite: 580]
+8. IT025216 - Perpajakan dan Praktikum (2 SKS) [PP] [cite: 580]
+9. IT025206 - Sistem Informasi Bisnis Keuangan (2 SKS) [UU] [cite: 580]
+10. IT025201 - Studi Kelayakan Bisnis dan Praktikum (2 SKS) [PP] [cite: 580]

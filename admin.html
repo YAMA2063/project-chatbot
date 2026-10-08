@@ -1,0 +1,1662 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel · Chatbot Gunadarma</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0d0d0f;
+            --surface: #141416;
+            --surface-2: #1c1c1f;
+            --surface-3: #242428;
+            --border: rgba(255, 255, 255, 0.07);
+            --border-accent: rgba(124, 58, 237, 0.3);
+            --text: #e8e8ec;
+            --text-muted: #6b6b7a;
+            --text-dim: #9494a4;
+            --accent: #7c3aed;
+            --accent-2: #a855f7;
+            --accent-glow: rgba(124, 58, 237, 0.25);
+            --accent-bg: rgba(124, 58, 237, 0.08);
+            --red: #ef4444;
+            --green: #10b981;
+            --blue: #3b82f6;
+        }
+
+        body.light {
+            --bg: #f5f5f7;
+            --surface: #ffffff;
+            --surface-2: #f0f0f3;
+            --surface-3: #e8e8ed;
+            --border: rgba(0, 0, 0, 0.08);
+            --border-accent: rgba(124, 58, 237, 0.25);
+            --text: #1a1a1e;
+            --text-muted: #8e8e9e;
+            --text-dim: #5c5c6e;
+            --accent: #7c3aed;
+            --accent-2: #9333ea;
+            --accent-glow: rgba(124, 58, 237, 0.12);
+            --accent-bg: rgba(124, 58, 237, 0.07);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'DM Sans', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        ::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--surface-3);
+            border-radius: 99px;
+        }
+
+        /* ─── LOGIN SCREEN ─── */
+        .login-screen {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: radial-gradient(ellipse at 50% 0%, rgba(124, 58, 237, 0.1) 0%, transparent 60%);
+        }
+
+        .login-box {
+            background: var(--surface);
+            border: 1px solid var(--border-accent);
+            border-radius: 20px;
+            padding: 40px;
+            width: 100%;
+            max-width: 400px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6), 0 0 40px rgba(124, 58, 237, 0.05);
+        }
+
+        .login-logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 28px;
+        }
+
+        .login-logo img {
+            width: 40px;
+            height: 40px;
+            border-radius: 10px;
+            background: white;
+            padding: 3px;
+            object-fit: contain;
+        }
+
+        .login-logo-text {
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--text);
+            line-height: 1.3;
+        }
+
+        .login-logo-text span {
+            display: block;
+            font-size: 11px;
+            font-weight: 400;
+            color: var(--accent-2);
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+
+        .login-title {
+            font-size: 22px;
+            font-weight: 600;
+            margin-bottom: 6px;
+        }
+
+        .login-sub {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-bottom: 28px;
+        }
+
+        .form-group {
+            margin-bottom: 16px;
+        }
+
+        .form-label {
+            display: block;
+            font-size: 12.5px;
+            font-weight: 500;
+            color: var(--text-dim);
+            margin-bottom: 7px;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+        }
+
+        .form-input {
+            width: 100%;
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 11px 14px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 14px;
+            color: var(--text);
+            outline: none;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        .form-input:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px var(--accent-glow);
+        }
+
+        .form-input::placeholder {
+            color: var(--text-muted);
+        }
+
+        .btn-primary {
+            width: 100%;
+            background: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            padding: 12px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            margin-top: 8px;
+        }
+
+        .btn-primary:hover {
+            background: var(--accent-2);
+            box-shadow: 0 4px 20px var(--accent-glow);
+            transform: translateY(-1px);
+        }
+
+        .btn-primary:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .btn-link {
+            background: none;
+            border: none;
+            color: var(--accent-2);
+            font-family: 'DM Sans', sans-serif;
+            font-size: 13px;
+            cursor: pointer;
+            padding: 0;
+            text-decoration: underline;
+            text-underline-offset: 3px;
+        }
+
+        .btn-link:hover {
+            color: var(--accent);
+        }
+
+        .forgot-link {
+            text-align: center;
+            margin-top: 16px;
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .alert {
+            padding: 10px 14px;
+            border-radius: 9px;
+            font-size: 13px;
+            margin-bottom: 16px;
+            display: none;
+        }
+
+        .alert.error {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid rgba(239, 68, 68, 0.2);
+            color: #fca5a5;
+        }
+
+        .alert.success {
+            background: rgba(16, 185, 129, 0.1);
+            border: 1px solid rgba(16, 185, 129, 0.2);
+            color: #6ee7b7;
+        }
+
+        .alert.show {
+            display: block;
+        }
+
+        /* ─── DASHBOARD ─── */
+        .dashboard {
+            display: none;
+            min-height: 100vh;
+        }
+
+        .dashboard.show {
+            display: block;
+        }
+
+        .topbar {
+            background: var(--surface);
+            border-bottom: 1px solid var(--border-accent);
+            padding: 14px 28px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .topbar-left {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .topbar-logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .topbar-logo img {
+            width: 30px;
+            height: 30px;
+            border-radius: 8px;
+            background: white;
+            padding: 2px;
+            object-fit: contain;
+        }
+
+        .topbar-title {
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        .topbar-right {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-theme {
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            color: var(--text-dim);
+            width: 36px;
+            height: 36px;
+            border-radius: 9px;
+            cursor: pointer;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.15s;
+        }
+
+        .btn-theme:hover {
+            background: var(--accent-bg);
+            border-color: var(--border-accent);
+            color: var(--accent-2);
+        }
+
+        .btn-logout {
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            color: var(--text-dim);
+            padding: 8px 16px;
+            border-radius: 9px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 13px;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .btn-logout:hover {
+            color: var(--red);
+            border-color: rgba(239, 68, 68, 0.3);
+            background: rgba(239, 68, 68, 0.05);
+        }
+
+        .main {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 32px 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+        }
+
+        /* ─── CARDS ─── */
+        .card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: background 0.3s, border-color 0.3s;
+        }
+
+        .card-header {
+            padding: 18px 22px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .card-title {
+            font-size: 14px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .card-icon {
+            width: 28px;
+            height: 28px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+        }
+
+        .card-icon.purple {
+            background: var(--accent-bg);
+        }
+
+        .card-icon.blue {
+            background: rgba(59, 130, 246, 0.1);
+        }
+
+        .card-icon.green {
+            background: rgba(16, 185, 129, 0.1);
+        }
+
+        .card-icon.red {
+            background: rgba(239, 68, 68, 0.1);
+        }
+
+        .card-body {
+            padding: 22px;
+        }
+
+        /* ─── SINKRONISASI ─── */
+        .sync-desc {
+            font-size: 13.5px;
+            color: var(--text-dim);
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+
+        .btn-sync {
+            background: linear-gradient(135deg, var(--accent), #6d28d9);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            padding: 11px 24px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-sync:hover {
+            box-shadow: 0 4px 20px var(--accent-glow);
+            transform: translateY(-1px);
+            background: linear-gradient(135deg, var(--accent-2), var(--accent));
+        }
+
+        .btn-sync:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .sync-status {
+            margin-top: 12px;
+            font-size: 13px;
+            display: none;
+        }
+
+        .sync-status.show {
+            display: block;
+        }
+
+        .sync-status.loading {
+            color: var(--accent-2);
+        }
+
+        .sync-status.success {
+            color: var(--green);
+        }
+
+        .sync-status.error {
+            color: var(--red);
+        }
+
+        /* ─── UPLOAD ─── */
+        .upload-notice {
+            background: var(--accent-bg);
+            border: 1px solid var(--border-accent);
+            border-radius: 10px;
+            padding: 12px 16px;
+            font-size: 13px;
+            color: var(--accent-2);
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+
+        .upload-notice strong {
+            font-weight: 600;
+        }
+
+        .upload-area {
+            border: 2px dashed var(--border);
+            border-radius: 12px;
+            padding: 28px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s;
+            position: relative;
+        }
+
+        .upload-area:hover,
+        .upload-area.dragover {
+            border-color: var(--accent);
+            background: var(--accent-bg);
+        }
+
+        .upload-area input[type="file"] {
+            position: absolute;
+            inset: 0;
+            opacity: 0;
+            cursor: pointer;
+        }
+
+        .upload-icon {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .upload-text {
+            font-size: 14px;
+            color: var(--text-dim);
+        }
+
+        .upload-text strong {
+            color: var(--text);
+        }
+
+        .upload-hint {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: 4px;
+        }
+
+        .btn-upload {
+            background: var(--surface-2);
+            border: 1px solid var(--border-accent);
+            color: var(--accent-2);
+            padding: 10px 20px;
+            border-radius: 9px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 13.5px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            margin-top: 14px;
+            display: none;
+        }
+
+        .btn-upload:hover {
+            background: var(--accent-bg);
+        }
+
+        .btn-upload.show {
+            display: inline-block;
+        }
+
+        .btn-upload:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .upload-filename {
+            font-size: 13px;
+            color: var(--text-dim);
+            margin-top: 8px;
+            font-family: 'DM Mono', monospace;
+        }
+
+        /* ─── TABEL DOKUMEN ─── */
+        .doc-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .doc-table th {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            color: var(--text-muted);
+            padding: 10px 14px;
+            text-align: left;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .doc-table td {
+            padding: 11px 14px;
+            font-size: 13.5px;
+            border-bottom: 1px solid var(--border);
+            vertical-align: middle;
+        }
+
+        .doc-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .doc-table tbody tr {
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+
+        .doc-table tbody tr:hover td {
+            background: var(--surface-2);
+        }
+
+        .doc-name {
+            font-family: 'DM Mono', monospace;
+            font-size: 12.5px;
+            color: var(--text);
+        }
+
+        .doc-size {
+            color: var(--text-muted);
+            font-size: 12.5px;
+        }
+
+        .btn-hapus {
+            background: rgba(239, 68, 68, 0.08);
+            border: 1px solid rgba(239, 68, 68, 0.15);
+            color: #fca5a5;
+            padding: 5px 12px;
+            border-radius: 7px;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 12.5px;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .btn-hapus:hover {
+            background: rgba(239, 68, 68, 0.15);
+            color: var(--red);
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 32px;
+            color: var(--text-muted);
+            font-size: 13.5px;
+        }
+
+        .doc-count {
+            font-size: 12px;
+            color: var(--text-muted);
+            font-family: 'DM Mono', monospace;
+        }
+
+        /* ─── PAGINATION ─── */
+        .pagination-wrap {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 14px 22px;
+            border-top: 1px solid var(--border);
+        }
+
+        .pagination-info {
+            font-size: 12px;
+            color: var(--text-muted);
+            font-family: 'DM Mono', monospace;
+        }
+
+        .pagination-controls {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .btn-page-nav {
+            background: var(--surface-2);
+            border: 1px solid var(--border);
+            color: var(--text-dim);
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.15s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'DM Sans', sans-serif;
+        }
+
+        .btn-page-nav:hover:not(:disabled) {
+            border-color: var(--accent);
+            color: var(--accent-2);
+            background: var(--accent-bg);
+        }
+
+        .btn-page-nav:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .page-numbers {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .page-btn {
+            width: 32px;
+            height: 32px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            background: transparent;
+            color: var(--text-dim);
+            font-family: 'DM Mono', monospace;
+            font-size: 12.5px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.15s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .page-btn:hover:not(.active) {
+            border-color: rgba(124, 58, 237, 0.4);
+            color: var(--accent-2);
+        }
+
+        .page-btn.active {
+            background: var(--accent);
+            border-color: var(--accent);
+            color: white;
+            font-weight: 700;
+            box-shadow: 0 2px 10px var(--accent-glow);
+        }
+
+        /* ─── VIEWER MODAL ─── */
+        .viewer-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.8);
+            backdrop-filter: blur(6px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.2s;
+        }
+
+        .viewer-overlay.show {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .viewer-box {
+            background: var(--surface);
+            border: 1px solid var(--border-accent);
+            border-radius: 16px;
+            width: 90%;
+            max-width: 700px;
+            max-height: 82vh;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 24px 80px rgba(0, 0, 0, 0.7);
+            transform: scale(0.96) translateY(10px);
+            transition: transform 0.22s;
+            overflow: hidden;
+        }
+
+        .viewer-overlay.show .viewer-box {
+            transform: scale(1) translateY(0);
+        }
+
+        .viewer-header {
+            padding: 16px 20px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-shrink: 0;
+        }
+
+        .viewer-filename {
+            font-family: 'DM Mono', monospace;
+            font-size: 13px;
+            color: var(--accent-2);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .viewer-close {
+            background: var(--surface-3);
+            border: 1px solid var(--border);
+            color: var(--text-dim);
+            width: 30px;
+            height: 30px;
+            border-radius: 7px;
+            cursor: pointer;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.15s;
+            flex-shrink: 0;
+        }
+
+        .viewer-close:hover {
+            color: var(--red);
+            border-color: rgba(239, 68, 68, 0.3);
+        }
+
+        .viewer-content {
+            overflow-y: auto;
+            padding: 20px;
+            flex: 1;
+        }
+
+        .viewer-text {
+            font-family: 'DM Mono', monospace;
+            font-size: 12.5px;
+            line-height: 1.8;
+            color: var(--text-dim);
+            white-space: pre-wrap;
+            word-break: break-word;
+        }
+
+        .viewer-loading {
+            text-align: center;
+            padding: 40px;
+            color: var(--text-muted);
+            font-size: 13px;
+        }
+
+        .viewer-error {
+            text-align: center;
+            padding: 40px;
+            color: #fca5a5;
+            font-size: 13px;
+        }
+
+        .viewer-hint {
+            font-size: 11.5px;
+            color: var(--text-muted);
+            font-family: 'DM Mono', monospace;
+        }
+
+        /* ─── GANTI PASSWORD ─── */
+        .password-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 14px;
+            align-items: end;
+        }
+
+        @media (max-width: 640px) {
+            .password-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* ─── MODAL HAPUS ─── */
+        .modal-overlay {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.7);
+            backdrop-filter: blur(4px);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 999;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.2s;
+        }
+
+        .modal-overlay.show {
+            opacity: 1;
+            pointer-events: all;
+        }
+
+        .modal-box {
+            background: var(--surface-2);
+            border: 1px solid var(--border-accent);
+            border-radius: 16px;
+            padding: 28px;
+            max-width: 380px;
+            width: 90%;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
+            transform: scale(0.95) translateY(8px);
+            transition: transform 0.2s;
+        }
+
+        .modal-overlay.show .modal-box {
+            transform: scale(1) translateY(0);
+        }
+
+        .modal-icon {
+            font-size: 28px;
+            margin-bottom: 14px;
+        }
+
+        .modal-title {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .modal-desc {
+            font-size: 13.5px;
+            color: var(--text-dim);
+            line-height: 1.6;
+            margin-bottom: 22px;
+        }
+
+        .modal-desc strong {
+            color: var(--text);
+        }
+
+        .modal-actions {
+            display: flex;
+            gap: 8px;
+            justify-content: flex-end;
+        }
+
+        .modal-btn {
+            padding: 9px 20px;
+            border-radius: 9px;
+            border: 1px solid var(--border);
+            font-family: 'DM Sans', sans-serif;
+            font-size: 13.5px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.15s;
+        }
+
+        .modal-btn.cancel {
+            background: var(--surface-3);
+            color: var(--text-dim);
+        }
+
+        .modal-btn.cancel:hover {
+            color: var(--text);
+        }
+
+        .modal-btn.danger {
+            background: var(--red);
+            color: white;
+            border-color: var(--red);
+        }
+
+        .modal-btn.danger:hover {
+            background: #dc2626;
+        }
+
+        .loading-spin {
+            display: inline-block;
+            width: 14px;
+            height: 14px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-top-color: white;
+            border-radius: 50%;
+            animation: spin 0.7s linear infinite;
+            vertical-align: middle;
+            margin-right: 6px;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        .watermark {
+            position: fixed;
+            bottom: 12px;
+            right: 16px;
+            font-size: 10.5px;
+            color: var(--text-muted);
+            font-family: 'DM Mono', monospace;
+            opacity: 0.4;
+            pointer-events: none;
+            text-align: right;
+            line-height: 1.6;
+        }
+
+        .dblclick-hint {
+            font-size: 11.5px;
+            color: var(--text-muted);
+            padding: 8px 14px 0;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- ─── LOGIN SCREEN ─── -->
+    <div class="login-screen" id="loginScreen">
+        <div class="login-box">
+            <div class="login-logo">
+                <img src="https://upload.wikimedia.org/wikipedia/id/1/19/Logo_Gunadarma.jpg" alt="Gunadarma">
+                <div class="login-logo-text">
+                    Admin Panel
+                    <span>Universitas Gunadarma</span>
+                </div>
+            </div>
+
+            <!-- Form Login Utama -->
+            <div id="loginFormMain">
+                <div class="login-title">Selamat Datang</div>
+                <div class="login-sub">Masuk untuk mengelola dokumen chatbot</div>
+                <div class="alert error" id="loginAlert"></div>
+                <div class="form-group">
+                    <label class="form-label">Username</label>
+                    <input type="text" class="form-input" id="loginUsername" placeholder="Masukkan username"
+                        autocomplete="off">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Password</label>
+                    <input type="password" class="form-input" id="loginPassword" placeholder="Masukkan password">
+                </div>
+                <button class="btn-primary" id="loginBtn" onclick="doLogin()">Masuk</button>
+                <div class="forgot-link">
+                    Lupa password? <button class="btn-link" onclick="showForgotPassword()">Reset via Email</button>
+                </div>
+            </div>
+
+            <!-- Form Lupa Password - Kirim OTP -->
+            <div id="forgotForm" style="display:none">
+                <div class="login-title">Reset Password</div>
+                <div class="login-sub">Kode OTP akan dikirim ke email admin yang terdaftar</div>
+                <div class="alert error" id="otpSendAlert"></div>
+                <div class="alert success" id="otpSendSuccess"></div>
+                <button class="btn-primary" id="sendOtpBtn" onclick="kirimOTP()">Kirim Kode OTP ke Email</button>
+                <div class="forgot-link" style="margin-top:12px">
+                    <button class="btn-link" onclick="showLoginForm()">← Kembali ke Login</button>
+                </div>
+            </div>
+
+            <!-- Form Verifikasi OTP -->
+            <div id="verifyForm" style="display:none">
+                <div class="login-title">Masukkan Kode OTP</div>
+                <div class="login-sub" id="otpSubtitle">Masukkan kode 6 digit yang dikirim ke email Anda</div>
+                <div class="alert error" id="otpVerifyAlert"></div>
+                <div class="alert success" id="otpVerifySuccess"></div>
+                <div class="form-group">
+                    <label class="form-label">Kode OTP</label>
+                    <input type="text" class="form-input" id="otpInput" placeholder="000000" maxlength="6"
+                        autocomplete="off">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Password Baru</label>
+                    <input type="password" class="form-input" id="newPasswordOtp" placeholder="Masukkan password baru">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Konfirmasi Password Baru</label>
+                    <input type="password" class="form-input" id="confirmPasswordOtp"
+                        placeholder="Ulangi password baru">
+                </div>
+                <button class="btn-primary" id="verifyOtpBtn" onclick="verifikasiOTP()">Reset Password</button>
+                <div class="forgot-link" style="margin-top:12px">
+                    <button class="btn-link" onclick="showForgotPassword()">← Kirim ulang OTP</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ─── DASHBOARD ─── -->
+    <div class="dashboard" id="dashboard">
+        <div class="topbar">
+            <div class="topbar-left">
+                <div class="topbar-logo">
+                    <img src="https://upload.wikimedia.org/wikipedia/id/1/19/Logo_Gunadarma.jpg" alt="Gunadarma">
+                    <span class="topbar-title">Admin Panel</span>
+                </div>
+            </div>
+            <div class="topbar-right">
+                <button class="btn-theme" id="themeBtn" onclick="toggleTheme()" title="Ganti Tema"><i
+                        class="fa-solid fa-moon"></i></button>
+                <button class="btn-logout" onclick="doLogout()">Keluar</button>
+            </div>
+        </div>
+
+        <div class="main">
+
+            <!-- Sinkronisasi -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">
+                        <div class="card-icon purple"><i class="fa-solid fa-rotate"></i></div>
+                        Sinkronisasi Vektor Database
+                    </div>
+                </div>
+                <div class="card-body">
+                    <p class="sync-desc">Sistem sekarang menggunakan <strong>Incremental Indexing</strong>: hanya file baru, diubah, atau dihapus yang akan diproses secara otomatis (hanya butuh beberapa detik). Anda tidak perlu lagi menunggu rebuild total yang lama.</p>
+                    <button class="btn-sync" id="syncBtn" onclick="doSinkronisasi()">
+                        <i class="fa-solid fa-rotate"></i> Sinkronisasi Sekarang
+                    </button>
+                    <div class="sync-status" id="syncStatus"></div>
+                </div>
+            </div>
+
+            <!-- Upload Dokumen -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">
+                        <div class="card-icon blue"><i class="fa-solid fa-arrow-up-from-bracket"></i></div>
+                        Upload Dokumen
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="upload-notice">
+                        <i class="fa-solid fa-triangle-exclamation"></i> <strong>Perhatian untuk Admin:</strong> Anda
+                        sekarang bisa langsung mengunggah file <strong>.pdf</strong> atau <strong>.txt</strong>. Jika
+                        Anda mengunggah PDF, sistem AI akan secara otomatis mengekstrak dan merestrukturisasi isinya
+                        (termasuk tabel) menjadi teks yang rapi.
+                    </div>
+                    <div class="upload-area" id="uploadArea">
+                        <input type="file" accept=".pdf,.txt" id="fileInput" onchange="onFileSelected(this)">
+                        <div class="upload-icon"><i class="fa-solid fa-file-lines"></i></div>
+                        <div class="upload-text"><strong>Klik untuk pilih file</strong> atau seret ke sini</div>
+                        <div class="upload-hint">Mendukung .pdf dan .txt · Maksimal 10MB</div>
+                    </div>
+                    <div class="upload-filename" id="uploadFilename"></div>
+                    <button class="btn-upload" id="uploadBtn" onclick="doUpload()">Upload File</button>
+                    <div class="alert error" id="uploadAlert" style="margin-top:12px"></div>
+                    <div class="alert success" id="uploadSuccess" style="margin-top:12px"></div>
+                </div>
+            </div>
+
+            <!-- Daftar Dokumen -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">
+                        <div class="card-icon green"><i class="fa-solid fa-folder"></i></div>
+                        Daftar Dokumen
+                    </div>
+                    <span class="doc-count" id="docCount"
+                        style="color: var(--accent); background: var(--accent-bg); padding: 4px 10px; border-radius: 20px; font-weight: 600;">Memuat...</span>
+                </div>
+                <div class="dblclick-hint" id="dblclickHint"
+                    style="display:none; color: var(--accent-2); font-weight: 500;">
+                    <i class="fa-solid fa-lightbulb"></i> Klik dua kali pada baris dokumen untuk membuka isinya
+                </div>
+                <div class="card-body" style="padding:0">
+                    <div id="docTableWrap">
+                        <div class="empty-state">Memuat daftar dokumen...</div>
+                    </div>
+                </div>
+                <div class="pagination-wrap" id="paginationWrap" style="display:none">
+                    <span class="pagination-info" id="paginationInfo"></span>
+                    <div class="pagination-controls">
+                        <button class="btn-page-nav" id="btnPrev" onclick="goPage(currentPage - 1)"
+                            title="Sebelumnya">&#8592;</button>
+                        <div class="page-numbers" id="pageNumbers"></div>
+                        <button class="btn-page-nav" id="btnNext" onclick="goPage(currentPage + 1)"
+                            title="Selanjutnya">&#8594;</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Ganti Password -->
+            <div class="card">
+                <div class="card-header">
+                    <div class="card-title">
+                        <div class="card-icon purple"><i class="fa-solid fa-key"></i></div>
+                        Ganti Password
+                    </div>
+                </div>
+                <div class="card-body">
+                    <div class="alert error" id="pwAlert"></div>
+                    <div class="alert success" id="pwSuccess"></div>
+                    <div class="password-grid">
+                        <div class="form-group" style="margin:0">
+                            <label class="form-label">Password Lama</label>
+                            <input type="password" class="form-input" id="pwLama" placeholder="Password saat ini">
+                        </div>
+                        <div class="form-group" style="margin:0">
+                            <label class="form-label">Password Baru</label>
+                            <input type="password" class="form-input" id="pwBaru" placeholder="Password baru">
+                        </div>
+                        <div class="form-group" style="margin:0">
+                            <label class="form-label">Konfirmasi</label>
+                            <input type="password" class="form-input" id="pwKonfirmasi"
+                                placeholder="Ulangi password baru">
+                        </div>
+                    </div>
+                    <button class="btn-primary" style="margin-top:16px;" onclick="doGantiPassword()">
+                        <i class="fa-solid fa-key"></i> Simpan Password Baru
+                    </button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Modal Konfirmasi Hapus -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal-box">
+            <div class="modal-icon"><i class="fa-solid fa-trash"></i></div>
+            <div class="modal-title">Hapus Dokumen</div>
+            <div class="modal-desc">File <strong id="modalFileName"></strong> akan dihapus permanen. Tindakan ini tidak
+                dapat dibatalkan.</div>
+            <div class="modal-actions">
+                <button class="modal-btn cancel" onclick="closeModal()">Batal</button>
+                <button class="modal-btn danger" id="modalConfirmBtn">Hapus</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Viewer Modal -->
+    <div class="viewer-overlay" id="viewerOverlay">
+        <div class="viewer-box">
+            <div class="viewer-header">
+                <div class="viewer-filename">
+                    <span><i class="fa-solid fa-file-lines"></i></span>
+                    <span id="viewerFilename">—</span>
+                </div>
+                <div style="display:flex;align-items:center;gap:10px">
+                    <span class="viewer-hint">Klik di luar untuk tutup</span>
+                    <button class="viewer-close" onclick="closeViewer()">✕</button>
+                </div>
+            </div>
+            <div class="viewer-content">
+                <div id="viewerBody"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="watermark"><!--© 2026 · Muhammad Thufeil Putrayama<br>11122006 --></div>
+
+    <script>
+        const API = 'http://127.0.0.1:8000';
+        let token = sessionStorage.getItem('adminToken') || null;
+
+        // ─── THEME ───
+        let isDark = true;
+
+        function toggleTheme() {
+            isDark = !isDark;
+            document.body.classList.toggle('light', !isDark);
+            document.getElementById('themeBtn').innerHTML = isDark ? '<i class="fa-solid fa-moon"></i>' : '<i class="fa-solid fa-sun"></i>';
+            localStorage.setItem('adminTheme', isDark ? 'dark' : 'light');
+        }
+
+        // Restore saved theme
+        const savedTheme = localStorage.getItem('adminTheme');
+        if (savedTheme === 'light') {
+            isDark = false;
+            document.body.classList.add('light');
+            // Set after DOM ready
+            window.addEventListener('DOMContentLoaded', () => {
+                document.getElementById('themeBtn').innerHTML = '<i class="fa-solid fa-sun"></i>';
+            });
+        }
+
+        // ─── PAGINATION STATE ───
+        const PAGE_SIZE = 15;
+        let currentPage = 1;
+        let allFiles = [];
+
+        window.onload = () => {
+            if (savedTheme === 'light') {
+                document.getElementById('themeBtn').innerHTML = '<i class="fa-solid fa-sun"></i>';
+            }
+            if (token) showDashboard();
+        };
+
+        function showAlert(id, msg) {
+            const el = document.getElementById(id);
+            el.innerHTML = msg;
+            el.classList.add('show');
+        }
+
+        function hideAlert(id) {
+            document.getElementById(id).classList.remove('show');
+        }
+
+        // ─── LOGIN ───
+        async function doLogin() {
+            const username = document.getElementById('loginUsername').value.trim();
+            const password = document.getElementById('loginPassword').value;
+            if (!username || !password) return showAlert('loginAlert', 'Username dan password wajib diisi');
+            hideAlert('loginAlert');
+            const btn = document.getElementById('loginBtn');
+            btn.disabled = true;
+            btn.innerHTML = '<span class="loading-spin"></span>Memverifikasi...';
+            try {
+                const fd = new FormData();
+                fd.append('username', username);
+                fd.append('password', password);
+                const res = await fetch(`${API}/admin/login`, { method: 'POST', body: fd });
+                const data = await res.json();
+                if (!res.ok) throw new Error(data.detail);
+                token = data.token;
+                sessionStorage.setItem('adminToken', token);
+                showDashboard();
+            } catch (e) {
+                showAlert('loginAlert', e.message || 'Login gagal');
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = 'Masuk';
+            }
+        }
+
+        document.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter' && document.getElementById('loginScreen').style.display !== 'none') {
+                if (document.getElementById('loginFormMain').style.display !== 'none') doLogin();
+            }
+        });
+
+        function doLogout() {
+            token = null;
+            sessionStorage.removeItem('adminToken');
+            document.getElementById('dashboard').classList.remove('show');
+            document.getElementById('loginScreen').style.display = 'flex';
+            showLoginForm();
+        }
+
+        function showDashboard() {
+            document.getElementById('loginScreen').style.display = 'none';
+            document.getElementById('dashboard').classList.add('show');
+            loadDokumen();
+        }
+
+        // ─── FORGOT PASSWORD ───
+        function showForgotPassword() {
+            document.getElementById('loginFormMain').style.display = 'none';
+            document.getElementById('verifyForm').style.display = 'none';
+            document.getElementById('forgotForm').style.display = 'block';
+            hideAlert('otpSendAlert');
+            hideAlert('otpSendSuccess');
+        }
+
+        function showLoginForm() {
+            document.getElementById('forgotForm').style.display = 'none';
+            document.getElementById('verifyForm').style.display = 'none';
+            document.getElementById('loginFormMain').style.display = 'block';
+        }
+
+        async function kirimOTP() {
+            const btn = document.getElementById('sendOtpBtn');
+            btn.disabled = true;
+            btn.innerHTML = '<span class="loading-spin"></span>Mengirim...';
+            hideAlert('otpSendAlert');
+            hideAlert('otpSendSuccess');
+            try {
+                const res = await fetch(`${API}/admin/kirim-otp`, { method: 'POST' });
+                const data = await res.json();
+                if (!res.ok) throw new Error(data.detail);
+                showAlert('otpSendSuccess', '<i class="fa-solid fa-check"></i> ' + data.message);
+                setTimeout(() => {
+                    document.getElementById('forgotForm').style.display = 'none';
+                    document.getElementById('verifyForm').style.display = 'block';
+                }, 1500);
+            } catch (e) {
+                showAlert('otpSendAlert', e.message || 'Gagal mengirim OTP');
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = 'Kirim Kode OTP ke Email';
+            }
+        }
+
+        async function verifikasiOTP() {
+            const otp = document.getElementById('otpInput').value.trim();
+            const pw = document.getElementById('newPasswordOtp').value;
+            const pw2 = document.getElementById('confirmPasswordOtp').value;
+            hideAlert('otpVerifyAlert');
+            hideAlert('otpVerifySuccess');
+            if (!otp || !pw || !pw2) return showAlert('otpVerifyAlert', 'Semua field wajib diisi');
+            if (pw !== pw2) return showAlert('otpVerifyAlert', 'Konfirmasi password tidak cocok');
+            const btn = document.getElementById('verifyOtpBtn');
+            btn.disabled = true;
+            btn.innerHTML = '<span class="loading-spin"></span>Memverifikasi...';
+            try {
+                const fd = new FormData();
+                fd.append('otp', otp);
+                fd.append('password_baru', pw);
+                const res = await fetch(`${API}/admin/verifikasi-otp`, { method: 'POST', body: fd });
+                const data = await res.json();
+                if (!res.ok) throw new Error(data.detail);
+                showAlert('otpVerifySuccess', '<i class="fa-solid fa-check"></i> ' + data.message);
+                setTimeout(() => {
+                    showLoginForm();
+                }, 2000);
+            } catch (e) {
+                showAlert('otpVerifyAlert', e.message || 'Verifikasi gagal');
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = 'Reset Password';
+            }
+        }
+
+        // ─── SINKRONISASI ───
+        async function doSinkronisasi() {
+            const btn = document.getElementById('syncBtn');
+            const status = document.getElementById('syncStatus');
+            btn.disabled = true;
+            btn.innerHTML = '<span class="loading-spin"></span>Menyinkronisasi...';
+            status.className = 'sync-status loading show';
+            status.innerHTML = '<i class="fa-solid fa-hourglass-half"></i> Sedang menyinkronkan database dokumen (incremental)... Harap tunggu sebentar.';
+            try {
+                const res = await fetch(`${API}/admin/sinkronisasi`, {
+                    method: 'POST',
+                    headers: { 'Authorization': `Bearer ${token}` }
+                });
+                const data = await res.json();
+                if (!res.ok) throw new Error(data.detail);
+                status.className = 'sync-status success show';
+                status.innerHTML = '<i class="fa-solid fa-check"></i> ' + data.message;
+            } catch (e) {
+                status.className = 'sync-status error show';
+                status.innerHTML = '<i class="fa-solid fa-xmark"></i> ' + (e.message || 'Sinkronisasi gagal');
+            } finally {
+                btn.disabled = false;
+                btn.innerHTML = '<i class="fa-solid fa-rotate"></i> Sinkronisasi Sekarang';
+            }
+        }
+
+        // ─── UPLOAD ───
+        let selectedFile = null;
+
+        function onFileSelected(input) {
+            selectedFile = input.files[0];
+            if (!selectedFile) return;
+            document.getElementById('uploadFilename').innerHTML = '<i class="fa-solid fa-file-lines"></i> ' + selectedFile.name;
+            document.getElementById('uploadBtn').classList.add('show');
+            hideAlert('uploadAlert');
+            hideAlert('uploadSuccess');
+        }
+
+        const uploadArea = document.getElementById('uploadArea');
+        uploadArea.addEventListener('dragover', (e) => { e.preventDefault(); uploadArea.classList.add('dragover'); });
+        uploadArea.addEventListener('dragleave', () => uploadArea.classList.remove('dragover'));
+        uploadArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            uploadArea.classList.remove('dragover');
+            const file = e.dataTransfer.files[0];
+            if (file) {
+                selectedFile = file;
+                document.getElementById('uploadFilename').innerHTML = '<i class="fa-solid fa-file-lines"></i> ' + file.name;
+                document.getElementById('uploadBtn').classList.add('show');
+            }
+        });
+
+        async function doUpload() {
+            if (!selectedFile) return;
+            if (!selectedFile.name.endsWith('.txt') && !selectedFile.name.endsWith('.pdf')) return showAlert('uploadAlert', 'Hanya file .txt dan .pdf yang diizinkan');
+            const btn = document.getElementById('uploadBtn');
+            btn.disabled = true;
+            btn.textContent = 'Mengupload...';
+            hideAlert('uploadAlert');
+            hideAlert('uploadSuccess');
+            try {
+                const fd = new FormData();
+                fd.append('file', selectedFile);
+                const res = await fetch(`${API}/admin/upload`, {
+                    method: 'POST',
+                    headers: { 'Authorization': `Bearer ${token}` },
+                    body: fd
+                });
+                const data = await res.json();
+                if (!res.ok) throw new Error(data.detail);
+                showAlert('uploadSuccess', '<i class="fa-solid fa-check"></i> ' + data.message + ' — Jangan lupa klik Sinkronisasi!');
+                document.getElementById('uploadFilename').textContent = '';
+                btn.classList.remove('show');
+                selectedFile = null;
+                document.getElementById('fileInput').value = '';
+                loadDokumen();
+            } catch (e) {
+                showAlert('uploadAlert', '<i class="fa-solid fa-xmark"></i> ' + (e.message || 'Upload gagal'));
+            } finally {
+                btn.disabled = false;
+                btn.textContent = 'Upload File';
+            }
+        }
+
+        // ─── DAFTAR DOKUMEN ───
+        async function loadDokumen() {
+            try {
+                const res = await fetch(`${API}/admin/dokumen`, {
+                    headers: { 'Authorization': `Bearer ${token}` }
+                });
+                const data = await res.json();
+                allFiles = data.files;
+                currentPage = 1;
+                renderDokumen();
+            } catch (e) {
+                document.getElementById('docTableWrap').innerHTML = '<div class="empty-state">Gagal memuat dokumen</div>';
+            }
+        }
+
+        function renderDokumen() {
+            const total = allFiles.length;
+            const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+            if (currentPage > totalPages) currentPage = totalPages;
+            if (currentPage < 1) currentPage = 1;
+
+            document.getElementById('docCount').textContent = `${total} file`;
+            document.getElementById('dblclickHint').style.display = total > 0 ? 'flex' : 'none';
+
+            if (total === 0) {
+                document.getElementById('docTableWrap').innerHTML = '<div class="empty-state">Belum ada dokumen di folder data</div>';
+                document.getElementById('paginationWrap').style.display = 'none';
+                return;
+            }
+
+            const start = (currentPage - 1) * PAGE_SIZE;
+            const end = Math.min(start + PAGE_SIZE, total);
+            const pageFiles = allFiles.slice(start, end);
+
+            let html = `<table class="doc-table">
+            <thead><tr>
+                <th>#</th><th>Nama File</th><th>Ukuran</th><th>Aksi</th>
+            </tr></thead><tbody>`;
+
+            pageFiles.forEach((f, i) => {
+                const globalIdx = start + i + 1;
+                html += `<tr ondblclick="openViewer('${escAttr(f.nama)}')" title="Klik dua kali untuk membuka dokumen">
+                <td style="color:var(--text-muted);font-size:12px">${globalIdx}</td>
+                <td><span class="doc-name">${escHtml(f.nama)}</span></td>
+                <td><span class="doc-size">${escHtml(f.ukuran)}</span></td>
+                <td><button class="btn-hapus" onclick="event.stopPropagation(); showHapusModal('${escAttr(f.nama)}')">Hapus</button></td>
+            </tr>`;
+            });
+
+            html += '</tbody></table>';
+            document.getElementById('docTableWrap').innerHTML = html;
+
+            const wrap = document.getElementById('paginationWrap');
+            if (totalPages <= 1) {
+                wrap.style.display = 'none';
+            } else {
+                wrap.style.display = 'flex';
+                document.getElementById('paginationInfo').textContent =
+                    `Menampilkan ${start + 1}–${end} dari ${total} dokumen`;
+                document.getElementById('btnPrev').disabled = currentPage === 1;
+                document.getElementById('btnNext').disabled = currentPage === totalPages;
+
+                const pn = document.getElementById('pageNumbers');
+                pn.innerHTML = '';
+                for (let p = 1; p <= totalPages; p++) {
+                    const btn = document.createElement('button');
+                    btn.className = 'page-btn' + (p === currentPage ? ' active' : '');
+                    btn.textContent = p;
+                    btn.onclick = () => goPage(p);
+                    pn.appendChild(btn);
+                }
+            }
+        }
+
+        function goPage(p) {
+            const totalPages = Math.ceil(allFiles.length / PAGE_SIZE);
+            if (p < 1 || p > totalPages) return;
+            currentPage = p;
+            renderDokumen();
+            document.getElementById('docTableWrap').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+
+        // ─── VIEWER ───
+        async function openViewer(nama) {
+            document.getElementById('viewerFilename').textContent = nama;
+            document.getElementById('viewerBody').innerHTML = '<div class="viewer-loading"><i class="fa-solid fa-hourglass-half"></i> Memuat isi dokumen...</div>';
+            document.getElementById('viewerOverlay').classList.add('show');
+
+            try {
+                const res = await fetch(`${API}/admin/dokumen/baca/${encodeURIComponent(nama)}`, {
+                    headers: { 'Authorization': `Bearer ${token}` }
+                });
+                if (!res.ok) {
+                    const errData = await res.json().catch(() => ({}));
+                    throw new Error(errData.detail || `HTTP ${res.status}`);
+                }
+                const data = await res.json();
+                const isi = data.isi || data.content || '';
+                document.getElementById('viewerBody').innerHTML =
+                    `<pre class="viewer-text">${escHtml(isi)}</pre>`;
+            } catch (e) {
+                document.getElementById('viewerBody').innerHTML =
+                    `<div class="viewer-error"><i class="fa-solid fa-triangle-exclamation"></i> Tidak dapat memuat isi dokumen.<br>
+                <span style="font-size:12px;color:var(--text-muted);margin-top:8px;display:block">${escHtml(e.message)}</span></div>`;
+            }
+        }
+
+        function closeViewer() {
+            document.getElementById('viewerOverlay').classList.remove('show');
+        }
+
+        document.getElementById('viewerOverlay').addEventListener('click', (e) => {
+            if (e.target === document.getElementById('viewerOverlay')) closeViewer();
+        });
+
+        // ─── HAPUS DOKUMEN ───
+        let fileToDelete = null;
+
+        function showHapusModal(nama) {
+            fileToDelete = nama;
+            document.getElementById('modalFileName').textContent = nama;
+            document.getElementById('modalOverlay').classList.add('show');
+            document.getElementById('modalConfirmBtn').onclick = doHapus;
+        }
+
+        function closeModal() {
+            document.getElementById('modalOverlay').classList.remove('show');
+            fileToDelete = null;
+        }
+
+        document.getElementById('modalOverlay').addEventListener('click', (e) => {
+            if (e.target === document.getElementById('modalOverlay')) closeModal();
+        });
+
+        async function doHapus() {
+            if (!fileToDelete) return;
+            const filename = fileToDelete; // Simpan nama file ke variabel lokal dulu
+            closeModal(); // closeModal mereset fileToDelete menjadi null
+            try {
+                const res = await fetch(`${API}/admin/dokumen/${encodeURIComponent(filename)}`, {
+                    method: 'DELETE',
+                    headers: { 'Authorization': `Bearer ${token}` }
+                });
+                const data = await res.json();
+                if (!res.ok) throw new Error(data.detail);
+                allFiles = allFiles.filter(f => f.nama !== filename);
+                renderDokumen();
+            } catch (e) {
+                alert('Gagal hapus: ' + e.message);
+            }
+        }
+
+        // ─── GANTI PASSWORD ───
+        async function doGantiPassword() {
+            const lama = document.getElementById('pwLama').value;
+            const baru = document.getElementById('pwBaru').value;
+            const konfirmasi = document.getElementById('pwKonfirmasi').value;
+            hideAlert('pwAlert');
+            hideAlert('pwSuccess');
+            if (!lama || !baru || !konfirmasi) return showAlert('pwAlert', 'Semua field wajib diisi');
+            if (baru !== konfirmasi) return showAlert('pwAlert', 'Konfirmasi password tidak cocok');
+            if (baru.length < 6) return showAlert('pwAlert', 'Password baru minimal 6 karakter');
+            try {
+                const fd = new FormData();
+                fd.append('password_lama', lama);
+                fd.append('password_baru', baru);
+                const res = await fetch(`${API}/admin/ganti-password`, {
+                    method: 'POST',
+                    headers: { 'Authorization': `Bearer ${token}` },
+                    body: fd
+                });
+                const data = await res.json();
+                if (!res.ok) throw new Error(data.detail);
+                showAlert('pwSuccess', '<i class="fa-solid fa-check"></i> ' + data.message);
+                document.getElementById('pwLama').value = '';
+                document.getElementById('pwBaru').value = '';
+                document.getElementById('pwKonfirmasi').value = '';
+                setTimeout(doLogout, 2000);
+            } catch (e) {
+                showAlert('pwAlert', '<i class="fa-solid fa-xmark"></i> ' + (e.message || 'Gagal ganti password'));
+            }
+        }
+
+        // ─── HELPERS ───
+        function escHtml(str) {
+            return String(str)
+                .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+        }
+
+        function escAttr(str) {
+            return String(str).replace(/'/g, "\\'").replace(/"/g, '&quot;');
+        }
+    </script>
+</body>
+
+</html>

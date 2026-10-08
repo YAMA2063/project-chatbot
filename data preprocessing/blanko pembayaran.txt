@@ -1,0 +1,21 @@
+MENU BLANKO PEMBAYARAN & CARA BAYAR UANG KULIAH (UKT) / KURSUS GUNADARMA
+
+Fitur Blanko Pembayaran di Studentsite digunakan untuk melihat rincian tagihan dan mengunduh bukti blanko untuk melakukan pembayaran. Jenis pembayaran meliputi Uang Kuliah per Semester, Kursus/Workshop (seperti LEPKOM), dan pembayaran kampus lainnya.
+
+Langkah-langkah Cek Rincian dan Mendapatkan Nomor Virtual Account (VA):
+1. Login ke Studentsite Gunadarma (https://studentsite.gunadarma.ac.id).
+2. Pilih menu "Blanko Pembayaran".
+3. Pada halaman tersebut akan tampil tabel berisi daftar tagihan lengkap dengan Nomor Virtual Account (VA), NPM, Nama, Jenis Pembayaran, Keterangan semester, dan Jumlah tagihan.
+4. Klik tombol "[Download Blanko]" pada baris tagihan untuk mengunduh rincian biaya.
+5. Di dalam blanko yang diunduh (Tanda Setoran), terdapat rincian detail seperti Biaya Penyelenggaraan Pendidikan (BPP), biaya SKS, Sertifikasi, Sumbangan, potongan/beasiswa, serta Batas Pembayaran.
+
+Cara Melakukan Pembayaran Menggunakan Virtual Account (VA):
+Nomor Virtual Account (contoh: awalan 990001 diikuti NPM dan kode urut) digunakan sebagai nomor rekening tujuan. Pembayaran resmi ditujukan ke BANK DKI.
+
+Pilihan metode pembayaran:
+- Melalui Teller Bank DKI atau aplikasi JakOne Mobile: Lakukan pembayaran menggunakan Nomor Virtual Account yang tertera di blanko.
+- Melalui Transfer Online dari Bank Lain (BCA, Mandiri, BNI, BRI, m-banking, dll): Pilih "Bank DKI" sebagai bank tujuan transfer, lalu masukkan Nomor Virtual Account milikmu sebagai nomor rekening tujuan.
+
+Catatan Tambahan:
+- Apabila kamu sudah melakukan pembayaran, mohon abaikan blanko atau tagihan tersebut di halaman Studentsite.
+- Jika terdapat kesalahan data atau nominal tagihan, segera hubungi pihak BAAK.

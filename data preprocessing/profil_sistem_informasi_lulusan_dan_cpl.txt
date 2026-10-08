@@ -1,0 +1,45 @@
+=== JURUSAN SISTEM INFORMASI ===
+Topik: Profil Lulusan dan Capaian Pembelajaran Program Studi Sistem Informasi
+URL Asli: https://fikti.gunadarma.ac.id/sisinformasi/?page_id=2710
+
+KONTEN:
+
+## PROFIL LULUSAN SISTEM INFORMASI
+Profil Lulusan atau Profil Profesional Mandiri Program Studi Sistem Informasi mencakup kemampuan dalam mengembangkan (termasuk pemrograman) dan mengelola Sistem Informasi, merancang dan mengelola basisdata dalam skala besar, kemampuan manajerial, serta kemampuan pengembangan diri dan sikap. Berikut adalah profil lulusan program studi Sistem Informasi:
+- PPM-1: Memiliki kemampuan merancang, menganalisis, mengimplementasikan serta melakukan pengukuran kinerja sebuah sistem Informasi menggunakan metode, teknik, alat, dan bahasa pemrograman yang mutakhir.
+- PPM-2: Memiliki kemampuan merancang, mengimplementasikan, mengelola serta melakukan analisis basis data berskala besar (ukuran, kecepatan, ragam) yang sesuai dengan kebutuhan serta perkembangan teknologi Informasi.
+- PPM-3: Memiliki kemampuan manajemen layanan teknologi sistem informasi sebuah organisasi umum, organisasi pemerintahan maupun organisasi bisnis untuk menjamin kualitas layanan, kebutuhan dan tantangan organisasi.
+- PPM-4: Memiliki kemampuan menerapkan sikap logis, kritis, sistematis, dan inovatif dalam konteks pengembangan atau implementasi ilmu pengetahuan dan teknologi yang memperhatikan dan menerapkan nilai humaniora yang sesuai dengan bidang Sistem Informasi dengan menjunjung tinggi nilai, norma dan etika yang berlaku.
+- PPM-5: Memiliki integritas, berwawasan global dan kemampuan untuk membangun jejaring luas baik lokal maupun global dan terus menerus mengembangkan pengetahuan dan ketrampilan secara berkelanjutan serta mampu mengimplementasikannya dalam lingkup akademis maupun non akademis.
+
+## CAPAIAN PEMBELAJARAN LULUSAN (CPL) SISTEM INFORMASI
+- CPL-01: Mampu menguasai dan mengimplementasikan metode, prinsip dan teknik pemrograman, pengembangan sistem, pengelolaan proyek sistem informasi, manajemen layanan teknologi informasi dan keamanan sistem informasi.
+- CPL-02: Mampu menguasai konsep teoritis informasi, sistem informasi, algoritma dan pemrograman, Enterprise Architecture Frameworks secara mendalam.
+- CPL-03: Mampu menguasai dan mengimplementasikan metode, prinsip dan teknik pemrograman, pengembangan sistem, pengelolaan proyek sistem informasi, manajemen layanan teknologi informasi dan keamanan sistem informasi.
+- CPL-04: Mampu menerapkan pemikiran logis, kritis, sistematis, dan inovatif dalam konteks pengembangan sistem dan pengelolaan sistem informasi dengan memperhatikan dan menerapkan nilai humaniora yang sesuai dengan bidang Sistem Informasi.
+- CPL-05: Mampu mengidentifikasi, menganalisis, dan mendokumentasikan risiko serta dampak proyek sistem informasi terhadap organisasi, aktivitas bisnis, masyarakat, maupun individu berdasarkan hasil kajian, sekaligus menawarkan alternatif solusi pemecahan, serta mampu melakukan analisis, penentuan kebutuhan, dan implementasi keamanan sistem informasi organisasi sesuai dengan regulasi dan standar keamanan yang berlaku.
+- CPL-06: Mampu mengidentifikasi dan menginterpretasikan program komputer dari suatu aplikasi perangkat lunak, serta mampu membuat dokumentasinya sesuai dengan standar dokumentasi program yang berlaku.
+- CPL-07: Mampu mengidentifikasi dan menginterpretasikan program komputer dari suatu aplikasi perangkat lunak, serta mampu membuat dokumentasinya sesuai dengan standar dokumentasi program yang berlaku.
+- CPL-08: Mampu mengidentifikasi dan merancang beberapa model basis data dengan mengunakan beberapa teknik dan metode perancangan basis data sesuai dengan karakteristik data dan kebutuhan organisasi, serta mengimplementasikannya ke dalam DBMS (Database Management System); serta mampu membuat program komputer dengan menggunakan beberapa bahasa pemrograman untuk mengelola DBMS.
+- CPL-09: Mampu mengambil keputusan yang tepat berdasarkan analisis informasi dan data, dan mampu memberikan petunjuk dalam memilih berbagai alternatif solusi secara mandiri dan kelompok.
+- CPL-10: Mampu mengidentifikasi, menentukan, serta menerapkan berbagai teknik dan perangkat analisis data untuk merancang dan mengembangkan sistem cerdas (smart system) yang mendukung penyelesaian masalah serta peningkatan kualitas layanan teknologi informasi dalam suatu organisasi.
+- CPL-11: Mampu mengidentifikasi kebutuhan, merancang, mengkonfigurasi jaringan komputer dan mengimplementasikannya, serta mengelola sumber daya sistem jaringan sesuai kebutuhan organisasi dengan memperhatikan aspek keamanan jaringan untuk menjaga ketersediaan, integritas, dan kerahasiaan data.
+- CPL-12: Mampu membangun jaringan kerja, beradaptasi, bekerja sama, serta berkontribusi secara kreatif dan inovatif dalam penerapan ilmu pengetahuan untuk kehidupan bermasyarakat dan global, sekaligus bertanggung jawab atas pencapaian kelompok serta mampu melakukan supervisi dan evaluasi terhadap tugas anggota yang berada di bawah tanggung jawabnya.
+
+## JALUR KARIR (PROSPEK KERJA)
+Information System Specialist, Database dan e-Business Analyst, System Analyst, Programmer Analyst, System Integrator, System Support, System Design, Database Administrator, Data Analyst, Database Specialist, E-Commerce Specialist, ERP Data Architect Data Science, Information Technology/System Information Consultant, Web Developer, Web Designer, UI/UX Designer, Enterpreneur in IT Business, Internet Developer, IS auditor, IS Project Supervisor, IT Planning Analyst, Object Programmer.
+
+## MATRIK KETERKAITAN PROFIL (PPM) DAN CAPAIAN PEMBELAJARAN (CPL)
+Berikut adalah matriks keterkaitan 5 Profil Profesional Mandiri (PPM) dengan 12 Capaian Pembelajaran Program Studi (CPL):
+- CPL-01 berkaitan dengan: PPM-1, PPM-2, PPM-3, PPM-4
+- CPL-02 berkaitan dengan: PPM-1, PPM-2, PPM-3
+- CPL-03 berkaitan dengan: PPM-3, PPM-4
+- CPL-04 berkaitan dengan: PPM-1, PPM-2, PPM-3, PPM-4
+- CPL-05 berkaitan dengan: PPM-2, PPM-3, PPM-4
+- CPL-06 berkaitan dengan: PPM-1, PPM-4
+- CPL-07 berkaitan dengan: PPM-1, PPM-4
+- CPL-08 berkaitan dengan: PPM-1, PPM-2
+- CPL-09 berkaitan dengan: PPM-1, PPM-4, PPM-5
+- CPL-10 berkaitan dengan: PPM-1, PPM-4
+- CPL-11 berkaitan dengan: PPM-1, PPM-3, PPM-4
+- CPL-12 berkaitan dengan: PPM-3, PPM-4, PPM-5

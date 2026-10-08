@@ -1,0 +1,55 @@
+=== JURUSAN EKONOMI SYARIAH ===
+Topik: Daftar Mata Kuliah
+URL Asli: Data manual
+
+KONTEN:
+
+## DAFTAR MATA KULIAH S1 EKONOMI SYARIAH
+Berikut adalah daftar mata kuliah yang diselenggarakan pada Program Studi Ekonomi Syariah Universitas Gunadarma, berdasarkan rincian per kelas:
+
+### KELAS TINGKAT 1
+1. Ilmu Budaya Dasar (HM026202) - 2 SKS
+2. Bahasa Indonesia (PB026202) - 2 SKS
+3. Pendidikan Pancasila (PP000206) - 2 SKS - Ujian Utama
+4. Pengantar Manajemen dan Bisnis Syariah (AK026204) - 2 SKS
+5. Pengantar Akuntansi (AK026326) - 3 SKS - Praktikum Penunjang
+6. Mikro Ekonomi (IT026205) - 2 SKS - Ujian Utama
+7. Pengantar Ekonomi Islam (IT026226) - 2 SKS - Ujian Utama
+8. Bank dan Lembaga Keuangan Syariah (IT026207) - 2 SKS
+9. Digital Citizenship (IT000209) - 2 SKS - Team Teaching
+10. Praktikum Digital Citizenship (IT000110) - 1 SKS - Team Teaching
+
+### KELAS 2EC01 & 2EC02 (BEASISWA Pagi - Depok)
+1. Manajemen Sumber Daya Insani (HM026204) - 2 SKS - Wajib (UTS dan UAS oleh Dosen)
+2. Kewirausahaan dan Bisnis Syariah (AK026208) - 2 SKS - Wajib (UTS dan UAS oleh Dosen)
+3. Perbankan Syariah (AK026310) - 3 SKS - Ujian Utama
+4. Akuntansi Syariah 2 (AK026209) - 2 SKS - Ujian Utama
+5. Ayat dan Hadist Ekonomi (IT026318) - 3 SKS - Wajib
+6. Mikro Ekonomi Syariah (IT026210) - 2 SKS - Ujian Utama
+7. Muamalat Kontemporer (IT026214) - 2 SKS - Ujian Utama
+8. Qawaid Iqtishad (IT026232) - 2 SKS - Wajib
+9. Statistika 2 (IT026212) - 2 SKS - Wajib
+
+### KELAS 3EC01 (BEASISWA Pagi - Depok)
+1. Metode Penelitian 2 (PB026209) - 2 SKS - Wajib (UTS oleh Dosen, UU dari Bag Ujian Utama)
+2. Ekonomi Pembangunan Islam (AK026229) - 2 SKS - Ujian Utama
+3. Keuangan Publik Syariah (AK026219) - 2 SKS - Wajib
+4. Manajemen Produk Halal (AK026216) - 2 SKS - Wajib
+5. Manajemen Risiko Syariah (AK026218) - 2 SKS - Wajib
+6. Manajemen Ziswaf (AK026217) - 2 SKS - Wajib
+7. Perencanaan Keuangan Syariah (AK026213) - 2 SKS - Wajib
+8. Ekonometrika (IT026334) - 3 SKS - Wajib (Praktikum Penunjang)
+9. Sains Data dan Analisis Big Data (IT000213) - 2 SKS - Team Teaching
+10. Praktikum Sains Data dan Analisis Big Data (IT000114) - 1 SKS - Team Teaching
+
+### KELAS 4EC01 (BEASISWA Pagi - Depok)
+1. Tugas Akhir / Skripsi / Studi Komprehensif (PB026610) - 6 SKS - Wajib (Sidang Skripsi)
+2. Asuransi Syariah (AK026211) - 2 SKS - Wajib
+3. Sistem Audit Lembaga Keuangan Syariah (AK026223) - 2 SKS - Wajib
+4. Fiqh Mawaris (IT026220) - 2 SKS - Wajib
+5. Manajemen Strategik (IT026223) - 2 SKS - Pilihan (UTS dan UAS oleh Dosen)
+
+Catatan Penting:
+- Mata Kuliah Ujian Utama (UU) adalah mata kuliah yang ujian akhirnya diselenggarakan oleh Bagian Ujian Utama Universitas.
+- Mata Kuliah Praktikum Penunjang wajib diikuti secara bersamaan dengan sesi praktikumnya di laboratorium.
+- Team Teaching adalah metode pembelajaran yang diajarkan oleh tim dosen.

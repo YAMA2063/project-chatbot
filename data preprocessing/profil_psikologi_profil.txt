@@ -1,0 +1,19 @@
+=== JURUSAN PSIKOLOGI ===
+Topik: Profil Singkat, Mengapa di UG, dan PLP
+URL Asli: https://fpsi.gunadarma.ac.id/psikologi/
+
+KONTEN:
+
+## WELCOME TO THE FUTURE OF PSYCHOLOGY
+Prodi Psikologi Universitas Gunadarma tidak hanya membekali dengan ilmu dasar dalam psikologi, namun juga memiliki ciri khusus dalam mengintegrasikan psikologi dengan teknologi informasi melalui konsep interdisipliner.
+
+## PUSAT KONSULTASI DAN LAYANAN PSIKOLOGI (PLP)
+Bagian atau unit dari Fakultas Psikologi yang menyediakan layanan psikologi bagi civitas akademika Universitas Gunadarma, seperti mahasiswa, dosen, maupun staf yang meliputi layanan konseling dan pemeriksaan psikologis.
+
+## LABORATORIUM PSIKOLOGI
+Fasilitas praktik yang meliputi:
+- Praktik pengambilan data dengan metode observasi dan wawancara
+- Roleplay administrasi pelaksanaan tes
+- Praktik pengambilan data pribadi tes psikologi berbasis komputer
+- Praktik penggunaan Virtual Reality (VR) dalam pengayaan praktikum
+- Recruitment Asisten dan Programmer Laboratorium Psikologi

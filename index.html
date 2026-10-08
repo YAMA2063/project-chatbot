@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asisten AI · Universitas Gunadarma</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0d0d0f;
+            --surface: #141416;
+            --surface-2: #1c1c1f;
+            --surface-3: #242428;
+            --border: rgba(255,255,255,0.07);
+            --text: #e8e8ec;
+            --text-muted: #6b6b7a;
+            --text-dim: #9494a4;
+            --accent: #7c3aed;
+            --accent-2: #a855f7;
+            --accent-glow: rgba(124,58,237,0.25);
+            --user-bg: #1e1030;
+            --user-border: rgba(124,58,237,0.4);
+            --red: #ef4444;
+            --green: #10b981;
+            --sidebar-w: 260px;
+            --mini-w: 60px;
+        }
+
+        body.light {
+            --bg: #f5f5f7; --surface: #ffffff; --surface-2: #f0f0f3; --surface-3: #e8e8ed;
+            --border: rgba(0,0,0,0.08); --text: #1a1a1e; --text-muted: #8e8e9e; --text-dim: #5c5c6e;
+            --accent: #7c3aed; --accent-2: #9333ea; --accent-glow: rgba(124,58,237,0.12);
+            --user-bg: #ede9fe; --user-border: rgba(124,58,237,0.2);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: 'DM Sans', sans-serif;
+            background: var(--bg); color: var(--text);
+            display: flex; height: 100vh; overflow: hidden;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: var(--surface-3); border-radius: 99px; }
+
+        /* ─── CUSTOM MODAL ─── */
+        .modal-overlay {
+            position: fixed; inset: 0;
+            background: rgba(0,0,0,0.6);
+            backdrop-filter: blur(4px);
+            display: flex; align-items: center; justify-content: center;
+            z-index: 999; opacity: 0; pointer-events: none; transition: opacity 0.2s;
+        }
+        .modal-overlay.show { opacity: 1; pointer-events: all; }
+        .modal-box {
+            background: var(--surface-2); border: 1px solid var(--border);
+            border-radius: 16px; padding: 28px 28px 22px;
+            max-width: 360px; width: 90%;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.5);
+            transform: scale(0.95) translateY(8px); transition: transform 0.2s;
+        }
+        .modal-overlay.show .modal-box { transform: scale(1) translateY(0); }
+        .modal-icon { width: 48px; height: 48px; border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 22px; margin-bottom: 16px; }
+        .modal-icon.red { background: rgba(239,68,68,0.12); }
+        .modal-title { font-size: 16px; font-weight: 600; color: var(--text); margin-bottom: 8px; }
+        .modal-desc { font-size: 13.5px; color: var(--text-dim); line-height: 1.6; margin-bottom: 22px; }
+        .modal-desc strong { color: var(--text); font-weight: 500; }
+        .modal-actions { display: flex; gap: 8px; justify-content: flex-end; }
+        .modal-btn { padding: 9px 20px; border-radius: 9px; border: 1px solid var(--border); font-family: 'DM Sans', sans-serif; font-size: 13.5px; font-weight: 500; cursor: pointer; transition: all 0.15s; }
+        .modal-btn.cancel { background: var(--surface-3); color: var(--text-dim); }
+        .modal-btn.cancel:hover { color: var(--text); background: var(--surface-2); }
+        .modal-btn.confirm-red { background: var(--red); color: white; border-color: var(--red); }
+        .modal-btn.confirm-red:hover { background: #dc2626; }
+
+        /* ─── SIDEBAR ─── */
+        .sidebar {
+            width: var(--sidebar-w); background: var(--surface);
+            border-right: 1px solid var(--border);
+            display: flex; flex-direction: column;
+            flex-shrink: 0; overflow: hidden;
+            transition: width 0.25s cubic-bezier(0.4,0,0.2,1);
+        }
+        .sidebar.mini { width: var(--mini-w); }
+
+        .sidebar-logo {
+            display: flex; align-items: center; gap: 10px;
+            padding: 14px 12px; border-bottom: 1px solid var(--border);
+            margin-bottom: 12px; white-space: nowrap; overflow: hidden;
+            cursor: pointer; border-radius: 10px;
+            transition: background 0.2s;
+        }
+        .sidebar-logo:hover { background: var(--surface-2); }
+        .brand-emblem-wrap {
+            width: 32px; height: 32px; border-radius: 8px; background: white;
+            display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+            overflow: hidden;
+        }
+        .logo-img { width: 100%; height: 100%; object-fit: contain; padding: 2px; }
+        .emblem-hover-icon {
+            display: none; width: 100%; height: 100%; align-items: center; justify-content: center;
+            background: var(--surface-3); color: var(--text); border-radius: 8px;
+        }
+        .sidebar-logo:hover .brand-emblem-wrap { background: transparent; }
+        .sidebar-logo:hover .logo-img { display: none; }
+        .sidebar-logo:hover .emblem-hover-icon { display: flex; }
+
+        .logo-text { font-size: 13px; font-weight: 600; line-height: 1.3; color: var(--text); overflow: hidden; }
+        .logo-text span { display: block; font-size: 11px; font-weight: 400; color: var(--text-muted); }
+
+        .sidebar.mini .logo-text { display: none; }
+        .sidebar.mini .sidebar-logo { padding: 14px 0; justify-content: center; }
+        .sidebar-mini-icons { display: none; flex-direction: column; align-items: center; gap: 8px; padding: 0 0 12px; border-bottom: 1px solid var(--border); margin-bottom: 12px; }
+        .sidebar.mini .sidebar-mini-icons { display: flex; }
+        .sidebar.mini .btn-new-chat-full { display: none; }
+        .sidebar.mini .history-label { display: none; }
+        .sidebar.mini .history-list { display: none; }
+        .sidebar.mini .sidebar-footer { display: none; }
+
+        .mini-icon-btn { width: 38px; height: 38px; border-radius: 10px; background: none; border: 1px solid var(--border); color: var(--text-dim); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.15s; }
+        .mini-icon-btn:hover { background: var(--surface-2); color: var(--text); }
+        .mini-icon-btn.accent { background: var(--accent); border-color: var(--accent); color: white; }
+        .mini-icon-btn.accent:hover { background: var(--accent-2); }
+
+        .btn-new-chat-full { width: calc(100% - 24px); margin: 0 12px 16px; background: var(--accent); border: none; color: white; padding: 10px 14px; border-radius: 10px; cursor: pointer; font-family: 'DM Sans', sans-serif; font-size: 13.5px; font-weight: 500; text-align: left; display: flex; align-items: center; gap: 8px; transition: all 0.2s; white-space: nowrap; }
+        .btn-new-chat-full:hover { background: var(--accent-2); transform: translateY(-1px); box-shadow: 0 4px 16px var(--accent-glow); }
+
+        .history-label { font-size: 10.5px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--text-muted); padding: 0 16px; margin-bottom: 6px; white-space: nowrap; }
+        .history-list { flex: 1; overflow-y: auto; display: flex; flex-direction: column; gap: 2px; padding: 0 8px; }
+
+        .history-item { padding: 9px 10px; border-radius: 8px; cursor: pointer; font-size: 13px; color: var(--text-dim); transition: all 0.15s; border: 1px solid transparent; display: flex; align-items: center; justify-content: space-between; gap: 6px; min-width: 0; }
+        .history-item:hover { background: var(--surface-2); color: var(--text); }
+        .history-item.active { background: var(--surface-2); color: var(--text); border-color: var(--border); font-weight: 500; }
+        .history-item-title { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+        .sidebar-footer { padding: 12px 8px; border-top: 1px solid var(--border); display: flex; flex-direction: column; gap: 2px; }
+        .btn-footer { background: none; border: none; color: var(--text-dim); cursor: pointer; text-align: left; font-family: 'DM Sans', sans-serif; font-size: 13px; padding: 9px 10px; border-radius: 8px; transition: all 0.15s; display: flex; align-items: center; gap: 8px; white-space: nowrap; }
+        .btn-footer:hover { background: var(--surface-2); color: var(--text); }
+        .btn-footer.danger:hover { color: var(--red); background: rgba(239,68,68,0.08); }
+
+        /* ─── MAIN ─── */
+        .main-content { flex: 1; display: flex; flex-direction: column; overflow: hidden; background: var(--bg); }
+
+        .chat-header { padding: 13px 20px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; background: var(--surface); flex-shrink: 0; }
+        .header-left { display: flex; align-items: center; gap: 10px; }
+        .header-title { font-size: 14px; font-weight: 600; color: var(--text); display: flex; align-items: center; gap: 8px; }
+        .status-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); box-shadow: 0 0 6px var(--green); animation: pulse 2s infinite; }
+        @keyframes pulse { 0%,100%{opacity:1}50%{opacity:0.4} }
+
+        /* ─── CHAT BOX ─── */
+        .chat-box { flex: 1; overflow-y: auto; padding: 32px 24px; display: flex; flex-direction: column; gap: 6px; }
+
+        /* ─── WELCOME ─── */
+        .welcome-screen { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 24px; padding: 40px 20px; animation: fadeUp 0.5s ease; }
+        @keyframes fadeUp { from{opacity:0;transform:translateY(16px)} to{opacity:1;transform:translateY(0)} }
+        .welcome-logo { width: 72px; height: 72px; border-radius: 18px; overflow: hidden; background: white; box-shadow: 0 8px 32px var(--accent-glow); display: flex; align-items: center; justify-content: center; }
+        .welcome-logo img { width: 100%; height: 100%; object-fit: contain; padding: 6px; }
+        .welcome-title { font-size: 22px; font-weight: 600; text-align: center; }
+        .welcome-sub { font-size: 14px; color: var(--text-muted); text-align: center; max-width: 400px; line-height: 1.6; }
+        .quick-replies { display: flex; gap: 8px; flex-wrap: wrap; justify-content: center; max-width: 560px; }
+        .quick-reply-btn { background: var(--surface); border: 1px solid var(--border); color: var(--text-dim); padding: 9px 16px; border-radius: 10px; cursor: pointer; font-family: 'DM Sans', sans-serif; font-size: 13px; transition: all 0.2s; }
+        .quick-reply-btn:hover { border-color: var(--accent); color: var(--accent-2); background: var(--accent-glow); transform: translateY(-1px); }
+
+        /* ─── MESSAGES ─── */
+        .chat-row { display: flex; gap: 12px; max-width: 760px; width: 100%; margin: 0 auto; animation: fadeUp 0.25s ease; position: relative; }
+        .chat-row.user { flex-direction: row-reverse; }
+        .avatar { width: 34px; height: 34px; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 15px; font-weight: 600; flex-shrink: 0; overflow: hidden; align-self: flex-start; }
+        .bot-avatar { background: white; box-shadow: 0 2px 10px var(--accent-glow); }
+        .bot-avatar img { width: 100%; height: 100%; object-fit: contain; padding: 3px; }
+        .user-avatar { background: var(--surface-3); color: var(--text-dim); font-size: 13px; border: 1px solid var(--border); }
+
+        .msg-wrap { display: flex; flex-direction: column; max-width: calc(100% - 46px); position: relative; }
+        .chat-row.user .msg-wrap { align-items: flex-end; }
+
+        .message { padding: 12px 16px; border-radius: 14px; font-size: 14.5px; line-height: 1.7; word-wrap: break-word; word-break: break-word; overflow-wrap: break-word; }
+        .bot-message { background: var(--surface); color: var(--text); border: 1px solid var(--border); border-top-left-radius: 4px; min-width: 0; }
+        .user-message { background: var(--user-bg); color: var(--text); border: 1px solid var(--user-border); border-top-right-radius: 4px; min-width: 0; }
+        .bot-message p { margin-bottom: 8px; }
+        .bot-message p:last-child { margin-bottom: 0; }
+        .bot-message ul,.bot-message ol { margin: 8px 0 8px 20px; }
+        .bot-message li { margin-bottom: 4px; }
+        .bot-message strong { font-weight: 600; }
+        .bot-message code { font-family:'DM Mono',monospace; font-size:13px; background:var(--surface-3); padding:2px 6px; border-radius:4px; color:var(--accent-2); }
+        .bot-message pre { background:var(--surface-2); border:1px solid var(--border); border-radius:10px; padding:14px; overflow-x:auto; margin:10px 0; }
+        .bot-message pre code { background:none; padding:0; }
+        .bot-message blockquote { border-left:3px solid var(--accent); padding-left:12px; color:var(--text-dim); margin:8px 0; }
+        .bot-message table { width:100%; border-collapse:collapse; margin:10px 0; font-size:13.5px; }
+        .bot-message th,.bot-message td { padding:8px 12px; border:1px solid var(--border); text-align:left; }
+        .bot-message th { background:var(--surface-2); font-weight:600; }
+        .bot-message hr { border: none; border-top: 1px solid var(--border); margin: 14px 0 8px; }
+        .bot-message hr + p { font-size: 12.5px; color: var(--text-muted); line-height: 1.5; }
+
+        /* ─── HISTORY ITEM TITIK TIGA ─── */
+        .history-item-menu { position: relative; flex-shrink: 0; }
+        .history-item-dots {
+            width: 22px; height: 22px; border-radius: 5px; border: none;
+            background: transparent; color: var(--text-muted); cursor: pointer;
+            display: none; align-items: center; justify-content: center;
+            font-size: 15px; font-weight: 700; transition: all 0.15s;
+            line-height: 1; letter-spacing: 1px;
+        }
+        .history-item:hover .history-item-dots { display: flex; }
+        .history-item-dots:hover { background: var(--surface-3); color: var(--text); }
+
+        .history-dropdown {
+            position: absolute; right: 0; top: 26px;
+            background: var(--surface-2); border: 1px solid var(--border);
+            border-radius: 10px; padding: 5px; min-width: 185px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+            display: none; flex-direction: column; gap: 2px; z-index: 200;
+        }
+        .history-dropdown.open { display: flex; }
+        .history-dd-item {
+            background: none; border: none; color: var(--text-dim);
+            font-family: 'DM Sans', sans-serif; font-size: 13px;
+            padding: 8px 10px; border-radius: 7px; cursor: pointer;
+            text-align: left; display: flex; align-items: center; gap: 8px;
+            transition: all 0.15s; white-space: nowrap;
+        }
+        .history-dd-item:hover { background: var(--surface-3); color: var(--text); }
+        .history-dd-item.danger:hover { background: rgba(239,68,68,0.1); color: var(--red); }
+
+        .history-item-pin { font-size: 11px; flex-shrink: 0; display: none; }
+        .history-item-pin.show { display: block; }
+
+        /* Typing */
+        .typing-dots { display: inline-flex; gap: 4px; align-items: center; height: 18px; }
+        .typing-dots span { width: 6px; height: 6px; border-radius: 50%; background: var(--text-muted); animation: blink 1.2s infinite; }
+        .typing-dots span:nth-child(2) { animation-delay: 0.2s; }
+        .typing-dots span:nth-child(3) { animation-delay: 0.4s; }
+        @keyframes blink { 0%,100%{opacity:0.2;transform:scale(0.8)} 50%{opacity:1;transform:scale(1)} }
+
+        /* ─── INPUT ─── */
+        .input-container { padding: 16px 24px 20px; background: var(--bg); flex-shrink: 0; }
+        .input-wrapper { max-width: 760px; margin: 0 auto; background: var(--surface); border: 1px solid var(--border); border-radius: 14px; display: flex; align-items: center; gap: 8px; padding: 6px 6px 6px 16px; transition: border-color 0.2s, box-shadow 0.2s; }
+        .input-wrapper:focus-within { border-color: rgba(124,58,237,0.5); box-shadow: 0 0 0 3px var(--accent-glow); }
+        .input-wrapper input { flex: 1; background: none; border: none; outline: none; font-family: 'DM Sans', sans-serif; font-size: 14.5px; color: var(--text); padding: 8px 0; }
+        .input-wrapper input::placeholder { color: var(--text-muted); }
+        .input-wrapper input:disabled { opacity: 0.5; }
+        #sendBtn, #stopBtn { border: none; padding: 9px 18px; border-radius: 10px; cursor: pointer; font-family: 'DM Sans', sans-serif; font-size: 13.5px; font-weight: 500; transition: all 0.2s; flex-shrink: 0; }
+        #sendBtn { background: var(--accent); color: white; }
+        #sendBtn:hover { background: var(--accent-2); box-shadow: 0 4px 12px var(--accent-glow); }
+        #sendBtn:disabled { background: var(--surface-3); color: var(--text-muted); cursor: not-allowed; }
+        #stopBtn { background: rgba(239,68,68,0.12); color: var(--red); border: 1px solid rgba(239,68,68,0.2); display: none; }
+        #stopBtn:hover { background: rgba(239,68,68,0.2); }
+        .input-hint { text-align: center; font-size: 11.5px; color: var(--text-muted); margin-top: 8px; max-width: 760px; margin-left: auto; margin-right: auto; }
+        .empty-history { font-size: 12.5px; color: var(--text-muted); text-align: center; padding: 20px 10px; }
+
+        /* ─── WATERMARK ─── */
+        .watermark {
+            position: fixed;
+            top: 5px;
+            right: 18px;
+            text-align: right;
+            line-height: 1.6;
+            font-size: 11px;
+            color: var(--text-muted);
+            font-family: 'DM Mono', monospace;
+            opacity: 0.45;
+            pointer-events: none;
+            z-index: 50;
+            letter-spacing: 0.02em;
+            transition: opacity 0.2s;
+        }
+        .watermark:hover { opacity: 0.8; }
+    </style>
+</head>
+<body>
+
+    <!-- MODAL -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal-box">
+            <div class="modal-icon red" id="modalIcon"><i class="fa-solid fa-trash"></i></div>
+            <div class="modal-title" id="modalTitle">Hapus</div>
+            <div class="modal-desc" id="modalDesc"></div>
+            <div class="modal-actions">
+                <button class="modal-btn cancel" onclick="closeModal()">Batal</button>
+                <button class="modal-btn confirm-red" id="modalConfirmBtn">Hapus</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- SIDEBAR -->
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-logo" onclick="toggleSidebar()" title="Toggle Sidebar">
+            <div class="brand-emblem-wrap">
+                <img class="logo-img" src="https://upload.wikimedia.org/wikipedia/id/1/19/Logo_Gunadarma.jpg" alt="Gunadarma">
+                <div class="emblem-hover-icon">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><line x1="9" y1="3" x2="9" y2="21"/></svg>
+                </div>
+            </div>
+            <div class="logo-text">
+                Asisten AI
+                <span>Universitas Gunadarma</span>
+            </div>
+        </div>
+
+        <div class="sidebar-mini-icons">
+            <button class="mini-icon-btn accent" onclick="startNewChat()" title="Chat Baru">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+            </button>
+        </div>
+
+        <button class="btn-new-chat-full" onclick="startNewChat()">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+            Chat Baru
+        </button>
+
+        <div class="history-label">Riwayat</div>
+        <div class="history-list" id="historyList">
+            <div class="empty-history">Belum ada percakapan</div>
+        </div>
+
+        <div class="sidebar-footer">
+            <button class="btn-footer" onclick="toggleDarkMode()">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+                Ganti Tema
+            </button>
+            <button class="btn-footer danger" onclick="showClearAllModal()">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>
+                Hapus Riwayat
+            </button>
+        </div>
+    </div>
+
+    <!-- MAIN -->
+    <div class="main-content">
+        <div class="chat-header">
+            <div class="header-left">
+                <div class="header-title">
+                    <div class="status-dot"></div>
+                    Asisten Akademik Gunadarma
+                </div>
+            </div>
+        </div>
+
+        <div class="chat-box" id="chatBox"></div>
+
+        <div class="input-container">
+            <div class="input-wrapper">
+                <input type="text" id="userInput" placeholder="Tanya soal KRS, jadwal, wisuda, atau info kampus..." autocomplete="off">
+                <button id="sendBtn">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" style="display:inline;vertical-align:middle;margin-right:5px"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+                    Kirim
+                </button>
+                <button id="stopBtn">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="display:inline;vertical-align:middle;margin-right:5px"><rect x="4" y="4" width="16" height="16" rx="2"/></svg>
+                    Stop
+                </button>
+            </div>
+            <div class="input-hint">Tekan Enter untuk mengirim · Jawaban berdasarkan dokumen akademik resmi</div>
+        </div>
+    </div>
+
+    <!-- WATERMARK -->
+    <div class="watermark">
+        <!-- © 2026 · Muhammad Thufeil Putrayama<br>11122006 -->
+    </div>
+
+    <script>
+        const chatBox = document.getElementById('chatBox');
+        const userInput = document.getElementById('userInput');
+        const sendBtn = document.getElementById('sendBtn');
+        const stopBtn = document.getElementById('stopBtn');
+        const historyList = document.getElementById('historyList');
+        const sidebarEl = document.getElementById('sidebar');
+        const modalOverlay = document.getElementById('modalOverlay');
+
+        const LOGO = 'https://upload.wikimedia.org/wikipedia/id/1/19/Logo_Gunadarma.jpg';
+
+        let currentChatId = null;
+        let currentChat = [];
+        let chatHistory = JSON.parse(localStorage.getItem('gundarChatHistory')) || [];
+        let abortController = null;
+        let isDark = true;
+        let sidebarMini = false;
+        let modalCallback = null;
+
+        const welcomeMessage = `Halo! Saya **Asisten AI Universitas Gunadarma**. <i class="fa-solid fa-graduation-cap"></i>\n\nSaya siap membantu menjawab pertanyaan seputar informasi akademik kampus. Silakan pilih topik di bawah atau ketik pertanyaan Anda!`;
+
+        window.onload = () => {
+            if (chatHistory.length > 0) {
+                currentChatId = chatHistory[0].id;
+                currentChat = chatHistory[0].messages;
+                renderHistorySidebar();
+                renderChat();
+            } else {
+                startNewChat();
+            }
+        };
+
+        document.addEventListener('click', () => {
+            document.querySelectorAll('.history-dropdown.open').forEach(d => d.classList.remove('open'));
+        });
+
+        userInput.addEventListener("keypress", e => {
+            if (e.key === "Enter") { e.preventDefault(); sendMessage(); }
+        });
+
+        sendBtn.addEventListener("click", sendMessage);
+        stopBtn.addEventListener("click", () => { if (abortController) abortController.abort(); });
+
+        /* ─── MODAL ─── */
+        function showModal({ icon, title, desc, confirmText, confirmClass, onConfirm }) {
+            document.getElementById('modalIcon').innerHTML = icon;
+            document.getElementById('modalTitle').textContent = title;
+            document.getElementById('modalDesc').innerHTML = desc;
+            const btn = document.getElementById('modalConfirmBtn');
+            btn.textContent = confirmText;
+            btn.className = 'modal-btn ' + (confirmClass || 'confirm-red');
+            modalCallback = onConfirm;
+            modalOverlay.classList.add('show');
+        }
+
+        function closeModal() {
+            modalOverlay.classList.remove('show');
+            modalCallback = null;
+        }
+
+        document.getElementById('modalConfirmBtn').onclick = () => {
+            if (modalCallback) modalCallback();
+            closeModal();
+        };
+
+        modalOverlay.addEventListener('click', (e) => {
+            if (e.target === modalOverlay) closeModal();
+        });
+
+        function showClearAllModal() {
+            showModal({
+                icon: '<i class="fa-solid fa-trash"></i>', title: 'Hapus Semua Riwayat',
+                desc: 'Semua percakapan akan <strong>dihapus permanen</strong> dan tidak dapat dikembalikan.',
+                confirmText: 'Hapus Semua',
+                onConfirm: () => {
+                    localStorage.removeItem('gundarChatHistory');
+                    chatHistory = [];
+                    startNewChat();
+                }
+            });
+        }
+
+        function showDeleteChatModal(index) {
+            const title = chatHistory[index]?.title || 'percakapan ini';
+            showModal({
+                icon: '<i class="fa-solid fa-comment"></i>', title: 'Hapus Percakapan',
+                desc: `Percakapan "<strong>${title}</strong>" akan dihapus permanen.`,
+                confirmText: 'Hapus',
+                onConfirm: () => deleteChatHistory(index)
+            });
+        }
+
+        function showDeleteMessageModal(msgIdx, rowDiv) {
+            showModal({
+                icon: '<i class="fa-solid fa-trash"></i>', title: 'Hapus Pesan Ini',
+                desc: 'Pesan ini akan dihapus dari percakapan. Tindakan ini tidak dapat dibatalkan.',
+                confirmText: 'Hapus Pesan',
+                onConfirm: () => {
+                    if (msgIdx >= 0 && msgIdx < currentChat.length) {
+                        currentChat.splice(msgIdx, 1);
+                        rowDiv.style.opacity = '0';
+                        rowDiv.style.transform = 'translateY(-6px)';
+                        rowDiv.style.transition = 'all 0.2s ease';
+                        setTimeout(() => renderChat(), 200);
+                        saveHistory();
+                    }
+                }
+            });
+        }
+
+        function toggleSidebar() {
+            sidebarMini = !sidebarMini;
+            sidebarEl.classList.toggle('mini', sidebarMini);
+        }
+
+        function startNewChat() {
+            if (abortController) abortController.abort();
+            currentChatId = Date.now();
+            currentChat = [];
+            renderHistorySidebar();
+            renderChat();
+            resetInputUI();
+        }
+
+        function renderChat() {
+            chatBox.innerHTML = "";
+            
+            // Filter pesan statis (jika ada dari riwayat lama) agar tidak dirender
+            const chatToRender = currentChat.filter(msg => msg.content !== welcomeMessage);
+
+            if (chatToRender.length === 0) {
+                const ws = document.createElement('div');
+                ws.className = 'welcome-screen';
+                ws.innerHTML = `
+                    <div class="welcome-logo"><img src="${LOGO}" alt="Gunadarma"></div>
+                    <div class="welcome-title">Selamat Datang!</div>
+                    <div class="welcome-sub">Tanyakan apa saja seputar kehidupan akademik Anda di Universitas Gunadarma.</div>
+                `;
+                const qr = document.createElement('div');
+                qr.className = 'quick-replies';
+                ["Bagaimana cara mengisi KRS?", "Info pembayaran UKT / Blanko?", "Prosedur pendaftaran wisuda?", "Jadwal kuliah semester ini?"].forEach(text => {
+                    const btn = document.createElement('button');
+                    btn.className = 'quick-reply-btn';
+                    btn.innerText = text;
+                    btn.onclick = () => { userInput.value = text; sendMessage(); };
+                    qr.appendChild(btn);
+                });
+                ws.appendChild(qr);
+                chatBox.appendChild(ws);
+            } else {
+                chatToRender.forEach((msg, i) => appendMessage(msg.content, msg.role, i));
+            }
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+        function appendMessage(text, role, indexId = null) {
+            const ws = chatBox.querySelector('.welcome-screen');
+            if (ws) ws.remove();
+
+            const rowDiv = document.createElement('div');
+            rowDiv.className = `chat-row ${role}`;
+
+            const avatarDiv = document.createElement('div');
+            avatarDiv.className = `avatar ${role}-avatar`;
+            if (role === 'bot') {
+                avatarDiv.innerHTML = `<img src="${LOGO}" alt="Bot">`;
+            } else {
+                avatarDiv.innerText = 'U';
+            }
+
+            const wrap = document.createElement('div');
+            wrap.className = 'msg-wrap';
+
+            const msgDiv = document.createElement('div');
+            msgDiv.className = `message ${role}-message`;
+            const id = "msg-" + (indexId !== null ? indexId : Date.now());
+            msgDiv.id = id;
+
+            if (text === '...') {
+                msgDiv.innerHTML = `<div class="typing-dots"><span></span><span></span><span></span></div>`;
+            } else if (role === 'bot') {
+                msgDiv.innerHTML = marked.parse(text);
+            } else {
+                msgDiv.innerText = text;
+            }
+
+            wrap.appendChild(msgDiv);
+            rowDiv.appendChild(avatarDiv);
+            rowDiv.appendChild(wrap);
+            chatBox.appendChild(rowDiv);
+            chatBox.scrollTop = chatBox.scrollHeight;
+            return id;
+        }
+
+        function resetInputUI() {
+            userInput.disabled = false;
+            sendBtn.style.display = 'block';
+            stopBtn.style.display = 'none';
+            userInput.focus();
+        }
+
+        async function sendMessage() {
+            const text = userInput.value.trim();
+            if (!text) return;
+
+            const ws = chatBox.querySelector('.welcome-screen');
+            if (ws) ws.remove();
+
+            userInput.disabled = true;
+            sendBtn.style.display = 'none';
+            stopBtn.style.display = 'block';
+
+            // Tambahkan pesan user ke array global saat ini
+            currentChat.push({ role: "user", content: text });
+            appendMessage(text, 'user', currentChat.length - 1);
+            userInput.value = '';
+
+            // AMANKAN CHAT INI: Simpan segera agar chat masuk ke chatHistory
+            saveHistory(); 
+            
+            // KUNCI ID CHAT: Pastikan proses async ini hanya mengotak-atik ID ini
+            const myChatId = currentChatId;
+            
+            // Ambil referensi array yang PASTI valid dari chatHistory
+            const myChatObj = chatHistory.find(c => c.id === myChatId);
+            const activeChatArray = myChatObj ? myChatObj.messages : currentChat;
+
+            activeChatArray.push({ role: "bot", content: "" });
+            const botMsgIndex = activeChatArray.length - 1;
+            
+            // Render loading
+            const loadingId = appendMessage('...', 'bot', botMsgIndex);
+
+            // Simpan lagi untuk meregistrasi pesan kosong bot di localStorage
+            localStorage.setItem('gundarChatHistory', JSON.stringify(chatHistory));
+
+            abortController = new AbortController();
+            let accumulatedText = "";
+
+            try {
+                const startTime = performance.now();
+                const formData = new FormData();
+                formData.append('pertanyaan', text);
+
+                // Ekstrak riwayat chat lokal (maksimal 6 pesan terakhir sebelum pertanyaan ini) untuk dikirim ke backend
+                // Filter pesan default welcome dan buang 2 pesan terakhir (pertanyaan saat ini & loading bot)
+                const historyToBackend = currentChat
+                    .slice(0, -2)
+                    .filter(msg => msg.content && msg.content !== "..." && !msg.content.includes("Saya siap membantu menjawab pertanyaan"))
+                    .slice(-6);
+                formData.append('riwayat', JSON.stringify(historyToBackend));
+
+                const response = await fetch('http://127.0.0.1:8000/tanya-ai/', {
+                    method: 'POST',
+                    body: formData,
+                    signal: abortController.signal
+                });
+
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder("utf-8");
+                
+                let isFirstChunk = true;
+                let timeTaken = "0.00";
+
+                while (true) {
+                    const { done, value } = await reader.read();
+                    if (done) break;
+                    
+                    if (isFirstChunk) {
+                        const endTime = performance.now();
+                        timeTaken = ((endTime - startTime) / 1000).toFixed(2);
+                        isFirstChunk = false;
+                    }
+
+                    const potongan = decoder.decode(value, { stream: true });
+                    accumulatedText += potongan;
+                    
+                    // 1. Selalu update memori (aman dari gangguan UI)
+                    activeChatArray[botMsgIndex].content = accumulatedText;
+                    
+                    // 2. Update UI HANYA JIKA user masih berada di chat yang sama!
+                    if (currentChatId === myChatId) {
+                        const el = document.getElementById(loadingId);
+                        if (el) {
+                            el.innerHTML = marked.parse(accumulatedText);
+                            chatBox.scrollTop = chatBox.scrollHeight;
+                        }
+                    }
+                }
+                
+                accumulatedText += `\n\n<div style="font-size:11.5px; color:var(--text-muted); margin-top:8px; opacity:0.8;"><i class="fa-solid fa-bolt" style="color:#eab308"></i> <em>Merespons dalam ${timeTaken} detik</em></div>`;
+                activeChatArray[botMsgIndex].content = accumulatedText;
+                
+                if (currentChatId === myChatId) {
+                    const el = document.getElementById(loadingId);
+                    if (el) el.innerHTML = marked.parse(accumulatedText);
+                }
+
+            } catch (error) {
+                if (error.name === 'AbortError') {
+                    const stoppedText = accumulatedText + "\n\n*— Dihentikan*";
+                    activeChatArray[botMsgIndex].content = stoppedText;
+                    if (currentChatId === myChatId) {
+                        const el = document.getElementById(loadingId);
+                        if (el) el.innerHTML = marked.parse(stoppedText);
+                    }
+                } else {
+                    activeChatArray[botMsgIndex].content = "Error koneksi.";
+                    if (currentChatId === myChatId) {
+                        const el = document.getElementById(loadingId);
+                        if (el) el.innerHTML = `<span style="color:var(--red)"><i class="fa-solid fa-triangle-exclamation"></i> Gagal menghubungi server. Pastikan backend berjalan.</span>`;
+                    }
+                }
+            } finally {
+                // Simpan hasil akhir ke localStorage secara langsung (jangan pakai saveHistory agar ID tidak tertukar)
+                localStorage.setItem('gundarChatHistory', JSON.stringify(chatHistory));
+                
+                // Kembalikan UI tombol send HANYA JIKA user masih di layar chat ini
+                if (currentChatId === myChatId) {
+                    resetInputUI();
+                } else {
+                    // Update tampilan sidebar secara diam-diam (jaga-jaga judulnya berubah)
+                    renderHistorySidebar();
+                }
+            }
+        }
+
+        function saveHistory() {
+            const existingIndex = chatHistory.findIndex(c => c.id === currentChatId);
+            const firstUserMsg = currentChat.find(m => m.role === 'user');
+            const chatTitle = firstUserMsg
+                ? firstUserMsg.content.substring(0, 36) + (firstUserMsg.content.length > 36 ? '…' : '')
+                : 'Percakapan Baru';
+
+            if (existingIndex === -1) {
+                // Chat baru: sisipkan SETELAH semua chat yang disematkan
+                const pinnedCount = chatHistory.filter(c => c.pinned).length;
+                const newChat = { id: currentChatId, title: chatTitle, messages: currentChat, pinned: false };
+                chatHistory.splice(pinnedCount, 0, newChat);
+            } else {
+                // Update chat yang sudah ada — jaga posisinya
+                chatHistory[existingIndex].messages = currentChat;
+                chatHistory[existingIndex].title = chatTitle;
+            }
+            localStorage.setItem('gundarChatHistory', JSON.stringify(chatHistory));
+            renderHistorySidebar();
+        }
+
+        function togglePin(index) {
+            const chat = chatHistory[index];
+            const pinnedCount = chatHistory.filter(c => c.pinned).length;
+
+            if (!chat.pinned) {
+                // Cek batas 3 sematan
+                if (pinnedCount >= 3) {
+                    showModal({
+                        icon: '<i class="fa-solid fa-thumbtack"></i>',
+                        title: 'Batas Sematan Tercapai',
+                        desc: 'Maksimal <strong>3 percakapan</strong> yang bisa disematkan. Lepas salah satu sematan terlebih dahulu.',
+                        confirmText: 'Mengerti',
+                        confirmClass: 'confirm-red',
+                        onConfirm: () => {}
+                    });
+                    return;
+                }
+                chat.pinned = true;
+            } else {
+                chat.pinned = false;
+            }
+
+            // Urutkan: pinned di atas, unpinned di bawah (masing-masing tetap urutan aslinya)
+            const pinned = chatHistory.filter(c => c.pinned);
+            const unpinned = chatHistory.filter(c => !c.pinned);
+            chatHistory.length = 0;
+            chatHistory.push(...pinned, ...unpinned);
+
+            localStorage.setItem('gundarChatHistory', JSON.stringify(chatHistory));
+            renderHistorySidebar();
+        }
+
+        function renderHistorySidebar() {
+            if (chatHistory.length === 0) {
+                historyList.innerHTML = '<div class="empty-history">Belum ada percakapan</div>';
+                return;
+            }
+
+            historyList.innerHTML = "";
+
+            // Render semua chat tanpa label pemisah — hanya simbol <i class="fa-solid fa-thumbtack"></i> yang membedakan
+            chatHistory.forEach((chat, index) => {
+                const item = document.createElement('div');
+                item.className = "history-item" + (chat.id === currentChatId ? " active" : "");
+
+                // Pin badge
+                const pinBadge = document.createElement('span');
+                pinBadge.className = 'history-item-pin' + (chat.pinned ? ' show' : '');
+                pinBadge.innerHTML = '<i class="fa-solid fa-thumbtack"></i>';
+
+                const title = document.createElement('span');
+                title.className = 'history-item-title';
+                title.innerText = chat.title;
+
+                // Titik tiga
+                const menuWrap = document.createElement('div');
+                menuWrap.className = 'history-item-menu';
+
+                const dotsBtn = document.createElement('button');
+                dotsBtn.className = 'history-item-dots';
+                dotsBtn.innerHTML = '⋯';
+                dotsBtn.title = 'Opsi';
+
+                const dropdown = document.createElement('div');
+                dropdown.className = 'history-dropdown';
+
+                const pinBtn = document.createElement('button');
+                pinBtn.className = 'history-dd-item';
+                pinBtn.innerHTML = chat.pinned ? '<i class="fa-solid fa-thumbtack"></i> Lepas Sematan' : '<i class="fa-solid fa-thumbtack"></i> Sematkan';
+                pinBtn.onclick = (e) => {
+                    e.stopPropagation();
+                    dropdown.classList.remove('open');
+                    togglePin(index);
+                };
+
+                const delBtn = document.createElement('button');
+                delBtn.className = 'history-dd-item danger';
+                delBtn.innerHTML = '<i class="fa-solid fa-trash"></i> Hapus Percakapan';
+                delBtn.onclick = (e) => {
+                    e.stopPropagation();
+                    dropdown.classList.remove('open');
+                    showDeleteChatModal(index);
+                };
+
+                dotsBtn.onclick = (e) => {
+                    e.stopPropagation();
+                    document.querySelectorAll('.history-dropdown.open').forEach(d => {
+                        if (d !== dropdown) d.classList.remove('open');
+                    });
+                    dropdown.classList.toggle('open');
+                };
+
+                dropdown.appendChild(pinBtn);
+                dropdown.appendChild(delBtn);
+                menuWrap.appendChild(dotsBtn);
+                menuWrap.appendChild(dropdown);
+
+                item.appendChild(pinBadge);
+                item.appendChild(title);
+                item.appendChild(menuWrap);
+                item.onclick = () => loadChat(index);
+                historyList.appendChild(item);
+            });
+        }
+
+        function deleteChatHistory(index) {
+            const isActive = chatHistory[index].id === currentChatId;
+            chatHistory.splice(index, 1);
+            localStorage.setItem('gundarChatHistory', JSON.stringify(chatHistory));
+            if (isActive) {
+                chatHistory.length > 0 ? loadChat(0) : startNewChat();
+            } else {
+                renderHistorySidebar();
+            }
+        }
+
+        function loadChat(index) {
+            if (abortController) abortController.abort();
+            const selected = chatHistory[index];
+            currentChatId = selected.id;
+            currentChat = selected.messages;
+            renderHistorySidebar();
+            renderChat();
+            resetInputUI();
+        }
+
+        function toggleDarkMode() {
+            isDark = !isDark;
+            document.body.classList.toggle('light', !isDark);
+        }
+    </script>
+</body>
+</html>

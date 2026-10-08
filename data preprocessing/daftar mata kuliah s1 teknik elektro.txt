@@ -1,0 +1,148 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 TEKNIK ELEKTRO (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1IB01, 1IB03, 1IB04 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PB041204 - Bahasa Indonesia (2 SKS)
+2. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+3. IT041201 - Bahasa Inggris (2 SKS)
+4. IT041206 - Fisika dan Kimia 1 (2 SKS)
+5. IT041202 - Kalkulus 1 (2 SKS)
+6. IT041208 - Matematika Teknik 1 (2 SKS)
+7. IT041209 - Menggambar Teknik (2 SKS)
+8. IT041107 - Praktikum Fisika 1 (1 SKS)
+9. IT041310 - Rangkaian Elektrik 1 (3 SKS)
+
+=== KELAS: 1IB05 (SARMAG) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. PB041204 - Bahasa Indonesia (2 SKS)
+2. IT041201 - Bahasa Inggris (2 SKS)
+3. IT041226 - Dasar Telekomunikasi (2 SKS)
+4. IT041206 - Fisika dan Kimia 1 (2 SKS)
+5. IT041202 - Kalkulus 1 (2 SKS)
+6. IT041208 - Matematika Teknik 1 (2 SKS)
+7. IT041209 - Menggambar Teknik (2 SKS)
+8. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+9. IT041107 - Praktikum Fisika 1 (1 SKS)
+10. IT041310 - Rangkaian Elektrik 1 (3 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2IB01, 2IB02, 2IB03 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. HM041101 - Ilmu Budaya Dasar (1 SKS)
+2. IT041324 - Elektronika Dasar (3 SKS)
+3. IT041223 - Fisika 3 (2 SKS)
+4. IT041243 - Instalasi Elektrik (2 SKS)
+5. IT041222 - Kalkulus 3 (2 SKS)
+6. IT000203 - Komputasi Big Data (2 SKS) [TT]
+7. IT041221 - Matematika Teknik 3 (2 SKS)
+8. IT041138 - Praktikum Dasar Telekomunikasi (1 SKS)
+9. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT]
+10. IT041120 - Praktikum Rangkaian Elektrik (1 SKS)
+11. IT041142 - Praktikum Rangkaian Logika (1 SKS)
+12. IT041260 - Teori dan Analisis Sistem Linier (2 SKS)
+
+=== KELAS: 2IB04 (SARMAG) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT041324 - Elektronika Dasar (3 SKS)
+2. IT041223 - Fisika 3 (2 SKS)
+3. HM041101 - Ilmu Budaya Dasar (1 SKS)
+4. IT041243 - Instalasi Elektrik (2 SKS)
+5. IT041222 - Kalkulus 3 (2 SKS)
+6. IT000203 - Komputasi Big Data (2 SKS) [TT]
+7. IT041221 - Matematika Teknik 3 (2 SKS)
+8. IT041138 - Praktikum Dasar Telekomunikasi (1 SKS)
+9. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT]
+10. IT041120 - Praktikum Rangkaian Elektrik (1 SKS)
+11. IT041142 - Praktikum Rangkaian Logika (1 SKS)
+12. IT041260 - Teori dan Analisis Sistem Linier (2 SKS)
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3IB01, 3IB02 (Peminatan Teknik Tenaga Elektrik) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT041227 - Dasar Sistem Kontrol (2 SKS) [UU]
+2. IT041240 - Ekonomi Teknik (2 SKS)
+3. AK041222 - Energi Alternatif (2 SKS)
+4. AK041244 - Jaringan Sensor Nirkabel dan IoT (2 SKS)
+5. AK041321 - Mesin Elektrik 1 (3 SKS) [PP]
+6. PB041201 - Metode Penelitian (2 SKS) [Tidak Ada UAS]
+7. IT041253 - Mikrokontroler (2 SKS)
+8. IT041150 - Praktikum Mikroprosesor (1 SKS)
+9. IT041339 - Rangkaian Elektronika (3 SKS) [UU]
+10. IT041131 - Teori Lingkungan (1 SKS)
+
+=== KELAS: 3IB01, 3IB02 (Peminatan Teknik Elektronika) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT041227 - Dasar Sistem Kontrol (2 SKS) [UU]
+2. IT041240 - Ekonomi Teknik (2 SKS)
+3. AK041244 - Jaringan Sensor Nirkabel dan IoT (2 SKS)
+4. IT041345 - Komunikasi Digital (3 SKS)
+5. PB041201 - Metode Penelitian (2 SKS) [Tidak Ada UAS]
+6. IT041253 - Mikrokontroler (2 SKS)
+7. IT041150 - Praktikum Mikroprosesor (1 SKS)
+8. IT041339 - Rangkaian Elektronika (3 SKS) [UU]
+9. IT041257 - Teknologi Semikonduktor (2 SKS)
+10. IT041131 - Teori Lingkungan (1 SKS)
+
+=== KELAS: 3IB03 (SARMAG) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT041227 - Dasar Sistem Kontrol (2 SKS) [UU]
+2. IT041240 - Ekonomi Teknik (2 SKS)
+3. AK041244 - Jaringan Sensor Nirkabel dan IoT (2 SKS)
+4. IT041345 - Komunikasi Digital (3 SKS)
+5. PB041201 - Metode Penelitian (2 SKS)
+6. IT041253 - Mikrokontroler (2 SKS)
+7. IT041150 - Praktikum Mikroprosesor (1 SKS)
+8. IT041339 - Rangkaian Elektronika (3 SKS) [UU]
+9. IT041257 - Teknologi Semikonduktor (2 SKS)
+10. IT041131 - Teori Lingkungan (1 SKS)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4IB01, 4IB02, 4IB03 (Peminatan Teknik Tenaga Elektrik) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. AK041233 - Analisis Sistem Tenaga (2 SKS) [UU]
+2. AK041345 - Capstone Design Project (3 SKS) [Tidak ada UAS]
+3. AK041331 - Distribusi Daya Elektrik (3 SKS) [UU]
+4. AK041230 - Elektronika Daya Lanjut (2 SKS)
+5. IT041154 - Praktikum Elektronika Analog (1 SKS)
+6. AK041126 - Praktikum Elektronika Daya (1 SKS)
+7. IT000108 - Praktikum Robotika Cerdas (1 SKS) [TT]
+8. IT000207 - Robotika Cerdas (2 SKS) [TT]
+9. AK041246 - Teori Gardu Induk (2 SKS)
+10. AK041328 - Transmisi Daya Elektrik (3 SKS) [UU]
+
+=== KELAS: 4IB01, 4IB02 (Peminatan Teknik Elektronika) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. AK041345 - Capstone Design Project (3 SKS) [Tidak ada UAS]
+2. AK041220 - Pengolahan Citra (2 SKS)
+3. AK041309 - Pengolahan Sinyal Digital (3 SKS) [UU]
+4. AK041219 - Perancangan Rangkaian Terintegritasi (2 SKS) [UU]
+5. AK041314 - Perancangan Sistem Elektronika (3 SKS) [UU]
+6. IT041154 - Praktikum Elektronika Analog (1 SKS)
+7. AK041116 - Praktikum Instrumentasi Elektronika (1 SKS)
+8. IT000108 - Praktikum Robotika Cerdas (1 SKS) [TT]
+9. IT000207 - Robotika Cerdas (2 SKS) [TT]
+10. AK041217 - Sistem Fabrikasi Mikroelektronika (2 SKS) [UU]

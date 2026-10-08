@@ -1,0 +1,22 @@
+=== PROFIL UNIVERSITAS GUNADARMA ===
+Topik: Pimpinan dan Sejarah Universitas
+URL Asli: Data Internal
+
+KONTEN:
+
+## PIMPINAN UNIVERSITAS
+Rektor Universitas Gunadarma saat ini dijabat oleh Prof. Dr. E.S. Margianti, SE, MM. Beliau memimpin seluruh kegiatan akademik dan operasional di tingkat universitas.
+
+## SEJARAH SINGKAT
+Universitas Gunadarma didirikan pada tanggal 7 Agustus 1981. Pada awalnya, institusi ini bernama Program Pendidikan Ilmu Komputer (PPIK) di Jakarta yang kemudian berubah menjadi Sekolah Tinggi Manajemen Informatika dan Komputer (STMIK) Gunadarma. Seiring perkembangannya yang pesat, pada tahun 1996, STMIK dan STIE Gunadarma digabung menjadi Universitas Gunadarma melalui SK Direktur Jenderal Pendidikan Tinggi.
+
+## LOKASI KAMPUS
+Universitas Gunadarma memiliki beberapa kampus yang tersebar di wilayah Jabodetabek, di antaranya:
+- Kampus A (Kenari)
+- Kampus B & C (Salemba)
+- Kampus D (Margonda, Depok) - Merupakan kampus utama
+- Kampus E (Kelapa Dua)
+- Kampus G, H (Laboratorium Kelapa Dua)
+- Kampus J (Kalimalang, Bekasi)
+- Kampus K (Karawaci, Tangerang)
+- Kampus L (Cengkareng)

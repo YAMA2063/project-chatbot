@@ -1,0 +1,51 @@
+DOKUMEN: KETENTUAN, SYARAT, DAN PROSEDUR DAFTAR SIDANG SARJANA (S1) UNIVERSITAS GUNADARMA
+
+DESKRIPSI DAN KETENTUAN UMUM:
+Pendaftaran Sidang Sarjana (S1) wajib dilakukan melalui tahapan verifikasi berkas oleh Jurusan (contoh: Jurusan Sistem Informasi/FIKTI) terlebih dahulu sebelum mahasiswa dapat mencetak jadwal di Studentsite.
+
+=== A. PERSIAPAN FILE DOKUMEN SIDANG (PDF) ===
+Mahasiswa wajib menyiapkan dokumen sesuai dengan jalur sidang yang diambil:
+1. KRS Aktif Semester Berjalan
+2. Sertifikat PI / Surat Revisi PI (yang sudah ditandatangani penguji)
+3. Surat Bukti Test Aptitude
+4. Sertifikat Workshop / Screenshot web Lepkom
+5. Sertifikat Kursus / Screenshot web Lepkom
+6. Surat ACC Skripsi (Pembimbing 1 & Pembimbing 2)
+7. Buku Bimbingan
+8. Manual Book (dapat disampaikan setelah sidang)
+9. Draft Jurnal
+10. Poster Tugas Akhir (dapat disampaikan setelah sidang)
+11. Konversi Nilai + Salinan Transkrip D3
+12. Bukti Penyetaraan Penelitian Ilmiah (Cover, Lembar Pengesahan, Abstrak)
+
+PENGELOMPOKAN DOKUMEN:
+- Reguler Jalur Komprehensif: Siapkan file 1, 2, 3, 4, 5
+- Reguler Jalur Skripsi: Siapkan file 1 sampai 10
+- D3 Lanjut/Transfer dari Dalam (UG) Komprehensif: Siapkan file 1, 3, 4, 5, 11
+- D3 Lanjut/Transfer dari Luar UG Komprehensif: Siapkan file 1, 3, 4, 5, 12
+
+=== B. KETENTUAN FOTO & UPDATE DATA ===
+Mahasiswa WAJIB meng-upload KTP (perhatikan NIK) dan FOTO RESMI di Studentsite (Menu Akademik -> Buka Modul Akademik -> tab Sidang). Foto wajib muncul di aplikasi daftar sidang, jika tidak mahasiswa harus mengulang dari awal.
+Syarat Foto:
+1. Pas foto Hitam Putih kondisi terbaru.
+2. Memakai kemeja putih polos lengan panjang (TIDAK memakai jas atau sejenisnya).
+3. Tidak memakai kacamata.
+4. Pria: Wajib berdasi (hitam/gelap tanpa pola) dan rambut pendek rapi (tidak di bawah telinga).
+5. Wanita Hijab: Wajib memakai jilbab warna putih.
+6. Ukuran file di bawah 500KB, resolusi 800x600 pixel, format .jpg.
+
+=== C. PROSEDUR PENDAFTARAN SIDANG ONLINE ===
+Tahap 1: Pengajuan Berkas ke Jurusan
+Mahasiswa (khususnya FIKTI/Sistem Informasi) mengisi formulir pendaftaran dan meng-upload berkas PDF di atas pada form pengajuan (contoh link yang rapih: https://bit.ly/PengajuanBerkas). Pastikan juga sudah memiliki status Bebas Perpus.
+
+Tahap 2: Proses Verifikasi
+Jurusan akan melakukan verifikasi nilai, data personal, dan lampiran dokumen. Pantau hasil pengumuman di web jurusan (contoh: https://fikti.gunadarma.ac.id/sisinformasi/).
+- Belum Memenuhi Syarat: Wajib melengkapi data atau upload ulang dokumen yang kurang.
+- Memenuhi Syarat (OK): Sudah di-ACC dan bisa lanjut ke tahap 3.
+
+Tahap 3: Finalisasi di Studentsite
+Setelah mendapat persetujuan (OK) dari Jurusan:
+1. Login ke https://studentsite.gunadarma.ac.id
+2. Klik menu "Daftar Sidang".
+3. Cek kembali Nama, Nomor Handphone, dan Email. (PENTING: Nomor HP harus terhubung dengan WhatsApp karena panitia sidang online menghubungi via WA. Update di Menu Akademik -> Profile jika salah).
+4. Jika muncul keterangan "Belum didaftarkan untuk Sidang oleh Jurusan", artinya Jurusan belum memvalidasi data Anda (silakan hubungi jurusan). Jika sudah tervalidasi, Anda dapat memilih jadwal/loket untuk mengakhiri proses pendaftaran.

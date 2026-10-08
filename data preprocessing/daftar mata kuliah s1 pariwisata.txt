@@ -1,0 +1,68 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 PARIWISATA (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1SB01, 1SB02, 1SB03 ===
+Total SKS: 18 SKS [cite: 753]
+Daftar Mata Kuliah:
+1. Pendidikan Agama (2 SKS) [cite: 753]
+2. PB062310 - Indonesia Tourism History and Culture (3 SKS) [cite: 753]
+3. PP000207 - Pendidikan Kewarganegaraan (2 SKS) [cite: 753]
+4. IT062302 - Bahasa Inggris (3 SKS) [cite: 753]
+5. AK062235 - Geografi Pariwisata (2 SKS) [cite: 753]
+6. IT062348 - Pengantar Ilmu Pariwisata dan Hospitalitas (3 SKS) [UU] [cite: 753]
+7. IT062301 - Teknologi Informasi (3 SKS) [cite: 753]
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2SB01, 2SB02, 2SB03 ===
+Total SKS: 22 SKS [cite: 756]
+Daftar Mata Kuliah:
+1. PP000207 - Pendidikan Kewarganegaraan (2 SKS) [cite: 756]
+2. PB062312 - Service Management (3 SKS) [UU] [cite: 756]
+3. AK062337 - Gastronomy (3 SKS) [UU] [cite: 756]
+4. IT062317 - Bahasa Inggris Pariwisata II (3 SKS) [cite: 756]
+5. IT062239 - Bahasa Mandarin (2 SKS) [cite: 756]
+6. IT062308 - Pemograman Komputer (3 SKS) [PP] [cite: 756]
+7. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS) [TT] [cite: 756]
+8. IT000211 - Social Networking and Creative Content (2 SKS) [TT] [cite: 756]
+9. IT062352 - Tour Planning And Moslem Friendly Tourism (3 SKS) [UU] [cite: 756]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3SB01 ===
+Total SKS: 23 SKS [cite: 765]
+Daftar Mata Kuliah:
+1. AK062337 - Gastronomy (3 SKS) [UU] [cite: 765]
+2. AK062338 - Pastry Management (3 SKS) [PP] [cite: 765]
+3. AK062205 - Perencanaan Kawasan Destinasi 1 (2 SKS) [PP] [cite: 765]
+4. IT062210 - Smart Tourism 1 (2 SKS) [cite: 765]
+5. AK062332 - Special Event (3 SKS) [PP] [cite: 765]
+6. IT062202 - Statistika (2 SKS) [cite: 765]
+7. PB062214 - Tourism Collaboration And People Management (2 SKS) [UU] [cite: 765]
+8. HM062408 - Tourism Creative Content dan Entrepreneurship (4 SKS) [UU] [PP] [cite: 765]
+9. IT062262 - Tourism Policy Analysis (2 SKS) [cite: 765]
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4SB01 ===
+Total SKS: 16 SKS [cite: 769]
+Daftar Mata Kuliah:
+1. PP000207 - Pendidikan Kewarganegaraan (2 SKS) [cite: 769]
+2. PB062208 - Sosiologi dan Antropologi Pariwisata (2 SKS) [UU] [cite: 769]
+3. AK062337 - Gastronomy (3 SKS) [UU] [cite: 769]
+4. IT000215 - Kecerdasan Artifisial dan Masyarakat (2 SKS) [TT] [cite: 769]
+5. AK062205 - Perencanaan Kawasan Destinasi 1 (2 SKS) [PP] [cite: 769]
+6. IT000116 - Praktikum Kecerdasan Artifisial dan Masyarakat (1 SKS) [TT] [cite: 769]
+7. AK062204 - Sistem Informasi Pariwisata (2 SKS) [UU] [PP] [cite: 769]
+8. IT062210 - Smart Tourism 1 (2 SKS) [cite: 769]

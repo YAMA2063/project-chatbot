@@ -1,0 +1,639 @@
+# Koordinator Mata Kuliah Semester Genap (ATA) 2025/2026
+
+Berikut adalah daftar Koordinator Mata Kuliah. Data ini digunakan untuk memberikan informasi kepada mahasiswa yang menanyakan siapa dosen koordinator untuk mata kuliah tertentu.
+
+1. Mata Kuliah: Aerodinamika, Kelas: 4IC, Dosen: SANDY SURYADY
+2. Mata Kuliah: Agroekoteknologi */**, Kelas: 1IE, Dosen: UMMU KALSUM
+3. Mata Kuliah: Akt.Keu.Menengah 2A & Prak. */**, Kelas: 2DA, Dosen: EARLY ARMEIN
+4. Mata Kuliah: Akt.Keu.Menengah 2B & Prak. */**, Kelas: 2DA, Dosen: EARLY ARMEIN
+5. Mata Kuliah: Aktualisasi Diri, Kelas: 4PA, Dosen: KENES PRANANDARI
+6. Mata Kuliah: Akuntansi Internasional, Kelas: 3EB, Dosen: SUSANTI USMAN
+7. Mata Kuliah: Akuntansi Keu & Manajemen&Prak**, Kelas: 3DD, Dosen: ABEDNEGO PRIYATAMA
+8. Mata Kuliah: Akuntansi Keu. Menengah 2A **, Kelas: 2EB, Dosen: EARLY ARMEIN
+9. Mata Kuliah: Akuntansi Keu. Menengah 2B **, Kelas: 2EB, Dosen: EARLY ARMEIN
+10. Mata Kuliah: Akuntansi Keu.Lanjut 2&Prak**, Kelas: 3DA, Dosen: DYAH MIETA SETYAWATI
+11. Mata Kuliah: Akuntansi Keu.Menengah 2 & Prak**, Kelas: 2DF, Dosen: EARLY ARMEIN
+12. Mata Kuliah: Akuntansi Keuangan Lanjut 2A **, Kelas: 3EB, Dosen: DYAH MIETA SETYAWATI
+13. Mata Kuliah: Akuntansi Keuangan Lanjut 2B **, Kelas: 3EB, Dosen: DYAH MIETA SETYAWATI
+14. Mata Kuliah: Akuntansi Manajemen, Kelas: 3EA, Dosen: DIONYSIA KOWANDA
+15. Mata Kuliah: Akuntansi Manajemen & Prak **, Kelas: 3DA, Dosen: DIONYSIA KOWANDA
+16. Mata Kuliah: Akuntansi Manajemen */**, Kelas: 2EB, Dosen: DIONYSIA KOWANDA
+17. Mata Kuliah: Akuntansi Manajemen Lanjut, Kelas: 4EA, Dosen: DIONYSIA KOWANDA
+18. Mata Kuliah: Akuntansi Pajak A **, Kelas: 3EB, Dosen: BENY SUSANTI
+19. Mata Kuliah: Akuntansi Pajak B **, Kelas: 3EB, Dosen: BENY SUSANTI
+20. Mata Kuliah: Akuntansi Syariah, Kelas: 4EB, Dosen: NUR AZIFAH
+21. Mata Kuliah: Akuntansi Syariah 2 *, Kelas: 2EC, Dosen: NUR AZIFAH
+22. Mata Kuliah: Alg. & Pemrograman Kasus Teknik Elektro, Kelas: 4IB, Dosen: DEBYO SAPTONO
+23. Mata Kuliah: Algoritma & Pemrograman 2 ABC *, Kelas: 1KA, Dosen: ETY SUTANTY
+24. Mata Kuliah: Algoritma & Pemrograman 2A, Kelas: 1KB, Dosen: FARIDA AMALYA
+25. Mata Kuliah: Algoritma & Pemrograman 2A, Kelas: 1DB, Dosen: PURWANTI
+26. Mata Kuliah: Algoritma & Pemrograman 2A *, Kelas: 1KA, Dosen: ETY SUTANTY
+27. Mata Kuliah: Algoritma & Pemrograman 2A *, Kelas: 1IA, Dosen: RODIAH
+28. Mata Kuliah: Algoritma & Pemrograman 2A **, Kelas: 1DA, Dosen: PURWANTI
+29. Mata Kuliah: Algoritma & Pemrograman 2B, Kelas: 1DB, Dosen: PURWANTI
+30. Mata Kuliah: Algoritma & Pemrograman 2B, Kelas: 1KB, Dosen: FARIDA AMALYA
+31. Mata Kuliah: Algoritma & Pemrograman 2B *, Kelas: 1KA, Dosen: ETY SUTANTY
+32. Mata Kuliah: Algoritma & Pemrograman 2B *, Kelas: 1IA, Dosen: RODIAH
+33. Mata Kuliah: Algoritma & Pemrograman 2B **, Kelas: 1DA, Dosen: PURWANTI
+34. Mata Kuliah: Algoritma & Pemrograman 2C, Kelas: 1KB, Dosen: FARIDA AMALYA
+35. Mata Kuliah: Algoritma & Pemrograman 2C *, Kelas: 1KA, Dosen: ETY SUTANTY
+36. Mata Kuliah: Algoritma & Pemrograman 2C *, Kelas: 1IA, Dosen: RODIAH
+37. Mata Kuliah: Algoritma & Pengolahan Paralel, Kelas: 4IA, Dosen: ASEP JUARNA
+38. Mata Kuliah: Analisis Dampak Lingkungan, Kelas: 3TA, Dosen: NURINA YASIN
+39. Mata Kuliah: Analisis dan Pengukuran Kerja **, Kelas: 2ID, Dosen: NURJANNAH
+40. Mata Kuliah: Analisis Kinerja Sistem, Kelas: 4KB, Dosen: MUDRIKA
+41. Mata Kuliah: Analisis Laporan Keuangan, Kelas: 3DA, Dosen: JOKO UTOMO
+42. Mata Kuliah: Analisis Proyek, Kelas: 4ID, Dosen: INA SITI HASANAH
+43. Mata Kuliah: Analisis Struk.Statis Tak Tentu A, Kelas: 2TA, Dosen: FEBRY MANDASARI
+44. Mata Kuliah: Analisis Struk.Statis Tak Tentu B, Kelas: 2TA, Dosen: FEBRY MANDASARI
+45. Mata Kuliah: Analisis Wacana, Kelas: 4SA, Dosen: HAWASI
+46. Mata Kuliah: Analisis&Peranc.Sistem Inf.*/**, Kelas: 3KA, Dosen: JULIA FAJARYANTI
+47. Mata Kuliah: Aplikasi Komputer Interior 2, Kelas: 2TC, Dosen: NATASYA
+48. Mata Kuliah: Arsitektur & Org. Sistem Komputer, Kelas: 1DB, Dosen: INTAN MEUTIA SARI
+49. Mata Kuliah: Arsitektur Fengsui, Kelas: 4TB, Dosen: VINNY NAZALITA
+50. Mata Kuliah: Arsitektur Komputer *, Kelas: 2IA, Dosen: INTAN MEUTIA SARI
+51. Mata Kuliah: Aspek Hukum Dalam Ekonomi, Kelas: 2EB, Dosen: BUDI UTAMI
+52. Mata Kuliah: Asuransi Manajemen Risiko 1, Kelas: 2DF, Dosen: DADI KUSWANDI
+53. Mata Kuliah: Audit Energi, Kelas: 4IC, Dosen: DODDI YUNIARDI
+54. Mata Kuliah: Audit Pemasaran, Kelas: 2DD, Dosen: ANGGA PUTRI EKANOVA
+55. Mata Kuliah: Audit Teknologi Sistem Informasi, Kelas: 4KA, Dosen: MAULANA MUJAHIDIN
+56. Mata Kuliah: Auditing 2 & Prak. **, Kelas: 3DA, Dosen: SRI WAHYU HANDAYANI
+57. Mata Kuliah: Ayat dan Hadist Ekonomi, Kelas: 2EC, Dosen: SITI AISYAH
+58. Mata Kuliah: Azas-azas Perancangan ArsitekturA, Kelas: 1TB, Dosen: ADE SYOUFA
+59. Mata Kuliah: Azas-azas Perancangan ArsitekturB, Kelas: 1TB, Dosen: ADE SYOUFA
+60. Mata Kuliah: Bahasa Asing Jepang, Kelas: 2SB, Dosen: RR ARTIANA KRESTIANTI
+61. Mata Kuliah: Bahasa Indonesia, Kelas: 1DA, Dosen: RAFIQA MAULIDIA
+62. Mata Kuliah: Bahasa Indonesia, Kelas: 2EB, Dosen: RAFIQA MAULIDIA
+63. Mata Kuliah: Bahasa Indonesia, Kelas: 1DD, Dosen: RAFIQA MAULIDIA
+64. Mata Kuliah: Bahasa Indonesia, Kelas: 1KA, Dosen: TRI BUDIARTA
+65. Mata Kuliah: Bahasa Indonesia, Kelas: 1SB, Dosen: TRI BUDIARTA
+66. Mata Kuliah: Bahasa Indonesia, Kelas: 1EC, Dosen: RAFIQA MAULIDIA
+67. Mata Kuliah: Bahasa Indonesia, Kelas: 1DF, Dosen: RAFIQA MAULIDIA
+68. Mata Kuliah: Bahasa Indonesia, Kelas: 1MA, Dosen: TRI BUDIARTA
+69. Mata Kuliah: Bahasa Indonesia, Kelas: 2TA, Dosen: TRI BUDIARTA
+70. Mata Kuliah: Bahasa Indonesia, Kelas: 1EA, Dosen: RAFIQA MAULIDIA
+71. Mata Kuliah: Bahasa Indonesia, Kelas: 1PA, Dosen: RAFIQA MAULIDIA
+72. Mata Kuliah: Bahasa Indonesia  *, Kelas: 1SA, Dosen: TRI BUDIARTA
+73. Mata Kuliah: Bahasa Indonesia 2 *, Kelas: 1SC, Dosen: TRI BUDIARTA
+74. Mata Kuliah: Bahasa Inggris, Kelas: 1DD, Dosen: AHMAD JUM'A KHATIB
+75. Mata Kuliah: Bahasa Inggris, Kelas: 1ID, Dosen: ANITA, SS
+76. Mata Kuliah: Bahasa Inggris, Kelas: 1DA, Dosen: AHMAD JUM'A KHATIB
+77. Mata Kuliah: Bahasa Inggris, Kelas: 1KB, Dosen: AHMAD JUM'A KHATIB
+78. Mata Kuliah: Bahasa Inggris Bisnis, Kelas: 3EA, Dosen: DEFI JULIANTI
+79. Mata Kuliah: Bahasa Inggris Bisnis, Kelas: 3DC, Dosen: DEFI JULIANTI
+80. Mata Kuliah: Bahasa Inggris Bisnis, Kelas: 2DF, Dosen: DEFI JULIANTI
+81. Mata Kuliah: Bahasa Inggris Bisnis, Kelas: 2KB, Dosen: DEFI JULIANTI
+82. Mata Kuliah: Bahasa Inggris Bisnis 2, Kelas: 4KA, Dosen: DEFI JULIANTI
+83. Mata Kuliah: Bahasa Inggris Bisnis 2, Kelas: 4IA, Dosen: DEFI JULIANTI
+84. Mata Kuliah: Bahasa Inggris Pariwisata 1, Kelas: 1SB, Dosen: ROSLIYANA BR PERANGIN ANGIN
+85. Mata Kuliah: Bahasa Mandarin, Kelas: 4IC, Dosen: FERIYANTO
+86. Mata Kuliah: Bahasa Mandarin, Kelas: 4IA, Dosen: FERIYANTO
+87. Mata Kuliah: Bahasa Mandarin, Kelas: 4MA, Dosen: FERIYANTO
+88. Mata Kuliah: Bahasa Mandarin Dasar, Kelas: 2SA, Dosen: FERIYANTO
+89. Mata Kuliah: Bahasa Mandarin Kompre. Dasar**, Kelas: 1SC, Dosen: KEZIA YANSEN PASANG
+90. Mata Kuliah: Bahasa Mandarin Kompre.Menengah**, Kelas: 2SC, Dosen: FATMAWATI
+91. Mata Kuliah: Bahasa Pemrograman *, Kelas: 1DC, Dosen: LILIS SETYOWATI
+92. Mata Kuliah: Bahasa Pemrograman Komputer & Prak, Kelas: 4TA, Dosen: LILIS SETYOWATI
+93. Mata Kuliah: Bank & Lembaga Keuangan 2 *, Kelas: 2DF, Dosen: DINI DWI ERMAWATI
+94. Mata Kuliah: Bank dan Lembaga Keuangan 2 *, Kelas: 2EB, Dosen: DINI DWI ERMAWATI
+95. Mata Kuliah: Bank dan Lembaga Keuangan Syariah, Kelas: 1EC, Dosen: IZZANI ULFI
+96. Mata Kuliah: Basic Acting&Stage Production**, Kelas: 2SA, Dosen: DYAH AMBAR WURYANDARI
+97. Mata Kuliah: Berbicara 2A **, Kelas: 1SA, Dosen: DEFI JULIANTI
+98. Mata Kuliah: Berbicara 2B **, Kelas: 1SA, Dosen: DEFI JULIANTI
+99. Mata Kuliah: Berbicara 4/A **, Kelas: 2SA, Dosen: NURROCHMAN
+100. Mata Kuliah: Berbicara 4/B **, Kelas: 2SA, Dosen: NURROCHMAN
+101. Mata Kuliah: Berbicara Bahasa Mandarin Lanj.**, Kelas: 2SC, Dosen: BATARI ANDINI
+102. Mata Kuliah: Berbicara Bhs Mandarin Dasar 2**, Kelas: 1SC, Dosen: BATARI ANDINI
+103. Mata Kuliah: Biokimia, Kelas: 2HB, Dosen: HOTLINA NAINGGOLAN
+104. Mata Kuliah: Bisnis dan Ekonomi Digital, Kelas: 1DB, Dosen: ADAM HUDA NUGRAHA
+105. Mata Kuliah: Bisnis Informatika, Kelas: 2IA, Dosen: ADAM HUDA NUGRAHA
+106. Mata Kuliah: Botani Farmasi, Kelas: 1HB, Dosen: AGUS KURNIAWAN
+107. Mata Kuliah: Budidaya Nirtanah **, Kelas: 2IE, Dosen: ADINDA NURUL HUDA MANURUNG
+108. Mata Kuliah: Budidaya Tanaman Obat & Aromatik, Kelas: 2IE, Dosen: UMMU KALSUM
+109. Mata Kuliah: BudidayaTanaman Semusim&Thnan*/**, Kelas: 2IE, Dosen: UMMU KALSUM
+110. Mata Kuliah: Capstone Design Project A, Kelas: 4ID, Dosen: RATIH WULANDARI
+111. Mata Kuliah: Capstone Design Project B, Kelas: 4ID, Dosen: RATIH WULANDARI
+112. Mata Kuliah: Capstone Design Project C, Kelas: 4ID, Dosen: RATIH WULANDARI
+113. Mata Kuliah: Compl.Tourism Problem&Ident.*/**, Kelas: 2SB, Dosen: FITRI RISMIYATI
+114. Mata Kuliah: Computer Graphic Design **, Kelas: 2MA, Dosen: AHMAD FATONI
+115. Mata Kuliah: Computer Numerical Control, Kelas: 4ID, Dosen: ASEP MOHAMMAD NOOR
+116. Mata Kuliah: Computer Numerical Control (CNC), Kelas: 3IC, Dosen: SINGGAH KHAIRUN OKBA
+117. Mata Kuliah: Creative Thinking, Kelas: 1MA, Dosen: IQBAL AL KHAZIM
+118. Mata Kuliah: Creative Thinking, Kelas: 4MA, Dosen: IQBAL AL KHAZIM
+119. Mata Kuliah: Cyber Public Relation, Kelas: 4MA, Dosen: YUNING IKA ROHMAWATI
+120. Mata Kuliah: Dasar - Dasar Telekomunikasi, Kelas: 2KB, Dosen: ALONA SITUMEANG
+121. Mata Kuliah: Dasar Konv. Energi Elektrik*/**, Kelas: 2IB, Dosen: ROBBY KURNIAWAN HARAHAP
+122. Mata Kuliah: Dasar Manajemen Keuangan & Prak**, Kelas: 2DA, Dosen: RENI ANGGRAINI
+123. Mata Kuliah: Dasar Pemasaran, Kelas: 1DA, Dosen: TIA CHISCA ANGGRAENI
+124. Mata Kuliah: Dasar Pemasaran, Kelas: 1EB, Dosen: TIA CHISCA ANGGRAENI
+125. Mata Kuliah: Dasar Telekomunikasi, Kelas: 1IB, Dosen: ALONA SITUMEANG
+126. Mata Kuliah: Dasar-Dasar Ilmu Tanah **, Kelas: 1IE, Dosen: MUHAMMAD RIDHA ALFARABI ISTIQLAL
+127. Mata Kuliah: Dasar-Dasar Jurnalistik */**, Kelas: 1MA, Dosen: KIAYATI YUSRIYAH
+128. Mata Kuliah: Desain Furniture Sarana Duduk*/**, Kelas: 2TC, Dosen: RIO SETIA MONATA
+129. Mata Kuliah: Digital Advertising, Kelas: 3MA, Dosen: YUNING IKA ROHMAWATI
+130. Mata Kuliah: Digital Kreator, Kelas: 3DB, Dosen: MAULANA MUJAHIDIN
+131. Mata Kuliah: Digital Marketing, Kelas: 3DB, Dosen: PARNO
+132. Mata Kuliah: Disain&Manaj. Jaringan Komputer*, Kelas: 3KA, Dosen: RODIAH
+133. Mata Kuliah: E-commerce dan Prak **, Kelas: 3DD, Dosen: ROOSHWAN BUDHI UTOMO
+134. Mata Kuliah: Ekonomi Koperasi, Kelas: 3DF, Dosen: JOKO PURNOMO
+135. Mata Kuliah: Ekonomi Koperasi, Kelas: 3EB, Dosen: JOKO PURNOMO
+136. Mata Kuliah: Ekonomi Manajerial, Kelas: 2EA, Dosen: BUDI UTAMI
+137. Mata Kuliah: Ekonomi Teknik*, Kelas: 3ID, Dosen: INA SITI HASANAH
+138. Mata Kuliah: Ekonomika 2, Kelas: 1DD, Dosen: HERRY SUSANTO
+139. Mata Kuliah: Ekonomika 2, Kelas: 1DF, Dosen: HERRY SUSANTO
+140. Mata Kuliah: Elektronika Analog *, Kelas: 3IB, Dosen: WIDYASTUTI
+141. Mata Kuliah: Elektronika Dasar *, Kelas: 1DC, Dosen: SUHARTINI
+142. Mata Kuliah: Elektronika Daya A, Kelas: 3IB, Dosen: JAMILAH
+143. Mata Kuliah: Elektronika Daya B, Kelas: 3IB, Dosen: JAMILAH
+144. Mata Kuliah: Elektronika Lanjut, Kelas: 2KB, Dosen: SUHARTINI
+145. Mata Kuliah: Elektronika Medis, Kelas: 4IB, Dosen: BAMBANG DWINANTO
+146. Mata Kuliah: Elektronika Optik, Kelas: 4IB, Dosen: ERMA TRIAWATI CHRISTINA
+147. Mata Kuliah: Elektronika Telekomunikasi *, Kelas: 3IB, Dosen: WIDYASTUTI
+148. Mata Kuliah: Elemen Mesin 1 *, Kelas: 2IC, Dosen: SUPRIYONO
+149. Mata Kuliah: Elemen Mesin 3 *, Kelas: 3IC, Dosen: SUPRIYONO
+150. Mata Kuliah: Energi Alternatif dan Terbarukan, Kelas: 3IC, Dosen: ARIO GERALDI
+151. Mata Kuliah: English Creative Writing, Kelas: 4MA, Dosen: HAWASI
+152. Mata Kuliah: Ethical & Moral Issue in Communication, Kelas: 4MA, Dosen: WIDIASTIANA VISTA WIJAYA
+153. Mata Kuliah: Ethical & Moral Issue in Communication, Kelas: 1MA, Dosen: WIDIASTIANA VISTA WIJAYA
+154. Mata Kuliah: Etika & Profesionalisme TSI, Kelas: 4KA, Dosen: ARI ROSEMALA TRIASARI
+155. Mata Kuliah: Etika Bisnis, Kelas: 3EA, Dosen: TRI DAMAYANTI
+156. Mata Kuliah: Etika Bisnis, Kelas: 1DD, Dosen: TRI DAMAYANTI
+157. Mata Kuliah: Etika Bisnis, Kelas: 1DF, Dosen: TRI DAMAYANTI
+158. Mata Kuliah: Etika dan Filsafat Komunikasi, Kelas: 3MA, Dosen: WIDIASTIANA VISTA WIJAYA
+159. Mata Kuliah: Etika dan Profesi TIK, Kelas: 3DB, Dosen: NOOR VIKA HIZVIANI
+160. Mata Kuliah: Etika Profesi, Kelas: 4IC, Dosen: RADEN RORO SRI POERNOMO SARI
+161. Mata Kuliah: Etika Profesi, Kelas: 4TB, Dosen: WAHYU PRAKOSA
+162. Mata Kuliah: Etika Profesi Akuntansi, Kelas: 4EB, Dosen: SUSANTI USMAN
+163. Mata Kuliah: Event Management, Kelas: 3MA, Dosen: AHMAD NASHER
+164. Mata Kuliah: Farmakologi 1, Kelas: 2HB, Dosen: HOTLINA NAINGGOLAN
+165. Mata Kuliah: Farmasi Sosial dan Komunitas, Kelas: 2HB, Dosen: SEFTINUR AMSIYAH
+166. Mata Kuliah: Filsafat Manusia *, Kelas: 2PA, Dosen: QUROYZHIN KARTIKA RINI
+167. Mata Kuliah: Fisika & Kimia 2A, Kelas: 1IB, Dosen: YASMAN RIANTO
+168. Mata Kuliah: Fisika & Kimia 2B, Kelas: 1IB, Dosen: YASMAN RIANTO
+169. Mata Kuliah: Fisika & Kimia Dasar 2A, Kelas: 1IC, Dosen: ROMDHONI SUSILOATMADJA
+170. Mata Kuliah: Fisika & Kimia Dasar 2B, Kelas: 1IC, Dosen: ROMDHONI SUSILOATMADJA
+171. Mata Kuliah: Fisika 2, Kelas: 1TA, Dosen: ANDI ASNUR PRANATA MUHIBAH HADMAR
+172. Mata Kuliah: Fisika 4*, Kelas: 2IB, Dosen: ANY K YAPIE
+173. Mata Kuliah: Fisika Bangunan, Kelas: 2TB, Dosen: RINA WIDAYANTI
+174. Mata Kuliah: Fisika Bangunan Interior **, Kelas: 2TC, Dosen: PRACISTA DHIRA PRAMESWARI
+175. Mata Kuliah: Fisika dan Kimia Dasar 2A, Kelas: 1IA, Dosen: ROMDHONI SUSILOATMADJA
+176. Mata Kuliah: Fisika dan Kimia Dasar 2B, Kelas: 1IA, Dosen: ROMDHONI SUSILOATMADJA
+177. Mata Kuliah: Fisika Dasar 2, Kelas: 1DC, Dosen: ANDINI SINTAWATI
+178. Mata Kuliah: Fisika Dasar 2, Kelas: 1ID, Dosen: ANDINI SINTAWATI
+179. Mata Kuliah: Fisika Dasar 2, Kelas: 1KB, Dosen: ANDINI SINTAWATI
+180. Mata Kuliah: Fisika Dasar 4, Kelas: 2IC, Dosen: YASMAN RIANTO
+181. Mata Kuliah: Fisiologi Tumbuhan **, Kelas: 1IE, Dosen: ADINDA NURUL HUDA MANURUNG
+182. Mata Kuliah: Fitokimia, Kelas: 2HB, Dosen: AGUS KURNIAWAN
+183. Mata Kuliah: Fonologi Bahasa Inggris*, Kelas: 2SA, Dosen: DIAN WULANDARI
+184. Mata Kuliah: Fonologi Bahasa Mandarin *, Kelas: 2SC, Dosen: AYESA
+185. Mata Kuliah: Fotografi dan Sinematografi Arsitektur, Kelas: 3TB, Dosen: AGUS NUGROHO
+186. Mata Kuliah: Gambar Bentuk Interior Ljtan */**, Kelas: 1TC, Dosen: SRI RISWANTI
+187. Mata Kuliah: Geometri, Kelas: 4TA, Dosen: ANDI ASNUR PRANATA MUHIBAH HADMAR
+188. Mata Kuliah: Geometri, Kelas: 1TA, Dosen: ANDI ASNUR PRANATA MUHIBAH HADMAR
+189. Mata Kuliah: Grafik Komputer & Peng. Citra **, Kelas: 3KA, Dosen: ATIT PERTIWI
+190. Mata Kuliah: Hama & Penyakit Penting Tanaman *, Kelas: 2IE, Dosen: EVAN PURNAMA RAMDHAN
+191. Mata Kuliah: Hidrolika *, Kelas: 2TA, Dosen: HERI SUPRAPTO
+192. Mata Kuliah: Human Relations *, Kelas: 2MA, Dosen: OLLY AURORA
+193. Mata Kuliah: Ilmu Budaya Dasar, Kelas: 1EC, Dosen: ELVIA FARDIANA
+194. Mata Kuliah: Ilmu Kebumian, Kelas: 4TA, Dosen: HERI SUPRAPTO
+195. Mata Kuliah: Ilmu Kebumian, Kelas: 1TA, Dosen: HERI SUPRAPTO
+196. Mata Kuliah: Ilmu Komunikasi Farmasi, Kelas: 2HB, Dosen: SARASWATI RAMADHANI
+197. Mata Kuliah: Ilmu Konstruksi Interior A *, Kelas: 1TC, Dosen: DINULLAH BAYU IBRAHIM
+198. Mata Kuliah: Ilmu Konstruksi Interior B *, Kelas: 1TC, Dosen: DINULLAH BAYU IBRAHIM
+199. Mata Kuliah: Ilmu Lingkungan, Kelas: 1TA, Dosen: FEBRY MANDASARI
+200. Mata Kuliah: Ilmu Pengetahuan Bahan Alami, Kelas: 1TC, Dosen: RIO SETIA MONATA
+201. Mata Kuliah: Inggris Bisnis, Kelas: 3DA, Dosen: DEFI JULIANTI
+202. Mata Kuliah: Instrumentasi Elektronika *, Kelas: 3IB, Dosen: JOKO PURNOMO
+203. Mata Kuliah: Integrated Marketing Communicatio, Kelas: 2MA, Dosen: FITRI DWI LESTARI
+204. Mata Kuliah: Internet Marketing, Kelas: 2DD, Dosen: PARNO
+205. Mata Kuliah: Internet of Things (IoT), Kelas: 3KB, Dosen: PURNAWARMAN MUSA
+206. Mata Kuliah: Jaringan Komputer Dasar*, Kelas: 2DC, Dosen: REZA CHANDRA
+207. Mata Kuliah: Jaringan Komputer Lanjut, Kelas: 3KB, Dosen: EMY HARYATMI
+208. Mata Kuliah: Jurnalistik, Kelas: 3SA, Dosen: ENDANG PURWANINGSIH
+209. Mata Kuliah: Kalkulus 1, Kelas: 1ID, Dosen: MAULIDA BORU BUTAR-BUTAR
+210. Mata Kuliah: Kalkulus 2A, Kelas: 1IB, Dosen: BAMBANG GUNAWAN
+211. Mata Kuliah: Kalkulus 2A, Kelas: 1IC, Dosen: BAMBANG GUNAWAN
+212. Mata Kuliah: Kalkulus 2B, Kelas: 1IB, Dosen: BAMBANG GUNAWAN
+213. Mata Kuliah: Kalkulus 2B, Kelas: 1IC, Dosen: BAMBANG GUNAWAN
+214. Mata Kuliah: Kalkulus 4, Kelas: 2IC, Dosen: R.A. SEKAR CIPTANING ANINDYA
+215. Mata Kuliah: Kalkulus 4*, Kelas: 2IB, Dosen: R.A. SEKAR CIPTANING ANINDYA
+216. Mata Kuliah: Keamanan Komputer, Kelas: 3DC, Dosen: RIDHA ISKANDAR
+217. Mata Kuliah: Kejurubahasaan Indonesia-Inggris, Kelas: 3SA, Dosen: SUGENG TRIJANTO
+218. Mata Kuliah: Ketrampilan Komputer 2A**, Kelas: 1SA, Dosen: SUCI BR KEMBAREN
+219. Mata Kuliah: Ketrampilan Komputer 2B**, Kelas: 1SA, Dosen: SUCI BR KEMBAREN
+220. Mata Kuliah: Kewirausahaan, Kelas: 4ID, Dosen: RAKHMA OKTAVINA
+221. Mata Kuliah: Kewirausahaan, Kelas: 4EB, Dosen: NONIK
+222. Mata Kuliah: Kewirausahaan 1, Kelas: 1DD, Dosen: NONIK
+223. Mata Kuliah: Kewirausahaan 1, Kelas: 1DF, Dosen: NONIK
+224. Mata Kuliah: Kewirausahaan 1, Kelas: 2SC, Dosen: TRI WAHYU RETNO NINGSIH
+225. Mata Kuliah: Kewirausahaan dan Bisnis Syariah, Kelas: 2EC, Dosen: MEGA OKTAVIANY
+226. Mata Kuliah: Kewirausahaan Teknologi Inf., Kelas: 4KB, Dosen: NOOR VIKA HIZVIANI
+227. Mata Kuliah: Kewirausahaan Teknologi Informasi, Kelas: 2DC, Dosen: JULIA FAJARYANTI
+228. Mata Kuliah: Kimia Analisis, Kelas: 1HB, Dosen: ADITYA M
+229. Mata Kuliah: Kimia Farmasi Analisis 2 *, Kelas: 2HB, Dosen: ADITYA M
+230. Mata Kuliah: Kimia Fisika, Kelas: 1HB, Dosen: SEFTINUR AMSIYAH
+231. Mata Kuliah: Kimia Organik 2, Kelas: 1HB, Dosen: RACHMI RIDHO
+232. Mata Kuliah: Kinematika dan Dinamika Teknik 1, Kelas: 1IC, Dosen: ARIYANTO
+233. Mata Kuliah: Komp. Anggaran 2 & Prak. **, Kelas: 2DA, Dosen: IKA PUJI SAPUTRI
+234. Mata Kuliah: Komp. Multimedia Pemasaran 2 *, Kelas: 2DD, Dosen: LANA SULARTO
+235. Mata Kuliah: Komp. Peranggaran 2 dan Prak **, Kelas: 2DD, Dosen: IKA PUJI SAPUTRI
+236. Mata Kuliah: Komp. Perpajakan 2 & Prak */**, Kelas: 2DA, Dosen: BENY SUSANTI
+237. Mata Kuliah: Komp. Perpajakan Untuk Manaj. **, Kelas: 3EA, Dosen: ABEDNEGO PRIYATAMA
+238. Mata Kuliah: Komp.Lembaga Keu. Perbankan**, Kelas: 2EA, Dosen: DINI DWI ERMAWATI
+239. Mata Kuliah: Komponen Elektronika Industri, Kelas: 4IB, Dosen: ROBBY KURNIAWAN HARAHAP
+240. Mata Kuliah: Komputer Ars. Lanjut & Prak.A**, Kelas: 1TB, Dosen: YUDI NUGRAHA
+241. Mata Kuliah: Komputer Ars. Lanjut & Prak.B**, Kelas: 1TB, Dosen: YUDI NUGRAHA
+242. Mata Kuliah: Komputer Ars. Lanjut & Prak.C**, Kelas: 1TB, Dosen: YUDI NUGRAHA
+243. Mata Kuliah: Komputer Vision, Kelas: 4IA, Dosen: MOHAMMAD IQBAL
+244. Mata Kuliah: Komputer Vision, Kelas: 4KB, Dosen: MOHAMMAD IQBAL
+245. Mata Kuliah: Komputerisasi Peranggaran 2*/ **, Kelas: 2DF, Dosen: IKA PUJI SAPUTRI
+246. Mata Kuliah: Komunikasi B.Inggris Bisnis, Kelas: 3DF, Dosen: MUH. KHOLIQ
+247. Mata Kuliah: Komunikasi B.Inggris Bisnis, Kelas: 3DD, Dosen: MUH. KHOLIQ
+248. Mata Kuliah: Komunikasi Bahasa Mandarin Bisnis, Kelas: 1DD, Dosen: BATARI ANDINI
+249. Mata Kuliah: Komunikasi Bhs. Inggris Bisnis 2, Kelas: 2DA, Dosen: MUH. KHOLIQ
+250. Mata Kuliah: Komunikasi Bisnis, Kelas: 4EA, Dosen: NOOR MUHAMMAD ADIPATI
+251. Mata Kuliah: Komunikasi Bisnis, Kelas: 1DF, Dosen: NOOR MUHAMMAD ADIPATI
+252. Mata Kuliah: Komunikasi Data dan Jaringan Komp, Kelas: 2DB, Dosen: EMY HARYATMI
+253. Mata Kuliah: Komunikasi Sosial dan Pembangunan, Kelas: 4MA, Dosen: OCVITA ARDHIANI
+254. Mata Kuliah: Komunikasi Visual *, Kelas: 3MA, Dosen: IQBAL AL KHAZIM
+255. Mata Kuliah: Konsep Data Mining, Kelas: 3IA, Dosen: DHARMAYANTI
+256. Mata Kuliah: Konsep Teknologi Informasi A **, Kelas: 1IA, Dosen: RISDIANDRI ISKANDAR
+257. Mata Kuliah: Konsep Teknologi Informasi B **, Kelas: 1IA, Dosen: RISDIANDRI ISKANDAR
+258. Mata Kuliah: Konsep Teknologi Informasi C **, Kelas: 1IA, Dosen: RISDIANDRI ISKANDAR
+259. Mata Kuliah: Konservasi Ling&Bangunan Ged Hi, Kelas: 3TA, Dosen: DIYANTI
+260. Mata Kuliah: Konstruksi Alat Ukur, Kelas: 4PA, Dosen: QUROYZHIN KARTIKA RINI
+261. Mata Kuliah: Kosa Kata 2**, Kelas: 1SA, Dosen: AHMAD JUM'A KHATIB
+262. Mata Kuliah: Language Assessment, Kelas: 3SA, Dosen: DIAN WULANDARI
+263. Mata Kuliah: Machine Vision, Kelas: 2DC, Dosen: MOHAMMAD IQBAL
+264. Mata Kuliah: Manajemen & Komunikasi Organisasi, Kelas: 4MA, Dosen: AHMAD FATONI
+265. Mata Kuliah: Manajemen & Komunikasi Organisasi, Kelas: 2MA, Dosen: AHMAD FATONI
+266. Mata Kuliah: Manajemen & SIM 2 *, Kelas: 2KA, Dosen: CAHYAWATI DIAH KUSUMARINI
+267. Mata Kuliah: Manajemen Keuangan 2 & Prak */**, Kelas: 2DD, Dosen: RENI ANGGRAINI
+268. Mata Kuliah: Manajemen Keuangan 2 & Prak */**, Kelas: 2DF, Dosen: RENI ANGGRAINI
+269. Mata Kuliah: Manajemen Keuangan 2 */**, Kelas: 2EB, Dosen: RENI ANGGRAINI
+270. Mata Kuliah: Manajemen Keuangan Internasional, Kelas: 3DF, Dosen: ROOSHWAN BUDHI UTOMO
+271. Mata Kuliah: Manajemen Keuangan Syariah, Kelas: 3DF, Dosen: SITI AISYAH
+272. Mata Kuliah: Manajemen Kinerja, Kelas: 4EA, Dosen: HERRY SUSANTO
+273. Mata Kuliah: Manajemen Layanan Sistem Informasi, Kelas: 3KA, Dosen: DEVI INDRIANI
+274. Mata Kuliah: Manajemen Operasional, Kelas: 2EB, Dosen: FANI YULIA ROSYADA
+275. Mata Kuliah: Manajemen Operasional */**, Kelas: 2EA, Dosen: FANI YULIA ROSYADA
+276. Mata Kuliah: Manajemen Pemasaran, Kelas: 2DF, Dosen: KARTIKA SUKMAWATI
+277. Mata Kuliah: Manajemen Pemasaran *, Kelas: 1EA, Dosen: KARTIKA SUKMAWATI
+278. Mata Kuliah: Manajemen Pemasaran 2 *, Kelas: 2DD, Dosen: EVA KARLA
+279. Mata Kuliah: Manajemen Pemasaran Industri, Kelas: 4EA, Dosen: TIA CHISCA ANGGRAENI
+280. Mata Kuliah: Manajemen Pendanaan, Kelas: 3DF, Dosen: LANA SULARTO
+281. Mata Kuliah: Manajemen Perhotelan */**, Kelas: 2SB, Dosen: ANIEQ SITI ZAHROH
+282. Mata Kuliah: Manajemen Produksi, Kelas: 2DF, Dosen: EVA KARLA
+283. Mata Kuliah: Manajemen Proyek Tek. Informasi, Kelas: 2DB, Dosen: NELLY SOFI
+284. Mata Kuliah: Manajemen Risiko, Kelas: 4EA, Dosen: DADI KUSWANDI
+285. Mata Kuliah: Manajemen Strategik, Kelas: 4EB, Dosen: MUJIYANI
+286. Mata Kuliah: Manajemen Sumber Daya Insani, Kelas: 2EC, Dosen: MEGA OKTAVIANY
+287. Mata Kuliah: Manajemen Sumber Daya Manusia, Kelas: 4EB, Dosen: LIA JULAEHA
+288. Mata Kuliah: Manajemen Sumber Daya Manusia*, Kelas: 3EA, Dosen: LIA JULAEHA
+289. Mata Kuliah: Manj.Keu.Era Rev.Inds 4.0*/**, Kelas: 2EA, Dosen: SUSILOWATI DYAH K
+290. Mata Kuliah: Matematika & Ilmu Alamiah Dasar, Kelas: 1SB, Dosen: REHULINA APRIYANTI
+291. Mata Kuliah: Matematika 2, Kelas: 1TA, Dosen: WIKE WEDYA LASTIN
+292. Mata Kuliah: Matematika 2, Kelas: 2IC, Dosen: ACHMAD FAHRUROZI
+293. Mata Kuliah: Matematika 2 *, Kelas: 1TB, Dosen: REHULINA APRIYANTI
+294. Mata Kuliah: Matematika Bisnis, Kelas: 1DA, Dosen: ERNI RIHYANTI
+295. Mata Kuliah: Matematika Dasar 2*, Kelas: 1IA, Dosen: RADEN ANDHIKA PRIHESTIRA
+296. Mata Kuliah: Matematika Dasar 2A, Kelas: 1DB, Dosen: DYAN PRAWITA SARI
+297. Mata Kuliah: Matematika Dasar 2A, Kelas: 1KA, Dosen: DYAN PRAWITA SARI
+298. Mata Kuliah: Matematika Dasar 2A, Kelas: 1KB, Dosen: DYAN PRAWITA SARI
+299. Mata Kuliah: Matematika Dasar 2AB, Kelas: 1KA, Dosen: DYAN PRAWITA SARI
+300. Mata Kuliah: Matematika Dasar 2B, Kelas: 1DB, Dosen: DYAN PRAWITA SARI
+301. Mata Kuliah: Matematika Dasar 2B, Kelas: 1KA, Dosen: DYAN PRAWITA SARI
+302. Mata Kuliah: Matematika Dasar 2B, Kelas: 1KB, Dosen: DYAN PRAWITA SARI
+303. Mata Kuliah: Matematika Diskrit 2, Kelas: 2KB, Dosen: RADEN ANDHIKA PRIHESTIRA
+304. Mata Kuliah: Matematika Ekonomi 2 **, Kelas: 1EA, Dosen: MARIA Y ARYATI WAHYUNINGRUM
+305. Mata Kuliah: Matematika Ekonomi 2 **, Kelas: 1EB, Dosen: MARIA Y ARYATI WAHYUNINGRUM
+306. Mata Kuliah: Matematika Informatika, Kelas: 1DC, Dosen: YULI FITRIYANI
+307. Mata Kuliah: Matematika Informatika 2, Kelas: 2DB, Dosen: YULI FITRIYANI
+308. Mata Kuliah: Matematika Informatika 2 **, Kelas: 1IA, Dosen: YULI FITRIYANI
+309. Mata Kuliah: Matematika Informatika 4 *, Kelas: 2IA, Dosen: AINI SURI TALITA
+310. Mata Kuliah: Matematika Lanjut 2, Kelas: 2IA, Dosen: ACHMAD FAHRUROZI
+311. Mata Kuliah: Matematika Lanjut 2 *, Kelas: 2KB, Dosen: ACHMAD FAHRUROZI
+312. Mata Kuliah: Matematika Lanjut 2 **, Kelas: 2KA, Dosen: ACHMAD FAHRUROZI
+313. Mata Kuliah: Matematika Optimasi Diskrit, Kelas: 2ID, Dosen: AINUL HAQ
+314. Mata Kuliah: Matematika Sistem Informasi 2, Kelas: 2KA, Dosen: ERNI RIHYANTI
+315. Mata Kuliah: Matematika Teknik 2, Kelas: 1IB, Dosen: R A SEKAR CIPTANING ANINDYA
+316. Mata Kuliah: Media Relations *, Kelas: 2MA, Dosen: NADINTA RAFIFAH SUAIB
+317. Mata Kuliah: Mekanika Bahan A *, Kelas: 1TA, Dosen: RELLY ANDAYANI
+318. Mata Kuliah: Mekanika Bahan B *, Kelas: 1TA, Dosen: RELLY ANDAYANI
+319. Mata Kuliah: Mekanika Fluida Dasar *, Kelas: 2IC, Dosen: ARIO GERALDI
+320. Mata Kuliah: Mekanika Kekuatan Material, Kelas: 2IC, Dosen: ABDUL MUCHLIS
+321. Mata Kuliah: Mekanika Tanah *, Kelas: 2TA, Dosen: ELLYSA
+322. Mata Kuliah: Mekanika Teknik, Kelas: 1ID, Dosen: ROSI SEPTY WAHYUNI
+323. Mata Kuliah: Mekatronika, Kelas: 3IC, Dosen: ABDUL MUCHLIS
+324. Mata Kuliah: Membaca 2, Kelas: 1SA, Dosen: AGUNG PRASETYO WIBOWO
+325. Mata Kuliah: Membaca Bahasa Mandarin Dasar 2**, Kelas: 1SC, Dosen: FATMAWATI
+326. Mata Kuliah: Membaca Bahasa Mandarin Lanjut **, Kelas: 2SC, Dosen: BATARI ANDINI
+327. Mata Kuliah: Menggambar Mesin *, Kelas: 1IC, Dosen: DODDI YUNIARDI
+328. Mata Kuliah: Menulis 2, Kelas: 1SA, Dosen: ANITA, SS
+329. Mata Kuliah: Menulis Karakter Han Dasar 2 **, Kelas: 1SC, Dosen: KEZIA YANSEN PASANG
+330. Mata Kuliah: Menulis Karakter Han Lanjut, Kelas: 2SC, Dosen: KEZIA YANSEN PASANG
+331. Mata Kuliah: Menyimak 2A, Kelas: 1SA, Dosen: ANITA, SS
+332. Mata Kuliah: Menyimak 2B, Kelas: 1SA, Dosen: ANITA, SS
+333. Mata Kuliah: Menyimak 4A, Kelas: 2SA, Dosen: DYAH AMBAR WURYANDARI
+334. Mata Kuliah: Menyimak 4B, Kelas: 2SA, Dosen: DYAH AMBAR WURYANDARI
+335. Mata Kuliah: Menyimak B.Mandarin Dasar 2&Pra**, Kelas: 1SC, Dosen: AYESA
+336. Mata Kuliah: Menyimak Bahasa Mandarin Lanjut**, Kelas: 2SC, Dosen: AYESA
+337. Mata Kuliah: Mesin Elektrik 2 */**, Kelas: 3IB, Dosen: SETIYONO
+338. Mata Kuliah: Mesin Konversi Energi *, Kelas: 3IC, Dosen: RADEN RORO SRI POERNOMO SARI
+339. Mata Kuliah: Metode Numerik, Kelas: 2TA, Dosen: TATI NOVIATI
+340. Mata Kuliah: Metode Pemeliharaan, Kelas: 3DC, Dosen: FAUZIAH SUPARDI
+341. Mata Kuliah: Metode Pen. Komunikasi:Kualitatif, Kelas: 2MA, Dosen: AHMAD NASHER
+342. Mata Kuliah: Metode Riset Bisnis, Kelas: 2DD, Dosen: KARTIKA SARI
+343. Mata Kuliah: Metode Stokastik, Kelas: 2ID, Dosen: AINUL HAQ
+344. Mata Kuliah: Metodologi Penelitian Kualitatif, Kelas: 3PA, Dosen: ALIA RIZKI FAUZIAH
+345. Mata Kuliah: Metodologi Perancangan Interior, Kelas: 2TC, Dosen: EGA DYAS NINDITA
+346. Mata Kuliah: Mikro Ekonomi *, Kelas: 1EC, Dosen: STEVANI ADINDA NURUL HUDA
+347. Mata Kuliah: Mikro Ekonomi Syariah *, Kelas: 2EC, Dosen: STEVANI ADINDA NURUL HUDA
+348. Mata Kuliah: Mikrokomputer *, Kelas: 2DC, Dosen: FAUZIAH SUPARDI
+349. Mata Kuliah: Muamalat Kontemporer *, Kelas: 2EC, Dosen: SITI AISYAH
+350. Mata Kuliah: Nirmana Trimatra, Kelas: 1TC, Dosen: MADE WIDYATANTRI MERATI
+351. Mata Kuliah: Opini Publik, Kelas: 2MA, Dosen: FITRI DWI LESTARI
+352. Mata Kuliah: Opini Publik, Kelas: 4MA, Dosen: FITRI DWI LESTARI
+353. Mata Kuliah: Org.dan Manaj.Perush. Industri *, Kelas: 3ID, Dosen: PRAMESWARI RIZCHA JULIANDA
+354. Mata Kuliah: Organisasi & Ars. Komputer *, Kelas: 2KB, Dosen: SWELANDIAH ENDAH PRATIWI
+355. Mata Kuliah: Organisasi & Ars. Sistem Komputer, Kelas: 4IB, Dosen: SWELANDIAH ENDAH PRATIWI
+356. Mata Kuliah: Organisasi & Arsitektur Komputer*, Kelas: 1DC, Dosen: SWELANDIAH ENDAH PRATIWI
+357. Mata Kuliah: Patofisiologi, Kelas: 1HB, Dosen: RACHMI RIDHO
+358. Mata Kuliah: Pemahaman Lintas Budaya, Kelas: 2SC, Dosen: TRI WAHYU RETNO NINGSIH
+359. Mata Kuliah: Pembiayaan & Manaj. Konstruksi A*, Kelas: 3TB, Dosen: AGUS NUGROHO
+360. Mata Kuliah: Pembiayaan & Manaj. Konstruksi B*, Kelas: 3TB, Dosen: AGUS NUGROHO
+361. Mata Kuliah: Pemeriksaan Akuntansi 2A **, Kelas: 3EB, Dosen: SRI WAHYU HANDAYANI
+362. Mata Kuliah: Pemeriksaan Akuntansi 2B **, Kelas: 3EB, Dosen: SRI WAHYU HANDAYANI
+363. Mata Kuliah: Pemodelan & Visualisasi Data **, Kelas: 3KA, Dosen: SINGGIH JATMIKO
+364. Mata Kuliah: Pemodelan Inf.Bangunan & Prak A**, Kelas: 2TB, Dosen: YUDI NUGRAHA
+365. Mata Kuliah: Pemodelan Inf.Bangunan & Prak B**, Kelas: 2TB, Dosen: YUDI NUGRAHA
+366. Mata Kuliah: Pemodelan Inf.Bangunan & Prak C**, Kelas: 2TB, Dosen: YUDI NUGRAHA
+367. Mata Kuliah: Pemrograman Akuntansi 2 */**, Kelas: 2DA, Dosen: HANTORO ARIEF GISIJANTO
+368. Mata Kuliah: Pemrograman Berbasis Mobile 2 *, Kelas: 2DB, Dosen: REZA CHANDRA
+369. Mata Kuliah: Pemrograman Berbasis Web, Kelas: 2DC, Dosen: META MEYSAWATI
+370. Mata Kuliah: Pemrograman Berbasis Web 2 *, Kelas: 2DB, Dosen: META MEYSAWATI
+371. Mata Kuliah: Pemrograman Berorientasi Objek, Kelas: 2KA, Dosen: PRIYO SARJONO WIBOWO
+372. Mata Kuliah: Pemrograman Berorientasi Objek **, Kelas: 2IA, Dosen: PRIYO SARJONO WIBOWO
+373. Mata Kuliah: Pemrograman Jaringan **, Kelas: 4IA, Dosen: I KOMANG SUGIARTA
+374. Mata Kuliah: Pemrograman Multimedia, Kelas: 4IA, Dosen: META MEYSAWATI
+375. Mata Kuliah: Pemrograman Multimedia 2 *, Kelas: 3DB, Dosen: META MEYSAWATI
+376. Mata Kuliah: Pemrograman Olah Berkas, Kelas: 2DB, Dosen: ARI ROSEMALA TRIASARI
+377. Mata Kuliah: Pendidikan Agama Buddha, Kelas: 6GB51, Dosen: RIYADI
+378. Mata Kuliah: Pendidikan Agama Hindu, Kelas: 6GB41, Dosen: DEWA PUTU JAPA
+379. Mata Kuliah: Pendidikan Agama Islam, Kelas: 1DB, Dosen: MULYADI
+380. Mata Kuliah: Pendidikan Agama Islam, Kelas: 1HB, Dosen: MULYADI
+381. Mata Kuliah: Pendidikan Agama Islam, Kelas: 1IA, Dosen: MULYADI
+382. Mata Kuliah: Pendidikan Agama Islam, Kelas: 1IB, Dosen: MULYADI
+383. Mata Kuliah: Pendidikan Agama Islam, Kelas: 1IC, Dosen: MULYADI
+384. Mata Kuliah: Pendidikan Agama Islam, Kelas: 1ID, Dosen: MULYADI
+385. Mata Kuliah: Pendidikan Agama Islam, Kelas: 1IE, Dosen: MULYADI
+386. Mata Kuliah: Pendidikan Agama Islam, Kelas: 1KA, Dosen: MULYADI
+387. Mata Kuliah: Pendidikan Agama Islam, Kelas: 1KB, Dosen: MULYADI
+388. Mata Kuliah: Pendidikan Agama Islam, Kelas: 2TA, Dosen: MULYADI
+389. Mata Kuliah: Pendidikan Agama Islam, Kelas: 2TC, Dosen: MULYADI
+390. Mata Kuliah: Pendidikan Agama Katolik, Kelas: 6GB31-33, Dosen: ERMA TRIAWATI CHRISTINA
+391. Mata Kuliah: Pendidikan Agama Kristen, Kelas: 6GB21-23, Dosen: ELIA UMBU ZASA
+392. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 1DB, Dosen: GATOT SUBIYAKTO
+393. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 1DC, Dosen: GATOT SUBIYAKTO
+394. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 1HB, Dosen: GATOT SUBIYAKTO
+395. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 1IA, Dosen: GATOT SUBIYAKTO
+396. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 1ID, Dosen: GATOT SUBIYAKTO
+397. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 1IE, Dosen: GATOT SUBIYAKTO
+398. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 1KA, Dosen: GATOT SUBIYAKTO
+399. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 1KB, Dosen: GATOT SUBIYAKTO
+400. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 2IB, Dosen: GATOT SUBIYAKTO
+401. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 2IC, Dosen: GATOT SUBIYAKTO
+402. Mata Kuliah: Pendidikan Kewarganegaraan, Kelas: 2TB, Dosen: GATOT SUBIYAKTO
+403. Mata Kuliah: Pendidikan Pancasila *, Kelas: 1DA, Dosen: GATOT SUBIYAKTO
+404. Mata Kuliah: Pendidikan Pancasila *, Kelas: 1DD, Dosen: GATOT SUBIYAKTO
+405. Mata Kuliah: Pendidikan Pancasila *, Kelas: 1DF, Dosen: GATOT SUBIYAKTO
+406. Mata Kuliah: Pendidikan Pancasila *, Kelas: 1EC, Dosen: GATOT SUBIYAKTO
+407. Mata Kuliah: Pendidikan Pancasila *, Kelas: 1MA, Dosen: GATOT SUBIYAKTO
+408. Mata Kuliah: Pendidikan Pancasila *, Kelas: 1PA, Dosen: GATOT SUBIYAKTO
+409. Mata Kuliah: Pendidikan Pancasila *, Kelas: 1SB, Dosen: GATOT SUBIYAKTO
+410. Mata Kuliah: Pendidikan Pancasila *, Kelas: 1SC, Dosen: GATOT SUBIYAKTO
+411. Mata Kuliah: Pendidikan Pancasila *, Kelas: 1TA, Dosen: GATOT SUBIYAKTO
+412. Mata Kuliah: Pendidikan Pancasila *, Kelas: 2SB, Dosen: GATOT SUBIYAKTO
+413. Mata Kuliah: Pendidikan Pancasila*, Kelas: 1EA, Dosen: GATOT SUBIYAKTO
+414. Mata Kuliah: Pendidikan Pancasila*, Kelas: 1EB, Dosen: GATOT SUBIYAKTO
+415. Mata Kuliah: Pendidikan Pancasila*, Kelas: 2SA, Dosen: GATOT SUBIYAKTO
+416. Mata Kuliah: Penerjemahan 2, Kelas: 2SA, Dosen: SRI HARTATI
+417. Mata Kuliah: Penerjemahan Audiovisual, Kelas: 3SA, Dosen: AGUNG PRASETYO WIBOWO
+418. Mata Kuliah: Penerjemahan Berbantuan Komp(CAT), Kelas: 3SA, Dosen: DIAN WULANDARI
+419. Mata Kuliah: Penerjemahan Teks Khusus, Kelas: 4SA, Dosen: NURROCHMAN
+420. Mata Kuliah: Peng. Akuntansi 2 dan Prak */**, Kelas: 1DF, Dosen: IRA PHAJAR LESTARI
+421. Mata Kuliah: Peng. Bisnis Teknologi Informasi, Kelas: 4KA, Dosen: RIFIANA ARIEF
+422. Mata Kuliah: Peng. Filsafat & Pemikiran Moderen, Kelas: 2SA, Dosen: ROBINGAH
+423. Mata Kuliah: Peng. Interaksi Manusia & Komp.**, Kelas: 2DB, Dosen: RIFIANA ARIEF
+424. Mata Kuliah: Peng. Manajemen & Bisnis Syariah, Kelas: 1EC, Dosen: IZZANI ULFI
+425. Mata Kuliah: Pengajaran Mikro, Kelas: 4SA, Dosen: ROBINGAH
+426. Mata Kuliah: Pengantar Akuntansi 2 & Prak **, Kelas: 1DD, Dosen: IRA PHAJAR LESTARI
+427. Mata Kuliah: Pengantar Akuntansi 2 **, Kelas: 1EA, Dosen: IRA PHAJAR LESTARI
+428. Mata Kuliah: Pengantar Akuntansi 2A **, Kelas: 1EB, Dosen: IRA PHAJAR LESTARI
+429. Mata Kuliah: Pengantar Akuntansi 2B & Prak. **, Kelas: 1DA, Dosen: IRA PHAJAR LESTARI
+430. Mata Kuliah: Pengantar Akuntansi 2B **, Kelas: 1EB, Dosen: IRA PHAJAR LESTARI
+431. Mata Kuliah: Pengantar Akuntansi Keuangan, Kelas: 2KA, Dosen: DYAH MIETA SETYAWATI
+432. Mata Kuliah: Pengantar Akuntansi**, Kelas: 1EC, Dosen: NUR AZIFAH
+433. Mata Kuliah: Pengantar Aljabar Linier, Kelas: 1IE, Dosen: NOLA MARINA
+434. Mata Kuliah: Pengantar Basis Data, Kelas: 1DC, Dosen: AHMAD HIDAYAT
+435. Mata Kuliah: Pengantar Ekonomi 2, Kelas: 1EA, Dosen: ELVIA FARDIANA
+436. Mata Kuliah: Pengantar Ekonomi 2 *, Kelas: 1EB, Dosen: ELVIA FARDIANA
+437. Mata Kuliah: Pengantar Ekonomi Islam *, Kelas: 1EC, Dosen: SITI AISYAH
+438. Mata Kuliah: Pengantar Genetika Tanaman, Kelas: 1IE, Dosen: MUHAMMAD RIDHA ALFARABI ISTIQLAL
+439. Mata Kuliah: Pengantar Instrumentasi, Kelas: 2DC, Dosen: PURNAWARMAN MUSA
+440. Mata Kuliah: Pengantar Kesusastraaan, Kelas: 1SC, Dosen: HUKMAWATI
+441. Mata Kuliah: Pengantar Komputer & TI 2A, Kelas: 1EA, Dosen: YULIA EKA PRAPTININGSIH
+442. Mata Kuliah: Pengantar Komputer & TI 2A, Kelas: 1EB, Dosen: YULIA EKA PRAPTININGSIH
+443. Mata Kuliah: Pengantar Komputer & TI 2ABC, Kelas: 1EA, Dosen: YULIA EKA PRAPTININGSIH
+444. Mata Kuliah: Pengantar Komputer & TI 2B, Kelas: 1EA, Dosen: YULIA EKA PRAPTININGSIH
+445. Mata Kuliah: Pengantar Komputer & TI 2B, Kelas: 1EB, Dosen: YULIA EKA PRAPTININGSIH
+446. Mata Kuliah: Pengantar Komputer & TI 2C, Kelas: 1EA, Dosen: YULIA EKA PRAPTININGSIH
+447. Mata Kuliah: Pengantar Komputer & TI 2C, Kelas: 1EB, Dosen: YULIA EKA PRAPTININGSIH
+448. Mata Kuliah: Pengantar Komputer 2A & Prak. **, Kelas: 1DA, Dosen: ABDUL HAFIDH SIDIQ
+449. Mata Kuliah: Pengantar Komputer 2B & Prak. **, Kelas: 1DA, Dosen: ABDUL HAFIDH SIDIQ
+450. Mata Kuliah: Pengantar Manajemen *, Kelas: 1DD, Dosen: NENIK DIAH HARTANTI
+451. Mata Kuliah: Pengantar Manajemen *, Kelas: 1DF, Dosen: NENIK DIAH HARTANTI
+452. Mata Kuliah: Pengantar Manajemen *, Kelas: 1EA, Dosen: NENIK DIAH HARTANTI
+453. Mata Kuliah: Pengantar Teknologi Informasi **, Kelas: 1KB, Dosen: MISSA LAMSANI
+454. Mata Kuliah: Pengantar Teknologi SIM 2 **, Kelas: 2EA, Dosen: DEVI INDRIANI
+455. Mata Kuliah: Pengantar Ubiquitus Computing, Kelas: 4KB, Dosen: SINGGIH JATMIKO
+456. Mata Kuliah: Pengantarmukaan Perif.Komputer *, Kelas: 3KB, Dosen: RAGIEL HADI PRAYITNO
+457. Mata Kuliah: Pengantarmukaan&Pesawat Periferal, Kelas: 2DC, Dosen: RAGIEL HADI PRAYITNO
+458. Mata Kuliah: Pengel.WarisanBudaya utk Nusantara*, Kelas: 1SB, Dosen: MURNI SETYAWATI
+459. Mata Kuliah: Pengemb. Kreativitas&Keberbakata, Kelas: 2PA, Dosen: NATALIA KONRADUS
+460. Mata Kuliah: Pengendalian & Penjaminan Mutu *, Kelas: 3ID, Dosen: RAKHMA OKTAVINA
+461. Mata Kuliah: Pengetahuan Bahan Elektrik, Kelas: 2IB, Dosen: ANY K YAPIE
+462. Mata Kuliah: Pengetahuan Food & Beverages, Kelas: 1SB, Dosen: MURNI SETYAWATI
+463. Mata Kuliah: Pengkajian Prosa Inggris*, Kelas: 3SA, Dosen: SRI HARTATI
+464. Mata Kuliah: Pengolahan Citra **, Kelas: 3IA, Dosen: ATIT PERTIWI
+465. Mata Kuliah: Pengolahan Sinyal Digital, Kelas: 2KB, Dosen: JAMILAH
+466. Mata Kuliah: Pengukuran Besaran Elektrik, Kelas: 2IB, Dosen: VERONICA ERNITA KRISTIANTI
+467. Mata Kuliah: Perakitan Sistem Perangkat Keras, Kelas: 2DC, Dosen: NUR SULTAN SALAHUDDIN
+468. Mata Kuliah: Peranc.StrukturBeton Bertulang 2A, Kelas: 3TA, Dosen: TRI HANDAYANI
+469. Mata Kuliah: Peranc.StrukturBeton Bertulang 2B, Kelas: 3TA, Dosen: TRI HANDAYANI
+470. Mata Kuliah: Perancangan Desain Interior Hunia, Kelas: 2TC, Dosen: ARDIANTI PERMATA AYU
+471. Mata Kuliah: Perancangan Perkerasan Jalan A *, Kelas: 3TA, Dosen: WIKE WEDYA LASTIN
+472. Mata Kuliah: Perancangan Perkerasan Jalan B *, Kelas: 3TA, Dosen: WIKE WEDYA LASTIN
+473. Mata Kuliah: Perancangan Pondasi Dalam A, Kelas: 3TA, Dosen: ELLYSA
+474. Mata Kuliah: Perancangan Pondasi Dalam B, Kelas: 3TA, Dosen: ELLYSA
+475. Mata Kuliah: Perancangan Struktur Baja 2A, Kelas: 3TA, Dosen: TRI HANDAYANI
+476. Mata Kuliah: Perancangan Struktur Baja 2B, Kelas: 3TA, Dosen: TRI HANDAYANI
+477. Mata Kuliah: Perancangan&Pengembangan Produk*, Kelas: 2ID, Dosen: MAULIDA BORU BUTAR-BUTAR
+478. Mata Kuliah: Perangkat Lunak Akt. 2 & Prak **, Kelas: 2DA, Dosen: HANTORO ARIEF GISIJANTO
+479. Mata Kuliah: Perangkat Lunak Akuntansi **, Kelas: 2EB, Dosen: HANTORO ARIEF GISIJANTO
+480. Mata Kuliah: Perbankan Syariah */ **, Kelas: 2EC, Dosen: MAULANA SYARIF HIDAYATULAH
+481. Mata Kuliah: Perdagangan Internasional *, Kelas: 2DD, Dosen: HENDRI RAHMAYANI ASRI
+482. Mata Kuliah: Perekonomian Indonesia, Kelas: 1EB, Dosen: NENIK DIAH HARTANTI
+483. Mata Kuliah: Perekonomian Indonesia, Kelas: 3EA, Dosen: NENIK DIAH HARTANTI
+484. Mata Kuliah: Perencanaan Kampanye Komunikas, Kelas: 3MA, Dosen: OLLY AURORA
+485. Mata Kuliah: Perilaku Konsumen, Kelas: 2EA, Dosen: PERLI ISWANTO
+486. Mata Kuliah: Periodisasi Sastra Tiongkok *, Kelas: 2SC, Dosen: HUKMAWATI
+487. Mata Kuliah: Perkembangan Arsitektur Dunia, Kelas: 2TB, Dosen: DEWI ASTUTI
+488. Mata Kuliah: Perpindahan Kalor dan Massa 1, Kelas: 2IC, Dosen: RADEN RORO SRI POERNOMO SARI
+489. Mata Kuliah: Produksi Animasi*, Kelas: 3MA, Dosen: SENDI EKA NANDA
+490. Mata Kuliah: Produksi Program Radio **, Kelas: 2MA, Dosen: SENDI EKA NANDA
+491. Mata Kuliah: Programming and Space Planning, Kelas: 1TC, Dosen: GRACIA VERONICA
+492. Mata Kuliah: Promosi dan Periklanan 2, Kelas: 3DD, Dosen: WIDIO NUGROHO
+493. Mata Kuliah: Proses Industri, Kelas: 4IC, Dosen: AJI ABDILLAH KHARISMA
+494. Mata Kuliah: Proses Manufaktur *, Kelas: 2ID, Dosen: ASEP MOHAMMAD NOOR
+495. Mata Kuliah: Proses Produksi 2, Kelas: 1IC, Dosen: ARIYANTO
+496. Mata Kuliah: Proteksi Tenaga Elektrik, Kelas: 4IB, Dosen: DHATU PARAGYA
+497. Mata Kuliah: Psikodiagnostika 2 : Observasi**, Kelas: 2PA, Dosen: META DAMARIYANTI
+498. Mata Kuliah: Psikologi dan Perilaku Konsumen, Kelas: 3DD, Dosen: PERLI ISWANTO
+499. Mata Kuliah: Psikologi dan Teknologi Internet, Kelas: 2PA, Dosen: QUROYZHIN KARTIKA RINI
+500. Mata Kuliah: Psikologi Faal **, Kelas: 1PA, Dosen: NATALIA KONRADUS
+501. Mata Kuliah: Psikologi Industri, Kelas: 3ID, Dosen: ROSI SEPTY WAHYUNI
+502. Mata Kuliah: Psikologi Industri & Organisasi *, Kelas: 2PA, Dosen: INTAGLIA HARSANTI
+503. Mata Kuliah: Psikologi Infor. Kognitif Sains, Kelas: 4PA, Dosen: URSA MAJORSY
+504. Mata Kuliah: Psikologi Kepribadian 2 *, Kelas: 2PA, Dosen: FIRDA FITRI FATIMAH
+505. Mata Kuliah: Psikologi Klinis, Kelas: 2PA, Dosen: TRIDA CYNTHIA
+506. Mata Kuliah: Psikologi Kognitif */**, Kelas: 3PA, Dosen: URSA MAJORSY
+507. Mata Kuliah: Psikologi Komunikasi, Kelas: 2MA, Dosen: OCVITA ARDHIANI
+508. Mata Kuliah: Psikologi Komunikasi, Kelas: 4MA, Dosen: OCVITA ARDHIANI
+509. Mata Kuliah: Psikologi Konseling, Kelas: 3PA, Dosen: TRIDA CYNTHIA
+510. Mata Kuliah: Psikologi Manajemen, Kelas: 3PA, Dosen: INGE ANDRIANI
+511. Mata Kuliah: Psikologi Perkembangan 1 *, Kelas: 1PA, Dosen: ALIA RIZKI FAUZIAH
+512. Mata Kuliah: Psikologi Sosial 2 *, Kelas: 1PA, Dosen: KENES PRANANDARI
+513. Mata Kuliah: Psikologi Umum 2 *, Kelas: 1PA, Dosen: INGE ANDRIANI
+514. Mata Kuliah: Psikometri *, Kelas: 3PA, Dosen: FIRDA FITRI FATIMAH
+515. Mata Kuliah: Qawaid Iqtishad, Kelas: 2EC, Dosen: MAULANA SYARIF HIDAYATULAH
+516. Mata Kuliah: Rancangan Percobaan */**, Kelas: 2IE, Dosen: AHMAD YOZAR PERKASA
+517. Mata Kuliah: Rangkaian Elektrik 2A, Kelas: 1IB, Dosen: DEBYO SAPTONO
+518. Mata Kuliah: Rangkaian Elektrik 2B, Kelas: 1IB, Dosen: DEBYO SAPTONO
+519. Mata Kuliah: Rangkaian Logika A *, Kelas: 1IB, Dosen: ALONA SITUMEANG
+520. Mata Kuliah: Rangkaian Logika B *, Kelas: 1IB, Dosen: ALONA SITUMEANG
+521. Mata Kuliah: Reading Images (Semiotika), Kelas: 2SA, Dosen: ENDANG PURWANINGSIH
+522. Mata Kuliah: Rekayasa Gempa, Kelas: 3TA, Dosen: RELLY ANDAYANI
+523. Mata Kuliah: Rekayasa Hidrologi, Kelas: 2TA, Dosen: DIYANTI
+524. Mata Kuliah: Rekayasa Komputasional **, Kelas: 3IA, Dosen: EMY HARYATMI
+525. Mata Kuliah: Rekayasa Lalu Lintas, Kelas: 2TA, Dosen: TATI NOVIATI
+526. Mata Kuliah: Rekayasa Perangkat Lunak 1, Kelas: 3IA, Dosen: NELLY SOFI
+527. Mata Kuliah: Riset Operasional, Kelas: 2IA, Dosen: HENDRI RAHMAYANI ASRI
+528. Mata Kuliah: Riset Operasional **, Kelas: 2DF, Dosen: HENDRI RAHMAYANI ASRI
+529. Mata Kuliah: Riset Operasional 2 **, Kelas: 2EA, Dosen: HENDRI RAHMAYANI ASRI
+530. Mata Kuliah: Robotika Dasar *, Kelas: 3KB, Dosen: ATIT PERTIWI
+531. Mata Kuliah: Seminar Manajemen Pemasaran, Kelas: 3DD, Dosen: KARTIKA SUKMAWATI
+532. Mata Kuliah: Simulasi & Pemodelan, Kelas: 4KB, Dosen: ASEP JUARNA
+533. Mata Kuliah: Sintaksis Bahasa Inggris*, Kelas: 3SA, Dosen: SUGENG TRIJANTO
+534. Mata Kuliah: Sist.Pembangkit Tenaga Elektrik*, Kelas: 3IB, Dosen: WAHYU KUSUMA RAHARJA
+535. Mata Kuliah: Sistem Basis Data  *, Kelas: 2DA, Dosen: AHMAD HIDAYAT
+536. Mata Kuliah: Sistem Basis Data 2 */**, Kelas: 1DB, Dosen: LELY PRANANINGRUM
+537. Mata Kuliah: Sistem Basis Data 2 */**, Kelas: 2KA, Dosen: LELY PRANANINGRUM
+538. Mata Kuliah: Sistem Basis Data 2*/ **, Kelas: 3IA, Dosen: YULI KARYANTI
+539. Mata Kuliah: Sistem Berbasis Pengetahuan **, Kelas: 3KA, Dosen: DINA ANGGRAINI
+540. Mata Kuliah: Sistem Berkas *, Kelas: 2IA, Dosen: YENI SETIANI
+541. Mata Kuliah: Sistem Cerdas, Kelas: 3DC, Dosen: MUDRIKA
+542. Mata Kuliah: Sistem Cerdas Lanjut, Kelas: 3KB, Dosen: NUR SULTAN SALAHUDDIN
+543. Mata Kuliah: Sistem Digital *, Kelas: 2KB, Dosen: DHATU PARAGYA
+544. Mata Kuliah: Sistem Informasi Geografis, Kelas: 4KA, Dosen: I KOMANG SUGIARTA
+545. Mata Kuliah: Sistem Informasi Geografis **, Kelas: 2IE, Dosen: AHMAD YOZAR PERKASA
+546. Mata Kuliah: Sistem Informasi Manajemen, Kelas: 1DB, Dosen: CAHYAWATI DIAH KUSUMARINI
+547. Mata Kuliah: Sistem Informasi Manufaktur, Kelas: 2ID, Dosen: NURJANNAH
+548. Mata Kuliah: Sistem Informasi Pemasaran, Kelas: 3DD, Dosen: SINDY NOVA
+549. Mata Kuliah: Sistem Informasi Perbankan, Kelas: 4KA, Dosen: KARTIKA SARI
+550. Mata Kuliah: Sistem Informasi SDM, Kelas: 4KA, Dosen: SINDY NOVA
+551. Mata Kuliah: Sistem Intelijen, Kelas: 3ID, Dosen: RATIH WULANDARI
+552. Mata Kuliah: Sistem Multimedia, Kelas: 4KB, Dosen: MISSA LAMSANI
+553. Mata Kuliah: Sistem Multimedia **, Kelas: 4IA, Dosen: MISSA LAMSANI
+554. Mata Kuliah: Sistem Operasi **, Kelas: 2KA, Dosen: DEA ADLINA
+555. Mata Kuliah: Sistem Operasi */**, Kelas: 2IA, Dosen: DEA ADLINA
+556. Mata Kuliah: Sistem Pemrosesan Sinyal, Kelas: 3IB, Dosen: DESY KRISTYAWATI
+557. Mata Kuliah: Sistem Produksi, Kelas: 3ID, Dosen: PRAMESWARI RIZCHA JULIANDA
+558. Mata Kuliah: Sistem Terdistribusi, Kelas: 4IA, Dosen: YENI SETIANI
+559. Mata Kuliah: Sistem Tertanam (Embedded) *, Kelas: 3KB, Dosen: RIDHA ISKANDAR
+560. Mata Kuliah: Sistem Transportasi *, Kelas: 2TA, Dosen: NURINA YASIN
+561. Mata Kuliah: Sistem Waktu Nyata, Kelas: 4KB, Dosen: ANDINI SINTAWATI
+562. Mata Kuliah: Sosiologi & Politik, Kelas: 1EB, Dosen: SULISTINING TRI MULYANI
+563. Mata Kuliah: Sosiologi Komunikasi dan Media, Kelas: 1MA, Dosen: FITRI DWI LESTARI
+564. Mata Kuliah: Statistika & Probabilitas, Kelas: 2IB, Dosen: RINA SUGIARTI
+565. Mata Kuliah: Statistika **, Kelas: 2KA, Dosen: RINA SUGIARTI
+566. Mata Kuliah: Statistika 2, Kelas: 2EC, Dosen: RINA SUGIARTI
+567. Mata Kuliah: Statistika 2 & Prak. **, Kelas: 2DA, Dosen: SRI WULAN WINDU RATIH
+568. Mata Kuliah: Statistika 2 & Prak. **, Kelas: 2DD, Dosen: SRI WULAN WINDU RATIH
+569. Mata Kuliah: Statistika 2 & Prak. **, Kelas: 2DF, Dosen: SRI WULAN WINDU RATIH
+570. Mata Kuliah: Statistika 2 **, Kelas: 2EA, Dosen: SRI WULAN WINDU RATIH
+571. Mata Kuliah: Statistika 2 **, Kelas: 2EB, Dosen: SRI WULAN WINDU RATIH
+572. Mata Kuliah: Statistika 2 **, Kelas: 2IA, Dosen: RINA SUGIARTI
+573. Mata Kuliah: Statistika Farmasi, Kelas: 2HB, Dosen: FITRI YULIANTI
+574. Mata Kuliah: Statistika Lanjut, Kelas: 2PA, Dosen: INTAGLIA HARSANTI
+575. Mata Kuliah: Statistika Multivariat, Kelas: 2ID, Dosen: YUYUN YUNIAR ROHMATIN
+576. Mata Kuliah: Statistika&Probabilitas Terapan, Kelas: 2KB, Dosen: MARIA Y ARYATI WAHYUNINGRUM
+577. Mata Kuliah: Struktur & Organisasi Data *, Kelas: 1KA, Dosen: DINA ANGGRAINI
+578. Mata Kuliah: Struktur dan Konstruksi 1A *, Kelas: 1TB, Dosen: LILIK SETIAWAN HERY PURNAMA
+579. Mata Kuliah: Struktur dan Konstruksi 1B *, Kelas: 1TB, Dosen: LILIK SETIAWAN HERY PURNAMA
+580. Mata Kuliah: Struktur dan Konstruksi 1C *, Kelas: 1TB, Dosen: LILIK SETIAWAN HERY PURNAMA
+581. Mata Kuliah: Struktur dan Kontruksi 3A *, Kelas: 2TB, Dosen: LILIK SETIAWAN HERY PURNAMA
+582. Mata Kuliah: Struktur dan Kontruksi 3B *, Kelas: 2TB, Dosen: LILIK SETIAWAN HERY PURNAMA
+583. Mata Kuliah: Struktur dan Kontruksi 3C *, Kelas: 2TB, Dosen: LILIK SETIAWAN HERY PURNAMA
+584. Mata Kuliah: Studi Ekskursi, Kelas: 3TB, Dosen: DEWI ASTUTI
+585. Mata Kuliah: Studi Kelayakan Bisnis, Kelas: 4EB, Dosen: DESI PUJIATI
+586. Mata Kuliah: Studi Kelayakan Bisnis*, Kelas: 3EA, Dosen: DESI PUJIATI
+587. Mata Kuliah: Studio Perancangan Ars. 3A *, Kelas: 2TB, Dosen: VERONIKA WIDI PRABAWASARI
+588. Mata Kuliah: Studio Perancangan Ars. 3B *, Kelas: 2TB, Dosen: VERONIKA WIDI PRABAWASARI
+589. Mata Kuliah: Studio Perancangan Ars. 3C *, Kelas: 2TB, Dosen: VERONIKA WIDI PRABAWASARI
+590. Mata Kuliah: Studio Perancangan Ars. 5A *, Kelas: 3TB, Dosen: WAHYU PRAKOSA
+591. Mata Kuliah: Studio Perancangan Ars. 5B *, Kelas: 3TB, Dosen: WAHYU PRAKOSA
+592. Mata Kuliah: Studio Perancangan Ars. 5C *, Kelas: 3TB, Dosen: WAHYU PRAKOSA
+593. Mata Kuliah: Studio Perancangan Arsitektur 1A*, Kelas: 1TB, Dosen: ADE SYOUFA
+594. Mata Kuliah: Studio Perancangan Arsitektur 1B*, Kelas: 1TB, Dosen: ADE SYOUFA
+595. Mata Kuliah: Studio Perancangan Arsitektur 1C*, Kelas: 1TB, Dosen: ADE SYOUFA
+596. Mata Kuliah: Suistanable Tourism, Kelas: 2SB, Dosen: ROSLIYANA BR PERANGIN ANGIN
+597. Mata Kuliah: Tata Bahasa 2 **, Kelas: 1SA, Dosen: NI LUH PUTU SETIARINI
+598. Mata Kuliah: Tata Bahasa 4 **, Kelas: 2SA, Dosen: NI LUH PUTU SETIARINI
+599. Mata Kuliah: Tata Ruang Luar dan Lansekap A, Kelas: 3TB, Dosen: VERONIKA WIDI PRABAWASARI
+600. Mata Kuliah: Tata Ruang Luar dan Lansekap B, Kelas: 3TB, Dosen: VERONIKA WIDI PRABAWASARI
+601. Mata Kuliah: Tata Ruang Luar dan Lansekap C, Kelas: 3TB, Dosen: VERONIKA WIDI PRABAWASARI
+602. Mata Kuliah: Teknik Komunikasi Arsitektural A, Kelas: 1TB, Dosen: RINA WIDAYANTI
+603. Mata Kuliah: Teknik Komunikasi Arsitektural B, Kelas: 1TB, Dosen: RINA WIDAYANTI
+604. Mata Kuliah: Teknik Mikroprosesor*, Kelas: 2IB, Dosen: WAHYU KUSUMA RAHARJA
+605. Mata Kuliah: Teknik Otomatisasi Sist.T.Elekt, Kelas: 4IB, Dosen: SETIYONO
+606. Mata Kuliah: Teknik Pembentukan Material, Kelas: 2IC, Dosen: AJI ABDILLAH KHARISMA
+607. Mata Kuliah: Teknik Pemrograman Terstruktur2**, Kelas: 2DB, Dosen: DIOKTA REDHO LASTIN
+608. Mata Kuliah: Teknik Pengaturan *, Kelas: 3IC, Dosen: SINGGAH KHAIRUN OKBA
+609. Mata Kuliah: Teknik Proyeksi Bisnis, Kelas: 3EA, Dosen: ZAIDATUN EKASTUTI
+610. Mata Kuliah: Teknik Radio dan Televisi, Kelas: 3IB, Dosen: ANTONIUS IRIANTO
+611. Mata Kuliah: Teknik Tegangan & Arus Tinggi *, Kelas: 3IB, Dosen: JOKO PURNOMO
+612. Mata Kuliah: Teknologi Benih **, Kelas: 2IE, Dosen: EVAN PURNAMA RAMDHAN
+613. Mata Kuliah: Teknologi Farmasi Sediaan Semi So, Kelas: 2HB, Dosen: SARASWATI RAMADHANI
+614. Mata Kuliah: Teknologi Informasi & Multimedia, Kelas: 4IB, Dosen: DESY KRISTYAWATI
+615. Mata Kuliah: Teknologi Proses Nano dan Mikro, Kelas: 4IC, Dosen: SANDY SURYADY
+616. Mata Kuliah: Teknologi Pupuk dan Pemupukan, Kelas: 2IE, Dosen: ADINDA NURUL HUDA MANURUNG
+617. Mata Kuliah: Teori Akuntansi *, Kelas: 3EB, Dosen: MUJIYANI
+618. Mata Kuliah: Teori Bahasa dan Otomata */**, Kelas: 3IA, Dosen: MAUKAR
+619. Mata Kuliah: Teori Ekonomi & Manajemen, Kelas: 1IB, Dosen: ANTONIUS IRIANTO
+620. Mata Kuliah: Teori Ekonomi 2 *, Kelas: 2EA, Dosen: JOKO UTOMO
+621. Mata Kuliah: Teori Komunikasi *, Kelas: 1MA, Dosen: KIAYATI YUSRIYAH
+622. Mata Kuliah: Teori Medan, Kelas: 2IB, Dosen: VERONICA ERNITA KRISTIANTI
+623. Mata Kuliah: Teori Organisasi Umum, Kelas: 1KA, Dosen: ANGGA PUTRI EKANOVA
+624. Mata Kuliah: Teori Probabilitas*/**, Kelas: 1ID, Dosen: YUYUN YUNIAR ROHMATIN
+625. Mata Kuliah: Teori Sastra Tiongkok *, Kelas: 2SC, Dosen: TRI WAHYU RETNO NINGSIH
+626. Mata Kuliah: Tes Proyektif **, Kelas: 3PA, Dosen: META DAMARIYANTI
+627. Mata Kuliah: Tinjauan Perkemb. Interior Asia, Kelas: 1TC, Dosen: ARDIANTI PERMATA AYU
+628. Mata Kuliah: Tourism Accounting, Kelas: 2SB, Dosen: DESY NUR AINI AL FAJRI
+629. Mata Kuliah: Tourism Communication, Kelas: 4MA, Dosen: NADINTA RAFIFAH SUAIB
+630. Mata Kuliah: Tourism Communications And Talent, Kelas: 1SB, Dosen: ANIEQ SITI ZAHROH
+631. Mata Kuliah: Tourism Ethics, Kelas: 2SB, Dosen: DESY NUR AINI AL FAJRI
+632. Mata Kuliah: Transformator Tenaga Elektrik, Kelas: 4IB, Dosen: BAMBANG DWINANTO
+633. Mata Kuliah: Transportation Management *, Kelas: 2SB, Dosen: FITRI RISMIYATI
+634. Mata Kuliah: Utilitas 2A *, Kelas: 2TB, Dosen: DIMYATI
+635. Mata Kuliah: Utilitas 2B *, Kelas: 2TB, Dosen: DIMYATI

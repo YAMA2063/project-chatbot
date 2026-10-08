@@ -1,0 +1,75 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 SASTRA TIONGKOK (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1SC01, 1SC02, 1SC03 ===
+Total SKS: 18 SKS [cite: 782]
+Daftar Mata Kuliah:
+1. Pendidikan Agama (2 SKS) [cite: 782]
+2. PP000207 - Pendidikan Kewarganegaraan (2 SKS) [cite: 782]
+3. PP063209 - Bahasa Indonesia 1 (2 SKS) [cite: 782]
+4. AK063220 - Keterampilan Komputer (2 SKS) [PP] [cite: 782]
+5. IT063273 - Basic English (2 SKS) [cite: 782]
+6. IT063252 - Berbicara Bahasa Mandarin Dasar 1 (2 SKS) [PP] [cite: 782]
+7. IT063251 - Membaca Bahasa Mandarin Dasar 1 (2 SKS) [PP] [cite: 782]
+8. IT063253 - Menulis Karakter Han Dasar 1 (2 SKS) [PP] [cite: 782]
+9. IT063254 - Menyimak Bahasa Mandarin Dasar 1 (2 SKS) [PP] [cite: 782]
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2SC01, 2SC02 ===
+Total SKS: 21 SKS [cite: 787]
+Daftar Mata Kuliah:
+1. PB063203 - Manusia dan Kebudayaan Indonesia (2 SKS) [UU] [cite: 787]
+2. AK063224 - Seni Budaya Tiongkok (2 SKS) [cite: 787]
+3. IT063256 - Berbicara Bahasa Mandarin Menengah (2 SKS) [PP] [cite: 787]
+4. IT063276 - English for Academic Purpose (2 SKS) [cite: 787]
+5. IT063257 - Membaca Bahasa Mandarin Menengah (2 SKS) [PP] [cite: 787]
+6. IT063258 - Menulis Karakter Han Menengah (2 SKS) [cite: 787]
+7. IT063255 - Menyimak Bahasa Mandarin Menengah (2 SKS) [PP] [cite: 787]
+8. IT063218 - Pengantar Apresiasi Sastra Tiongkok (2 SKS) [UU] [cite: 787]
+9. IT063219 - Pengantar Linguistik Mandarin (2 SKS) [UU] [cite: 787]
+10. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS) [TT] [cite: 787]
+11. IT000211 - Social Networking and Creative Content (2 SKS) [TT] [cite: 787]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3SC01 ===
+Total SKS: 20 SKS [cite: 794]
+Daftar Mata Kuliah:
+1. HM063216 - Sejarah Peradaban Tiongkok (2 SKS) [UU] [cite: 794]
+2. PB063205 - Akulturasi Budaya Tiongkok - Indonesia (2 SKS) [cite: 794]
+3. AK063222 - Bahasa Mandarin Dalam Industri Pariwisata (2 SKS) [cite: 794]
+4. IT063260 - Berbicara Bhs Mandarin Tingkat Mahir (2 SKS) [PP] [cite: 794]
+5. IT063228 - Metodologi Penelitian Linguistik (2 SKS) [UU] [cite: 794]
+6. IT063227 - Metodologi Penelitian Sastra (2 SKS) [UU] [cite: 794]
+7. IT063229 - Morfologi Bahasa Mandarin (2 SKS) [UU] [cite: 794]
+8. AK063210 - Penerjemahan Mandarin-Indonesia (2 SKS) [cite: 794]
+9. AK063225 - Public Speaking (2 SKS) [cite: 794]
+10. AK063226 - Seni Drama Tiongkok (2 SKS) [cite: 794]
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4SC01 ===
+Total SKS: 19 SKS [cite: 799]
+Daftar Mata Kuliah:
+1. HM063211 - Konten Kreator Bahasa Mandarin (2 SKS) [cite: 799]
+2. PB063209 - Seminar Kajian Bahasa Mandarin dan KEBudayaan Tiongkok (2 SKS) [cite: 799]
+3. AK063208 - Bahasa Mandarin untuk Media (2 SKS) [cite: 799]
+4. IT000215 - Kecerdasan Artifisial dan Masyarakat (2 SKS) [TT] [cite: 799]
+5. AK063214 - Komunikasi Bisnis Mandarin (2 SKS) [cite: 799]
+6. AK063216 - Metodologi Pengajaran Bahasa Mandarin (2 SKS) [UU] [cite: 799]
+7. AK063209 - Pembelajaran Bahasa Tiongkok Berbantuan Komputer (2 SKS) [cite: 799]
+8. IT000116 - Praktikum Kecerdasan Artifisial dan Masyarakat (1 SKS) [TT] [cite: 799]
+9. IT063240 - Semantik Bahasa Mandarin (2 SKS) [UU] [cite: 799]
+10. IT063272 - Uji Kemahiran Bahasa Mandarin Lanjut (2 SKS) [PP] [cite: 799]

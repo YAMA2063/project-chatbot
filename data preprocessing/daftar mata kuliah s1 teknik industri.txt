@@ -1,0 +1,113 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 TEKNIK INDUSTRI (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1ID01, 1ID02, 1ID03, 1ID04, 1ID05, 1ID06, 1ID07, 1ID08, 1ID09, 1ID10, 1ID11, 1ID12 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PP043212 - Bahasa Indonesia (2 SKS)
+2. IT043254 - Dasar Komputer dan Pemrograman (2 SKS)
+3. IT043205 - Fisika Dasar 1 (2 SKS)
+4. IT043203 - Kimia Dasar (2 SKS)
+5. AK043360 - Matematika Dasar (3 SKS)
+6. IT043208 - Menggambar Teknik (2 SKS)
+7. IT043207 - Pengantar Teknik Industri (2 SKS) [UU]
+8. IT043155 - Praktikum Dasar Komputer dan Pemrograman (1 SKS)
+9. IT043109 - Praktikum Fisika 1 (1 SKS)
+10. IT043157 - Praktikum Menggambar Teknik (1 SKS)
+
+=== KELAS: 1ID13 (SARMAG) ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PP043212 - Bahasa Indonesia (2 SKS)
+2. IT043254 - Dasar Komputer dan Pemrograman (2 SKS)
+3. IT043205 - Fisika Dasar 1 (2 SKS)
+4. IT043203 - Kimia Dasar (2 SKS)
+5. AK043360 - Matematika Dasar (3 SKS)
+6. IT043208 - Menggambar Teknik (2 SKS)
+7. IT043207 - Pengantar Teknik Industri (2 SKS) [UU]
+8. IT043155 - Praktikum Dasar Komputer dan Pemrograman (1 SKS)
+9. IT043109 - Praktikum Fisika 1 (1 SKS)
+10. IT043157 - Praktikum Menggambar Teknik (1 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2ID01, 2ID02, 2ID03, 2ID04, 2ID05, 2ID06, 2ID07, 2ID08, 2ID09, 2ID10 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT043314 - Kalkulus 2 (3 SKS)
+2. IT000203 - Komputasi Big Data (2 SKS) [TT]
+3. IT043331 - Matriks dan Ruang Vektor (3 SKS)
+4. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+5. IT043351 - Penelitian Operasional (3 SKS) [UU]
+6. IT043202 - Pengantar Ilmu Ekonomi (2 SKS)
+7. IT043252 - Pengetahuan Lingkungan (2 SKS)
+8. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT]
+9. IT043258 - Statistika Inferensia (2 SKS) [UU] [PP]
+
+=== KELAS: 2ID11 (SARMAG) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. AK043232 - Analisis dan Pengukuran Kerja (2 SKS) [PP]
+2. IT043314 - Kalkulus 2 (3 SKS)
+3. IT000203 - Komputasi Big Data (2 SKS)
+4. IT043331 - Matriks dan Ruang Vektor (3 SKS)
+5. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+6. IT043351 - Penelitian Operasional (3 SKS) [UU]
+7. IT043202 - Pengantar Ilmu Ekonomi (2 SKS)
+8. IT000104 - Praktikum Komputasi Big Data (1 SKS)
+9. IT043258 - Statistika Inferensia (2 SKS) [UU] [PP]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3ID01, 3ID02, 3ID03, 3ID04, 3ID05, 3ID06, 3ID07, 3ID08, 3ID09, 3ID10 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT043238 - Analisis dan Estimasi Biaya (2 SKS)
+2. IT043247 - Material Teknik (2 SKS) [UU]
+3. AK043210 - Metode Penelitian (2 SKS)
+4. AK043208 - Pemodelan Sistem (2 SKS) [UU]
+5. AK043203 - Perancangan Sistem Kerja dan Ergonomi (2 SKS) [PP]
+6. AK043304 - Perencanaan dan Pengendalian Produksi (3 SKS) [UU]
+7. AK043246 - Praktikum Perancangan Teknik Industri 2 (2 SKS)
+8. AK043363 - Simulasi Sistem (3 SKS)
+9. AK043226 - Teknik Keselamatan dan Kesehatan Kerja (2 SKS)
+
+=== KELAS: 3ID11 (SARMAG) ===
+Total SKS: 22 SKS
+Daftar Mata Kuliah:
+1. IT043238 - Analisis dan Estimasi Biaya (2 SKS)
+2. AK043245 - Analisis Rantai Pasok (2 SKS)
+3. IT043247 - Material Teknik (2 SKS) [UU]
+4. AK043210 - Metode Penelitian (2 SKS)
+5. IT043339 - Metode Stokastik (3 SKS)
+6. AK043208 - Pemodelan Sistem (2 SKS) [UU]
+7. IT043252 - Pengetahuan Lingkungan (2 SKS)
+8. AK043304 - Perencanaan dan Pengendalian Produksi (3 SKS) [UU]
+9. AK043246 - Praktikum Perancangan Teknik Industri 2 (2 SKS)
+10. AK043226 - Teknik Keselamatan dan Kesehatan Kerja (2 SKS)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4ID01, 4ID02, 4ID03, 4ID04, 4ID05, 4ID06, 4ID07, 4ID08, 4ID09 ===
+Total SKS: 17 SKS
+Daftar Mata Kuliah:
+1. AK043359 - Analisis dan Perancangan Perusahaan (3 SKS) [UU]
+2. AK043245 - Analisis Rantai Pasok (2 SKS)
+3. PB043206 - Etika Profesi (2 SKS)
+4. AK043224 - Manajemen Pemasaran Industri (2 SKS) [P]
+5. AK043244 - Perancangan Tata Letak Fasilitas (2 SKS) [UU]
+6. AK043120 - Praktikum Perancangan Tata Letak Fasilitas (1 SKS)
+7. IT000108 - Praktikum Robotika Cerdas (1 SKS) [TT]
+8. AK043252 - Rekayasa Mutu (2 SKS) [P]
+9. IT000207 - Robotika Cerdas (2 SKS) [TT]

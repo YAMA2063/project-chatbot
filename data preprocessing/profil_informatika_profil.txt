@@ -1,0 +1,13 @@
+=== JURUSAN INFORMATIKA ===
+Topik: Profil
+URL Asli: https://fti.gunadarma.ac.id/informatika/?page_id=159
+
+KONTEN:
+
+## Prodi Informatika
+Program Studi Informatika berada di bawah naungan Fakultas Teknologi Industri bersama-sama dengan jurusan Teknik Elektro, Teknik Mesin, Teknik Industri, dan Agroteknologi. Program Studi Informatika mempunyai visi dalam periode lima tahun ke depan diproyeksikan untuk menjadi program studi yang berorientasi global dan berkontribusi dalam perkembangan berkelanjutan berbasis Tridharma perguruan tinggi yang inovatif, responsif, dan adaptif dalam mendukung peningkatan daya saing nasional bidang informatika yang berbasis kecerdasan artifisial, khususnya pada pengolahan data besar dan pembelajaran mesin.
+
+Kurikulum yang digunakan pada program studi ini merujuk pada badan atau asosiasi di bidang ilmu Informatika dan Komputer baik Internasional maupun Nasional, yaitu Institute of Electrical and Electronics Engineers (IEEE), Association for Computing Machinary (ACM), dan Asosiasi Perguruan Tinggi Informatika dan Komputer (APTIKOM) serta kurikulum pada program sertifikasi profesi bidang Teknologi Informasi dan Komunikasi untuk tingkat Nasional maupun Internasional.
+
+## Akreditasi
+Pada tanggal 8 Juli 2022 Prodi Informatika Universitas Gunadarma mengajukan akreditasi ke Lembaga Akreditasi Mandiri Informatika dan Komputer dan berhasil mendapatkan akreditasi Unggul berdasarkan keputusan LAM INFOKOM No. 05/SK/DE/LAM-INFOKOM/PS-BN/VII/2022. Nilai akreditasi berlaku sampai 23 Juli 2024.

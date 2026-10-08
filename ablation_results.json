@@ -1,0 +1,2338 @@
+{
+  "Raw + Dense": {
+    "hit_rate_pct": 63.33,
+    "mrr": 0.5222,
+    "context_precision_pct": 33.33,
+    "avg_latency_s": 0.208,
+    "per_query": [
+      {
+        "id": 1,
+        "domain": "dosen_wali",
+        "query": "siapa wali kelas 1ka01",
+        "ground_truth": [
+          "daftar_dosen_kelas1.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_kelas1.txt",
+          "daftar_dosen_kelas1.txt",
+          "daftar_dosen_kelas1.txt",
+          "daftar_dosen_kelas1.txt",
+          "daftar_dosen_kelas1.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 1.0,
+        "latency_s": 0.638
+      },
+      {
+        "id": 2,
+        "domain": "dosen_wali",
+        "query": "wali 4ia01 sapa sih",
+        "ground_truth": [
+          "daftar_dosen_kelas4.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas4.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 1.0,
+        "latency_s": 0.158
+      },
+      {
+        "id": 3,
+        "domain": "dosen_wali",
+        "query": "wali kelas 2ka28",
+        "ground_truth": [
+          "daftar_dosen_kelas2.txt"
+        ],
+        "retrieved": [
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt",
+          "daftar_dosen_kelas2.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.3333333333333333,
+        "precision": 0.2,
+        "latency_s": 0.168
+      },
+      {
+        "id": 4,
+        "domain": "dosen_wali",
+        "query": "wali kelas 3ia05 dong",
+        "ground_truth": [
+          "daftar_dosen_kelas3.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.8,
+        "latency_s": 0.165
+      },
+      {
+        "id": 5,
+        "domain": "dosen_pengajar",
+        "query": "bu lulu ngajar apa",
+        "ground_truth": [
+          "daftar_koordinator_matkul.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas2.txt",
+          "daftar_dosen_kelas1.txt"
+        ],
+        "retrieved": [
+          "jadwal_kuliah_master.txt",
+          "jadwal_kuliah_master.txt",
+          "daftar_dosen_pi.txt",
+          "jadwal_kuliah_master.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.184
+      },
+      {
+        "id": 6,
+        "domain": "dosen_pengajar",
+        "query": "siapa yang ngajar basis data",
+        "ground_truth": [
+          "daftar_koordinator_matkul.txt"
+        ],
+        "retrieved": [
+          "jadwal_kuliah_master.txt",
+          "jadwal_kuliah_master.txt",
+          "jadwal_kuliah_master.txt",
+          "jadwal_kuliah_master.txt",
+          "jadwal_kuliah_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.168
+      },
+      {
+        "id": 7,
+        "domain": "dosen_pi",
+        "query": "dosen pembimbing pi kelas 4ka27",
+        "ground_truth": [
+          "daftar_dosen_pi.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 1.0,
+        "latency_s": 0.191
+      },
+      {
+        "id": 8,
+        "domain": "dosen_pi",
+        "query": "pi 4ia12 dibimbing siapa",
+        "ground_truth": [
+          "daftar_dosen_pi.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 1.0,
+        "latency_s": 0.171
+      },
+      {
+        "id": 9,
+        "domain": "mata_kuliah",
+        "query": "matkul semester 3 sistem informasi",
+        "ground_truth": [
+          "daftar mata kuliah s1 sistem informasi.txt"
+        ],
+        "retrieved": [
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.204
+      },
+      {
+        "id": 10,
+        "domain": "mata_kuliah",
+        "query": "jurusan informatika belajar apa aja",
+        "ground_truth": [
+          "daftar mata kuliah s1 informatika.txt"
+        ],
+        "retrieved": [
+          "profil_informatika_tujuan_dan_sasaran.txt",
+          "daftar_rps_master.txt",
+          "profil_informatika_tujuan_dan_sasaran.txt",
+          "jadwal_kuliah_master.txt",
+          "daftar mata kuliah d3 manajemen informatika.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.448
+      },
+      {
+        "id": 11,
+        "domain": "mata_kuliah",
+        "query": "matkul akuntansi d3",
+        "ground_truth": [
+          "daftar mata kuliah d3 akuntansi komputer.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.212
+      },
+      {
+        "id": 12,
+        "domain": "mata_kuliah",
+        "query": "daftar matkul teknik sipil",
+        "ground_truth": [
+          "daftar mata kuliah s1 teknik sipil.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.17
+      },
+      {
+        "id": 13,
+        "domain": "jadwal",
+        "query": "jadwal uas kapan ya",
+        "ground_truth": [
+          "dataset_jadwal_ujian_utama.txt"
+        ],
+        "retrieved": [
+          "kalender.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "jadwal_uas_master.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.4,
+        "latency_s": 0.192
+      },
+      {
+        "id": 14,
+        "domain": "jadwal",
+        "query": "gimana cara liat jadwal kuliah",
+        "ground_truth": [
+          "panduan_jadwal_kuliah.txt"
+        ],
+        "retrieved": [
+          "panduan_jadwal_kuliah.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "dataset_jadwal_ujian_utama.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.2,
+        "latency_s": 0.2
+      },
+      {
+        "id": 15,
+        "domain": "administrasi",
+        "query": "cara isi krs gimana",
+        "ground_truth": [
+          "krs.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "formulir permohonan pindah jurusan.txt",
+          "profil_sistem_komputer_profil_dosen.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.188
+      },
+      {
+        "id": 16,
+        "domain": "administrasi",
+        "query": "cara daftar wisuda",
+        "ground_truth": [
+          "prosedur wisuda.txt"
+        ],
+        "retrieved": [
+          "prosedur wisuda.txt",
+          "prosedur wisuda.txt",
+          "daftar ulang.txt",
+          "formulir permohonan pindah jurusan.txt",
+          "daftar sidang.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.205
+      },
+      {
+        "id": 17,
+        "domain": "administrasi",
+        "query": "syarat sidang skripsi apa aja",
+        "ground_truth": [
+          "akademik.txt",
+          "daftar sidang.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN TATA KRAMA DOSEN.txt",
+          "akademik.txt",
+          "BUKU PEDOMAN TATA KRAMA DOSEN.txt",
+          "BUKU PEDOMAN TATA KRAMA DOSEN.txt",
+          "BUKU PEDOMAN TATA KRAMA DOSEN.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.2,
+        "latency_s": 0.185
+      },
+      {
+        "id": 18,
+        "domain": "administrasi",
+        "query": "cara aktivasi mahasiswa baru",
+        "ground_truth": [
+          "aktivasi.txt"
+        ],
+        "retrieved": [
+          "aktivasi.txt",
+          "aktivasi.txt",
+          "formulir permohonan pindah kelas.txt",
+          "MATERI PPSPPT.txt",
+          "daftar ulang.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.183
+      },
+      {
+        "id": 19,
+        "domain": "administrasi",
+        "query": "cara urus surat keterangan",
+        "ground_truth": [
+          "surat keterangan.txt"
+        ],
+        "retrieved": [
+          "surat keterangan.txt",
+          "surat keterangan.txt",
+          "profil_akuntansi_akreditasi.txt",
+          "pengurusan_ujian_bentrok.txt",
+          "profil_akuntansi_akreditasi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.197
+      },
+      {
+        "id": 20,
+        "domain": "administrasi",
+        "query": "cara bikin blanko pembayaran",
+        "ground_truth": [
+          "blanko pembayaran.txt"
+        ],
+        "retrieved": [
+          "daftar ulang.txt",
+          "blanko pembayaran.txt",
+          "daftar ulang.txt",
+          "formulir cuti akademik.txt",
+          "blanko pembayaran.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.4,
+        "latency_s": 0.19
+      },
+      {
+        "id": 21,
+        "domain": "profil",
+        "query": "visi misi gunadarma apa",
+        "ground_truth": [
+          "profil_universitas_gunadarma.txt"
+        ],
+        "retrieved": [
+          "profil_manajemen_visi_misi.txt",
+          "profil_informatika_visi_dan_misi.txt",
+          "MATERI PPSPPT.txt",
+          "profil_mesin_visi_misi_tujuan.txt",
+          "profil_agrotek_visi_misi.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.192
+      },
+      {
+        "id": 22,
+        "domain": "profil",
+        "query": "akreditasi sistem informasi berapa",
+        "ground_truth": [
+          "profil_sistem_informasi_akreditasi.txt"
+        ],
+        "retrieved": [
+          "profil_sistem_informasi_akreditasi.txt",
+          "profil_sistem_komputer_akreditasi.txt",
+          "daftar mata kuliah s1 sistem informasi.txt",
+          "profil_sistem_informasi_visi_misi.txt",
+          "profil_akuntansi_akreditasi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.2,
+        "latency_s": 0.173
+      },
+      {
+        "id": 23,
+        "domain": "profil",
+        "query": "visi misi jurusan informatika",
+        "ground_truth": [
+          "profil_informatika_visi_misi.txt"
+        ],
+        "retrieved": [
+          "profil_informatika_visi_dan_misi.txt",
+          "profil_informatika_visi_dan_misi.txt",
+          "profil_sistem_informasi_visi_misi.txt",
+          "profil_informatika_tujuan_dan_sasaran.txt",
+          "profil_informatika_tujuan_dan_sasaran.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.158
+      },
+      {
+        "id": 24,
+        "domain": "pedoman",
+        "query": "aturan tata krama mahasiswa apa aja",
+        "ground_truth": [
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "formulir permohonan pindah kelas.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.8,
+        "latency_s": 0.201
+      },
+      {
+        "id": 25,
+        "domain": "pedoman",
+        "query": "aturan penasehat akademik",
+        "ground_truth": [
+          "BUKU PEDOMAN PENASEHAT AKADEMIK PA & WALI KELAS.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN PROSES BELAJAR MENGAJAR.txt",
+          "BUKU PEDOMAN PENASEHAT AKADEMIK PA & WALI KELAS.txt",
+          "BUKU PEDOMAN TATA KRAMA DOSEN.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.3333333333333333,
+        "precision": 0.2,
+        "latency_s": 0.202
+      },
+      {
+        "id": 26,
+        "domain": "berita",
+        "query": "berita terbaru baak apa",
+        "ground_truth": [
+          "berita_terbaru_baak.txt"
+        ],
+        "retrieved": [
+          "berita_terbaru_baak.txt",
+          "formulir permohonan pindah kelas.txt",
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt",
+          "MATERI PPSPPT.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.169
+      },
+      {
+        "id": 27,
+        "domain": "rps",
+        "query": "info rps gimana",
+        "ground_truth": [
+          "informasi_rps.txt",
+          "informasi_kontak_rps.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.167
+      },
+      {
+        "id": 28,
+        "domain": "administrasi",
+        "query": "cara ngurus skpi",
+        "ground_truth": [
+          "skpi.txt"
+        ],
+        "retrieved": [
+          "perpustakaan.txt",
+          "skpi.txt",
+          "skpi.txt",
+          "profil_teknik_sipil_dokumen_evaluasi.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.4,
+        "latency_s": 0.198
+      },
+      {
+        "id": 29,
+        "domain": "jadwal",
+        "query": "kalender akademik gunadarma",
+        "ground_truth": [
+          "kalender_akademik.txt"
+        ],
+        "retrieved": [
+          "kalender.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "formulir cuti akademik.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.179
+      },
+      {
+        "id": 30,
+        "domain": "administrasi",
+        "query": "ujian bentrok gimana solusinya",
+        "ground_truth": [
+          "pengurusan_ujian_bentrok.txt"
+        ],
+        "retrieved": [
+          "pengurusan_ujian_bentrok.txt",
+          "pengurusan_ujian_bentrok.txt",
+          "berita_terbaru_baak.txt",
+          "jadwal_ujian.txt",
+          "berita_terbaru_baak.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.19
+      }
+    ]
+  },
+  "Transformed + Dense": {
+    "hit_rate_pct": 73.33,
+    "mrr": 0.6217,
+    "context_precision_pct": 34.67,
+    "avg_latency_s": 0.176,
+    "per_query": [
+      {
+        "id": 1,
+        "domain": "dosen_wali",
+        "query": "Dosen Wali Kelas 1KA01",
+        "ground_truth": [
+          "daftar_dosen_kelas1.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_kelas1.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.2,
+        "latency_s": 0.215
+      },
+      {
+        "id": 2,
+        "domain": "dosen_wali",
+        "query": "Dosen Wali Kelas 4IA01",
+        "ground_truth": [
+          "daftar_dosen_kelas4.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas4.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 1.0,
+        "latency_s": 0.189
+      },
+      {
+        "id": 3,
+        "domain": "dosen_wali",
+        "query": "Dosen Wali Kelas 2KA28",
+        "ground_truth": [
+          "daftar_dosen_kelas2.txt"
+        ],
+        "retrieved": [
+          "jadwal_kuliah_master.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_kuliah_master.txt",
+          "jadwal_kuliah_master.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.184
+      },
+      {
+        "id": 4,
+        "domain": "dosen_wali",
+        "query": "Dosen Wali Kelas 3IA05",
+        "ground_truth": [
+          "daftar_dosen_kelas3.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.171
+      },
+      {
+        "id": 5,
+        "domain": "dosen_pengajar",
+        "query": "Lulu",
+        "ground_truth": [
+          "daftar_koordinator_matkul.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas2.txt",
+          "daftar_dosen_kelas1.txt"
+        ],
+        "retrieved": [
+          "formulir permohonan pindah jurusan.txt",
+          "profil_sistem_komputer_profil_dosen.txt",
+          "profil_sistem_komputer_profil_dosen.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_kelas1.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.2,
+        "precision": 0.2,
+        "latency_s": 0.102
+      },
+      {
+        "id": 6,
+        "domain": "dosen_pengajar",
+        "query": "Koordinator Mata Kuliah Basis Data",
+        "ground_truth": [
+          "daftar_koordinator_matkul.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "daftar_koordinator_matkul.txt",
+          "jadwal_kuliah_master.txt",
+          "daftar_rps_master.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.2,
+        "latency_s": 0.191
+      },
+      {
+        "id": 7,
+        "domain": "dosen_pi",
+        "query": "Dosen Pembimbing PI 4KA27",
+        "ground_truth": [
+          "daftar_dosen_pi.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 1.0,
+        "latency_s": 0.192
+      },
+      {
+        "id": 8,
+        "domain": "dosen_pi",
+        "query": "Dosen Pembimbing PI 4IA12",
+        "ground_truth": [
+          "daftar_dosen_pi.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 1.0,
+        "latency_s": 0.206
+      },
+      {
+        "id": 9,
+        "domain": "mata_kuliah",
+        "query": "Mata Kuliah S1 Sistem Informasi",
+        "ground_truth": [
+          "daftar mata kuliah s1 sistem informasi.txt"
+        ],
+        "retrieved": [
+          "dataset_jadwal_ujian_utama.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "daftar mata kuliah s1 sistem informasi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.2,
+        "precision": 0.2,
+        "latency_s": 0.174
+      },
+      {
+        "id": 10,
+        "domain": "mata_kuliah",
+        "query": "Mata Kuliah S1 Informatika",
+        "ground_truth": [
+          "daftar mata kuliah s1 informatika.txt"
+        ],
+        "retrieved": [
+          "daftar mata kuliah s1 informatika.txt",
+          "daftar mata kuliah s1 sistem komputer.txt",
+          "daftar mata kuliah s1 dan profesi kedokteran.txt",
+          "daftar mata kuliah s1 informatika.txt",
+          "daftar mata kuliah s1 teknik mesin.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.196
+      },
+      {
+        "id": 11,
+        "domain": "mata_kuliah",
+        "query": "Mata Kuliah D3 Akuntansi Komputer",
+        "ground_truth": [
+          "daftar mata kuliah d3 akuntansi komputer.txt"
+        ],
+        "retrieved": [
+          "daftar mata kuliah d3 akuntansi komputer.txt",
+          "daftar mata kuliah d3 akuntansi komputer.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.198
+      },
+      {
+        "id": 12,
+        "domain": "mata_kuliah",
+        "query": "Mata Kuliah S1 Teknik Sipil",
+        "ground_truth": [
+          "daftar mata kuliah s1 teknik sipil.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN PENYUSUNAN SAP.txt",
+          "daftar mata kuliah s1 teknik elektro.txt",
+          "Laporan-Pengukuran-Capaian-Pembelajaran_PTA-2022-2023.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "daftar mata kuliah s1 sistem komputer.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.198
+      },
+      {
+        "id": 13,
+        "domain": "jadwal",
+        "query": "Jadwal UAS",
+        "ground_truth": [
+          "dataset_jadwal_ujian_utama.txt"
+        ],
+        "retrieved": [
+          "kalender.txt",
+          "kalender.txt",
+          "berita_terbaru_baak.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "dataset_jadwal_ujian_utama.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.25,
+        "precision": 0.4,
+        "latency_s": 0.167
+      },
+      {
+        "id": 14,
+        "domain": "jadwal",
+        "query": "Jadwal Kuliah",
+        "ground_truth": [
+          "panduan_jadwal_kuliah.txt"
+        ],
+        "retrieved": [
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.157
+      },
+      {
+        "id": 15,
+        "domain": "administrasi",
+        "query": "Panduan KRS",
+        "ground_truth": [
+          "krs.txt"
+        ],
+        "retrieved": [
+          "krs.txt",
+          "krs.txt",
+          "krs.txt",
+          "krs.txt",
+          "krs.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 1.0,
+        "latency_s": 0.167
+      },
+      {
+        "id": 16,
+        "domain": "administrasi",
+        "query": "Prosedur Wisuda",
+        "ground_truth": [
+          "prosedur wisuda.txt"
+        ],
+        "retrieved": [
+          "prosedur wisuda.txt",
+          "prosedur wisuda.txt",
+          "Laporan-Pengukuran-Capaian-Pembelajaran_PTA-2022-2023.txt",
+          "profil_teknik_sipil_dokumen_evaluasi.txt",
+          "formulir permohonan pindah kelas.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.173
+      },
+      {
+        "id": 17,
+        "domain": "administrasi",
+        "query": "Syarat Sidang Skripsi",
+        "ground_truth": [
+          "akademik.txt",
+          "daftar sidang.txt"
+        ],
+        "retrieved": [
+          "akademik.txt",
+          "BUKU PEDOMAN PROSES BELAJAR MENGAJAR.txt",
+          "BUKU PEDOMAN TATA KRAMA DOSEN.txt",
+          "BUKU PEDOMAN KEMAJUAN BELAJAR.txt",
+          "BUKU PEDOMAN PROSES BELAJAR MENGAJAR.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.2,
+        "latency_s": 0.168
+      },
+      {
+        "id": 18,
+        "domain": "administrasi",
+        "query": "Aktivasi Mahasiswa",
+        "ground_truth": [
+          "aktivasi.txt"
+        ],
+        "retrieved": [
+          "aktivasi.txt",
+          "aktivasi.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "formulir permohonan non aktif kuliah.txt",
+          "BUKU PEDOMAN PROSES BELAJAR MENGAJAR.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.166
+      },
+      {
+        "id": 19,
+        "domain": "administrasi",
+        "query": "Surat Keterangan",
+        "ground_truth": [
+          "surat keterangan.txt"
+        ],
+        "retrieved": [
+          "surat keterangan.txt",
+          "profil_akuntansi_akreditasi.txt",
+          "formulir permohonan pindah jurusan.txt",
+          "profil_akuntansi_akreditasi.txt",
+          "surat keterangan.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.156
+      },
+      {
+        "id": 20,
+        "domain": "administrasi",
+        "query": "Blanko Pembayaran",
+        "ground_truth": [
+          "blanko pembayaran.txt"
+        ],
+        "retrieved": [
+          "blanko pembayaran.txt",
+          "daftar ulang.txt",
+          "formulir cuti akademik.txt",
+          "daftar ulang.txt",
+          "blanko pembayaran.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.176
+      },
+      {
+        "id": 21,
+        "domain": "profil",
+        "query": "Visi Misi Universitas Gunadarma",
+        "ground_truth": [
+          "profil_universitas_gunadarma.txt"
+        ],
+        "retrieved": [
+          "MATERI PPSPPT.txt",
+          "MATERI PPSPPT.txt",
+          "profil_mesin_visi_misi_tujuan.txt",
+          "profil_agrotek_visi_misi.txt",
+          "profil_industri_visi_misi.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.18
+      },
+      {
+        "id": 22,
+        "domain": "profil",
+        "query": "Akreditasi Sistem Informasi",
+        "ground_truth": [
+          "profil_sistem_informasi_akreditasi.txt"
+        ],
+        "retrieved": [
+          "profil_sistem_informasi_akreditasi.txt",
+          "profil_sistem_komputer_akreditasi.txt",
+          "profil_akuntansi_akreditasi.txt",
+          "profil_sistem_informasi_lulusan_dan_cpl.txt",
+          "profil_sistem_informasi_visi_misi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.2,
+        "latency_s": 0.186
+      },
+      {
+        "id": 23,
+        "domain": "profil",
+        "query": "Visi Misi Informatika",
+        "ground_truth": [
+          "profil_informatika_visi_misi.txt"
+        ],
+        "retrieved": [
+          "profil_informatika_visi_dan_misi.txt",
+          "profil_informatika_visi_dan_misi.txt",
+          "profil_psikologi_visi_misi_kompetensi.txt",
+          "profil_informatika_tujuan_dan_sasaran.txt",
+          "profil_mesin_visi_misi_tujuan.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.181
+      },
+      {
+        "id": 24,
+        "domain": "pedoman",
+        "query": "Tata Krama Mahasiswa",
+        "ground_truth": [
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.172
+      },
+      {
+        "id": 25,
+        "domain": "pedoman",
+        "query": "Penasehat Akademik PA Wali Kelas",
+        "ground_truth": [
+          "BUKU PEDOMAN PENASEHAT AKADEMIK PA & WALI KELAS.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN PENASEHAT AKADEMIK PA & WALI KELAS.txt",
+          "BUKU PEDOMAN PROSES BELAJAR MENGAJAR.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.2,
+        "latency_s": 0.217
+      },
+      {
+        "id": 26,
+        "domain": "berita",
+        "query": "Berita Terbaru BAAK",
+        "ground_truth": [
+          "berita_terbaru_baak.txt"
+        ],
+        "retrieved": [
+          "berita_terbaru_baak.txt",
+          "formulir permohonan pindah kelas.txt",
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt",
+          "pengecekan nilai dns.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.165
+      },
+      {
+        "id": 27,
+        "domain": "rps",
+        "query": "Informasi RPS",
+        "ground_truth": [
+          "informasi_rps.txt",
+          "informasi_kontak_rps.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.181
+      },
+      {
+        "id": 28,
+        "domain": "administrasi",
+        "query": "SKPI",
+        "ground_truth": [
+          "skpi.txt"
+        ],
+        "retrieved": [
+          "profil_teknik_sipil_dokumen_evaluasi.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.158
+      },
+      {
+        "id": 29,
+        "domain": "jadwal",
+        "query": "Kalender Akademik",
+        "ground_truth": [
+          "kalender_akademik.txt"
+        ],
+        "retrieved": [
+          "kalender.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.139
+      },
+      {
+        "id": 30,
+        "domain": "administrasi",
+        "query": "Pengurusan Ujian Bentrok",
+        "ground_truth": [
+          "pengurusan_ujian_bentrok.txt"
+        ],
+        "retrieved": [
+          "pengurusan_ujian_bentrok.txt",
+          "pengurusan_ujian_bentrok.txt",
+          "jadwal_ujian.txt",
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.151
+      }
+    ]
+  },
+  "Raw + Hybrid": {
+    "hit_rate_pct": 76.67,
+    "mrr": 0.5844,
+    "context_precision_pct": 30.67,
+    "avg_latency_s": 0.18,
+    "per_query": [
+      {
+        "id": 1,
+        "domain": "dosen_wali",
+        "query": "siapa wali kelas 1ka01",
+        "ground_truth": [
+          "daftar_dosen_kelas1.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_kelas1.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas1.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas1.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.17
+      },
+      {
+        "id": 2,
+        "domain": "dosen_wali",
+        "query": "wali 4ia01 sapa sih",
+        "ground_truth": [
+          "daftar_dosen_kelas4.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas1.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas2.txt",
+          "daftar_dosen_kelas4.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.19
+      },
+      {
+        "id": 3,
+        "domain": "dosen_wali",
+        "query": "wali kelas 2ka28",
+        "ground_truth": [
+          "daftar_dosen_kelas2.txt"
+        ],
+        "retrieved": [
+          "jadwal_uas_master.txt",
+          "daftar_dosen_kelas3.txt",
+          "jadwal_uas_master.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas2.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.2,
+        "precision": 0.2,
+        "latency_s": 0.168
+      },
+      {
+        "id": 4,
+        "domain": "dosen_wali",
+        "query": "wali kelas 3ia05 dong",
+        "ground_truth": [
+          "daftar_dosen_kelas3.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas3.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.8,
+        "latency_s": 0.17
+      },
+      {
+        "id": 5,
+        "domain": "dosen_pengajar",
+        "query": "bu lulu ngajar apa",
+        "ground_truth": [
+          "daftar_koordinator_matkul.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas2.txt",
+          "daftar_dosen_kelas1.txt"
+        ],
+        "retrieved": [
+          "jadwal_kuliah_master.txt",
+          "daftar_dosen_pi.txt",
+          "jadwal_kuliah_master.txt",
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.187
+      },
+      {
+        "id": 6,
+        "domain": "dosen_pengajar",
+        "query": "siapa yang ngajar basis data",
+        "ground_truth": [
+          "daftar_koordinator_matkul.txt"
+        ],
+        "retrieved": [
+          "jadwal_kuliah_master.txt",
+          "daftar_koordinator_matkul.txt",
+          "jadwal_kuliah_master.txt",
+          "daftar_dosen_kelas1.txt",
+          "jadwal_kuliah_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.2,
+        "latency_s": 0.184
+      },
+      {
+        "id": 7,
+        "domain": "dosen_pi",
+        "query": "dosen pembimbing pi kelas 4ka27",
+        "ground_truth": [
+          "daftar_dosen_pi.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_pi.txt",
+          "akademik.txt",
+          "daftar_dosen_pi.txt",
+          "daftar sidang.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.209
+      },
+      {
+        "id": 8,
+        "domain": "dosen_pi",
+        "query": "pi 4ia12 dibimbing siapa",
+        "ground_truth": [
+          "daftar_dosen_pi.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_pi.txt",
+          "akademik.txt",
+          "daftar_dosen_pi.txt",
+          "daftar sidang.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.187
+      },
+      {
+        "id": 9,
+        "domain": "mata_kuliah",
+        "query": "matkul semester 3 sistem informasi",
+        "ground_truth": [
+          "daftar mata kuliah s1 sistem informasi.txt"
+        ],
+        "retrieved": [
+          "jadwal_uas_master.txt",
+          "Laporan-Pengukuran-Capaian-Pembelajaran_PTA-2022-2023.txt",
+          "jadwal_uas_master.txt",
+          "daftar mata kuliah s1 sistem informasi.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.25,
+        "precision": 0.2,
+        "latency_s": 0.168
+      },
+      {
+        "id": 10,
+        "domain": "mata_kuliah",
+        "query": "jurusan informatika belajar apa aja",
+        "ground_truth": [
+          "daftar mata kuliah s1 informatika.txt"
+        ],
+        "retrieved": [
+          "profil_informatika_tujuan_dan_sasaran.txt",
+          "formulir permohonan pindah jurusan.txt",
+          "daftar_rps_master.txt",
+          "fakultas_dan_jurusan.txt",
+          "profil_informatika_tujuan_dan_sasaran.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.189
+      },
+      {
+        "id": 11,
+        "domain": "mata_kuliah",
+        "query": "matkul akuntansi d3",
+        "ground_truth": [
+          "daftar mata kuliah d3 akuntansi komputer.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "pengecekan nilai dns.txt",
+          "daftar_rps_master.txt",
+          "daftar mata kuliah d3 akuntansi komputer.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.25,
+        "precision": 0.2,
+        "latency_s": 0.18
+      },
+      {
+        "id": 12,
+        "domain": "mata_kuliah",
+        "query": "daftar matkul teknik sipil",
+        "ground_truth": [
+          "daftar mata kuliah s1 teknik sipil.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.176
+      },
+      {
+        "id": 13,
+        "domain": "jadwal",
+        "query": "jadwal uas kapan ya",
+        "ground_truth": [
+          "dataset_jadwal_ujian_utama.txt"
+        ],
+        "retrieved": [
+          "kalender.txt",
+          "berita_terbaru_baak.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "berita_terbaru_baak.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.3333333333333333,
+        "precision": 0.2,
+        "latency_s": 0.18
+      },
+      {
+        "id": 14,
+        "domain": "jadwal",
+        "query": "gimana cara liat jadwal kuliah",
+        "ground_truth": [
+          "panduan_jadwal_kuliah.txt"
+        ],
+        "retrieved": [
+          "panduan_jadwal_kuliah.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "panduan_jadwal_kuliah.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "jadwal_ujian.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.188
+      },
+      {
+        "id": 15,
+        "domain": "administrasi",
+        "query": "cara isi krs gimana",
+        "ground_truth": [
+          "krs.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "krs.txt",
+          "daftar_rps_master.txt",
+          "surat keterangan.txt",
+          "formulir permohonan pindah jurusan.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.2,
+        "latency_s": 0.196
+      },
+      {
+        "id": 16,
+        "domain": "administrasi",
+        "query": "cara daftar wisuda",
+        "ground_truth": [
+          "prosedur wisuda.txt"
+        ],
+        "retrieved": [
+          "prosedur wisuda.txt",
+          "prosedur wisuda.txt",
+          "daftar ulang.txt",
+          "daftar ulang.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.158
+      },
+      {
+        "id": 17,
+        "domain": "administrasi",
+        "query": "syarat sidang skripsi apa aja",
+        "ground_truth": [
+          "akademik.txt",
+          "daftar sidang.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN TATA KRAMA DOSEN.txt",
+          "akademik.txt",
+          "BUKU PEDOMAN PROSES BELAJAR MENGAJAR.txt",
+          "BUKU PEDOMAN TATA KRAMA DOSEN.txt",
+          "BUKU PEDOMAN KEMAJUAN BELAJAR.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.2,
+        "latency_s": 0.178
+      },
+      {
+        "id": 18,
+        "domain": "administrasi",
+        "query": "cara aktivasi mahasiswa baru",
+        "ground_truth": [
+          "aktivasi.txt"
+        ],
+        "retrieved": [
+          "aktivasi.txt",
+          "formulir permohonan pindah kelas.txt",
+          "aktivasi.txt",
+          "MATERI PPSPPT.txt",
+          "email.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.185
+      },
+      {
+        "id": 19,
+        "domain": "administrasi",
+        "query": "cara urus surat keterangan",
+        "ground_truth": [
+          "surat keterangan.txt"
+        ],
+        "retrieved": [
+          "surat keterangan.txt",
+          "surat keterangan.txt",
+          "formulir permohonan pindah kelas.txt",
+          "profil_akuntansi_akreditasi.txt",
+          "pengurusan_ujian_bentrok.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.194
+      },
+      {
+        "id": 20,
+        "domain": "administrasi",
+        "query": "cara bikin blanko pembayaran",
+        "ground_truth": [
+          "blanko pembayaran.txt"
+        ],
+        "retrieved": [
+          "blanko pembayaran.txt",
+          "daftar ulang.txt",
+          "blanko pembayaran.txt",
+          "formulir cuti akademik.txt",
+          "formulir permohonan non aktif kuliah.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.172
+      },
+      {
+        "id": 21,
+        "domain": "profil",
+        "query": "visi misi gunadarma apa",
+        "ground_truth": [
+          "profil_universitas_gunadarma.txt"
+        ],
+        "retrieved": [
+          "MATERI PPSPPT.txt",
+          "profil_informatika_visi_dan_misi.txt",
+          "profil_manajemen_visi_misi.txt",
+          "profil_agrotek_visi_misi.txt",
+          "profil_industri_visi_misi.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.163
+      },
+      {
+        "id": 22,
+        "domain": "profil",
+        "query": "akreditasi sistem informasi berapa",
+        "ground_truth": [
+          "profil_sistem_informasi_akreditasi.txt"
+        ],
+        "retrieved": [
+          "profil_sistem_informasi_akreditasi.txt",
+          "profil_sistem_komputer_akreditasi.txt",
+          "profil_sistem_informasi_visi_misi.txt",
+          "daftar mata kuliah s1 sistem informasi.txt",
+          "profil_informatika_profil.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.2,
+        "latency_s": 0.175
+      },
+      {
+        "id": 23,
+        "domain": "profil",
+        "query": "visi misi jurusan informatika",
+        "ground_truth": [
+          "profil_informatika_visi_misi.txt"
+        ],
+        "retrieved": [
+          "profil_informatika_visi_dan_misi.txt",
+          "profil_informatika_visi_dan_misi.txt",
+          "profil_informatika_profil.txt",
+          "profil_manajemen_visi_misi.txt",
+          "profil_sistem_informasi_visi_misi.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.174
+      },
+      {
+        "id": 24,
+        "domain": "pedoman",
+        "query": "aturan tata krama mahasiswa apa aja",
+        "ground_truth": [
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "jadwal_ujian.txt",
+          "formulir permohonan pindah kelas.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.204
+      },
+      {
+        "id": 25,
+        "domain": "pedoman",
+        "query": "aturan penasehat akademik",
+        "ground_truth": [
+          "BUKU PEDOMAN PENASEHAT AKADEMIK PA & WALI KELAS.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN PENASEHAT AKADEMIK PA & WALI KELAS.txt",
+          "formulir cuti akademik.txt",
+          "BUKU PEDOMAN PROSES BELAJAR MENGAJAR.txt",
+          "informasi_kontak_rps.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.2,
+        "latency_s": 0.172
+      },
+      {
+        "id": 26,
+        "domain": "berita",
+        "query": "berita terbaru baak apa",
+        "ground_truth": [
+          "berita_terbaru_baak.txt"
+        ],
+        "retrieved": [
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt",
+          "formulir permohonan pindah kelas.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.8,
+        "latency_s": 0.16
+      },
+      {
+        "id": 27,
+        "domain": "rps",
+        "query": "info rps gimana",
+        "ground_truth": [
+          "informasi_rps.txt",
+          "informasi_kontak_rps.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "aktivasi.txt",
+          "daftar_rps_master.txt",
+          "aktivasi.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.201
+      },
+      {
+        "id": 28,
+        "domain": "administrasi",
+        "query": "cara ngurus skpi",
+        "ground_truth": [
+          "skpi.txt"
+        ],
+        "retrieved": [
+          "perpustakaan.txt",
+          "skpi.txt",
+          "skpi.txt",
+          "profil_teknik_sipil_dokumen_evaluasi.txt",
+          "BUKU PEDOMAN PENYUSUNAN SILABUS.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.4,
+        "latency_s": 0.178
+      },
+      {
+        "id": 29,
+        "domain": "jadwal",
+        "query": "kalender akademik gunadarma",
+        "ground_truth": [
+          "kalender_akademik.txt"
+        ],
+        "retrieved": [
+          "kalender.txt",
+          "formulir cuti akademik.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "formulir cuti akademik.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.166
+      },
+      {
+        "id": 30,
+        "domain": "administrasi",
+        "query": "ujian bentrok gimana solusinya",
+        "ground_truth": [
+          "pengurusan_ujian_bentrok.txt"
+        ],
+        "retrieved": [
+          "pengurusan_ujian_bentrok.txt",
+          "berita_terbaru_baak.txt",
+          "pengurusan_ujian_bentrok.txt",
+          "jadwal_ujian.txt",
+          "berita_terbaru_baak.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.175
+      }
+    ]
+  },
+  "Transformed + Hybrid": {
+    "hit_rate_pct": 76.67,
+    "mrr": 0.6444,
+    "context_precision_pct": 33.33,
+    "avg_latency_s": 0.175,
+    "per_query": [
+      {
+        "id": 1,
+        "domain": "dosen_wali",
+        "query": "Dosen Wali Kelas 1KA01",
+        "ground_truth": [
+          "daftar_dosen_kelas1.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas1.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.3333333333333333,
+        "precision": 0.2,
+        "latency_s": 0.202
+      },
+      {
+        "id": 2,
+        "domain": "dosen_wali",
+        "query": "Dosen Wali Kelas 4IA01",
+        "ground_truth": [
+          "daftar_dosen_kelas4.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas4.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.8,
+        "latency_s": 0.19
+      },
+      {
+        "id": 3,
+        "domain": "dosen_wali",
+        "query": "Dosen Wali Kelas 2KA28",
+        "ground_truth": [
+          "daftar_dosen_kelas2.txt"
+        ],
+        "retrieved": [
+          "jadwal_kuliah_master.txt",
+          "daftar_dosen_kelas3.txt",
+          "jadwal_uas_master.txt",
+          "daftar_dosen_kelas4.txt",
+          "jadwal_kuliah_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.182
+      },
+      {
+        "id": 4,
+        "domain": "dosen_wali",
+        "query": "Dosen Wali Kelas 3IA05",
+        "ground_truth": [
+          "daftar_dosen_kelas3.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas3.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.8,
+        "latency_s": 0.178
+      },
+      {
+        "id": 5,
+        "domain": "dosen_pengajar",
+        "query": "Lulu",
+        "ground_truth": [
+          "daftar_koordinator_matkul.txt",
+          "daftar_dosen_kelas4.txt",
+          "daftar_dosen_kelas3.txt",
+          "daftar_dosen_kelas2.txt",
+          "daftar_dosen_kelas1.txt"
+        ],
+        "retrieved": [
+          "formulir permohonan pindah jurusan.txt",
+          "daftar_dosen_pi.txt",
+          "profil_sistem_komputer_profil_dosen.txt",
+          "daftar_dosen_pi.txt",
+          "profil_sistem_komputer_profil_dosen.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.125
+      },
+      {
+        "id": 6,
+        "domain": "dosen_pengajar",
+        "query": "Koordinator Mata Kuliah Basis Data",
+        "ground_truth": [
+          "daftar_koordinator_matkul.txt"
+        ],
+        "retrieved": [
+          "daftar_koordinator_matkul.txt",
+          "daftar_rps_master.txt",
+          "daftar_koordinator_matkul.txt",
+          "BUKU PEDOMAN PENYUSUNAN SAP.txt",
+          "jadwal_kuliah_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.192
+      },
+      {
+        "id": 7,
+        "domain": "dosen_pi",
+        "query": "Dosen Pembimbing PI 4KA27",
+        "ground_truth": [
+          "daftar_dosen_pi.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_pi.txt",
+          "akademik.txt",
+          "daftar_dosen_pi.txt",
+          "daftar sidang.txt",
+          "daftar_dosen_pi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.199
+      },
+      {
+        "id": 8,
+        "domain": "dosen_pi",
+        "query": "Dosen Pembimbing PI 4IA12",
+        "ground_truth": [
+          "daftar_dosen_pi.txt"
+        ],
+        "retrieved": [
+          "daftar_dosen_pi.txt",
+          "daftar_dosen_pi.txt",
+          "akademik.txt",
+          "daftar_dosen_pi.txt",
+          "daftar sidang.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.183
+      },
+      {
+        "id": 9,
+        "domain": "mata_kuliah",
+        "query": "Mata Kuliah S1 Sistem Informasi",
+        "ground_truth": [
+          "daftar mata kuliah s1 sistem informasi.txt"
+        ],
+        "retrieved": [
+          "dataset_jadwal_ujian_utama.txt",
+          "daftar mata kuliah s1 sistem informasi.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "formulir permohonan pindah jurusan.txt",
+          "dataset_jadwal_ujian_utama.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.2,
+        "latency_s": 0.197
+      },
+      {
+        "id": 10,
+        "domain": "mata_kuliah",
+        "query": "Mata Kuliah S1 Informatika",
+        "ground_truth": [
+          "daftar mata kuliah s1 informatika.txt"
+        ],
+        "retrieved": [
+          "daftar mata kuliah s1 informatika.txt",
+          "daftar mata kuliah s1 dan profesi kedokteran.txt",
+          "daftar mata kuliah s1 informatika.txt",
+          "daftar mata kuliah s1 sistem komputer.txt",
+          "daftar mata kuliah s1 manajemen.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.206
+      },
+      {
+        "id": 11,
+        "domain": "mata_kuliah",
+        "query": "Mata Kuliah D3 Akuntansi Komputer",
+        "ground_truth": [
+          "daftar mata kuliah d3 akuntansi komputer.txt"
+        ],
+        "retrieved": [
+          "daftar mata kuliah d3 akuntansi komputer.txt",
+          "daftar mata kuliah d3 akuntansi komputer.txt",
+          "daftar mata kuliah d3 manajemen keuangan.txt",
+          "jadwal_uas_master.txt",
+          "daftar mata kuliah d3 manajemen pemasaran.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.204
+      },
+      {
+        "id": 12,
+        "domain": "mata_kuliah",
+        "query": "Mata Kuliah S1 Teknik Sipil",
+        "ground_truth": [
+          "daftar mata kuliah s1 teknik sipil.txt"
+        ],
+        "retrieved": [
+          "daftar mata kuliah s1 teknik elektro.txt",
+          "daftar mata kuliah s1 teknik arsitektur.txt",
+          "BUKU PEDOMAN PENYUSUNAN SAP.txt",
+          "daftar mata kuliah s1 teknik sipil.txt",
+          "profil_teknik_sipil_pimpinan.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.25,
+        "precision": 0.2,
+        "latency_s": 0.195
+      },
+      {
+        "id": 13,
+        "domain": "jadwal",
+        "query": "Jadwal UAS",
+        "ground_truth": [
+          "dataset_jadwal_ujian_utama.txt"
+        ],
+        "retrieved": [
+          "kalender.txt",
+          "kalender.txt",
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.169
+      },
+      {
+        "id": 14,
+        "domain": "jadwal",
+        "query": "Jadwal Kuliah",
+        "ground_truth": [
+          "panduan_jadwal_kuliah.txt"
+        ],
+        "retrieved": [
+          "jadwal_uas_master.txt",
+          "panduan_jadwal_kuliah.txt",
+          "jadwal_uas_master.txt",
+          "jadwal_ujian.txt",
+          "jadwal_uas_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.2,
+        "latency_s": 0.168
+      },
+      {
+        "id": 15,
+        "domain": "administrasi",
+        "query": "Panduan KRS",
+        "ground_truth": [
+          "krs.txt"
+        ],
+        "retrieved": [
+          "krs.txt",
+          "krs.txt",
+          "krs.txt",
+          "krs.txt",
+          "berita_terbaru_baak.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.8,
+        "latency_s": 0.155
+      },
+      {
+        "id": 16,
+        "domain": "administrasi",
+        "query": "Prosedur Wisuda",
+        "ground_truth": [
+          "prosedur wisuda.txt"
+        ],
+        "retrieved": [
+          "prosedur wisuda.txt",
+          "prosedur wisuda.txt",
+          "daftar_dosen_pi.txt",
+          "Laporan-Pengukuran-Capaian-Pembelajaran_PTA-2022-2023.txt",
+          "profil_teknik_sipil_dokumen_evaluasi.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.173
+      },
+      {
+        "id": 17,
+        "domain": "administrasi",
+        "query": "Syarat Sidang Skripsi",
+        "ground_truth": [
+          "akademik.txt",
+          "daftar sidang.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN PROSES BELAJAR MENGAJAR.txt",
+          "akademik.txt",
+          "BUKU PEDOMAN PROSES BELAJAR MENGAJAR.txt",
+          "BUKU PEDOMAN KEMAJUAN BELAJAR.txt",
+          "BUKU PEDOMAN TATA KRAMA DOSEN.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.5,
+        "precision": 0.2,
+        "latency_s": 0.19
+      },
+      {
+        "id": 18,
+        "domain": "administrasi",
+        "query": "Aktivasi Mahasiswa",
+        "ground_truth": [
+          "aktivasi.txt"
+        ],
+        "retrieved": [
+          "aktivasi.txt",
+          "aktivasi.txt",
+          "berita_terbaru_baak.txt",
+          "MATERI PPSPPT.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.169
+      },
+      {
+        "id": 19,
+        "domain": "administrasi",
+        "query": "Surat Keterangan",
+        "ground_truth": [
+          "surat keterangan.txt"
+        ],
+        "retrieved": [
+          "surat keterangan.txt",
+          "surat keterangan.txt",
+          "formulir cuti akademik.txt",
+          "profil_akuntansi_akreditasi.txt",
+          "formulir permohonan pindah kelas.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.151
+      },
+      {
+        "id": 20,
+        "domain": "administrasi",
+        "query": "Blanko Pembayaran",
+        "ground_truth": [
+          "blanko pembayaran.txt"
+        ],
+        "retrieved": [
+          "blanko pembayaran.txt",
+          "blanko pembayaran.txt",
+          "daftar ulang.txt",
+          "berita_terbaru_baak.txt",
+          "daftar ulang.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.15
+      },
+      {
+        "id": 21,
+        "domain": "profil",
+        "query": "Visi Misi Universitas Gunadarma",
+        "ground_truth": [
+          "profil_universitas_gunadarma.txt"
+        ],
+        "retrieved": [
+          "MATERI PPSPPT.txt",
+          "profil_agrotek_visi_misi.txt",
+          "profil_industri_visi_misi.txt",
+          "profil_informatika_visi_dan_misi.txt",
+          "MATERI PPSPPT.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.174
+      },
+      {
+        "id": 22,
+        "domain": "profil",
+        "query": "Akreditasi Sistem Informasi",
+        "ground_truth": [
+          "profil_sistem_informasi_akreditasi.txt"
+        ],
+        "retrieved": [
+          "profil_sistem_informasi_akreditasi.txt",
+          "profil_sistem_komputer_akreditasi.txt",
+          "profil_sistem_informasi_visi_misi.txt",
+          "profil_akuntansi_akreditasi.txt",
+          "profil_sistem_informasi_lulusan_dan_cpl.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.2,
+        "latency_s": 0.189
+      },
+      {
+        "id": 23,
+        "domain": "profil",
+        "query": "Visi Misi Informatika",
+        "ground_truth": [
+          "profil_informatika_visi_misi.txt"
+        ],
+        "retrieved": [
+          "profil_informatika_visi_dan_misi.txt",
+          "profil_informatika_visi_dan_misi.txt",
+          "profil_psikologi_visi_misi_kompetensi.txt",
+          "profil_manajemen_visi_misi.txt",
+          "profil_informatika_tujuan_dan_sasaran.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.171
+      },
+      {
+        "id": 24,
+        "domain": "pedoman",
+        "query": "Tata Krama Mahasiswa",
+        "ground_truth": [
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt",
+          "dataset_jadwal_ujian_utama.txt",
+          "jadwal_ujian.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.6,
+        "latency_s": 0.17
+      },
+      {
+        "id": 25,
+        "domain": "pedoman",
+        "query": "Penasehat Akademik PA Wali Kelas",
+        "ground_truth": [
+          "BUKU PEDOMAN PENASEHAT AKADEMIK PA & WALI KELAS.txt"
+        ],
+        "retrieved": [
+          "BUKU PEDOMAN PENASEHAT AKADEMIK PA & WALI KELAS.txt",
+          "BUKU PEDOMAN PROSES BELAJAR MENGAJAR.txt",
+          "BUKU PEDOMAN PENASEHAT AKADEMIK PA & WALI KELAS.txt",
+          "daftar_dosen_pi.txt",
+          "BUKU PEDOMAN TATA KRAMA MAHASISWA.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.181
+      },
+      {
+        "id": 26,
+        "domain": "berita",
+        "query": "Berita Terbaru BAAK",
+        "ground_truth": [
+          "berita_terbaru_baak.txt"
+        ],
+        "retrieved": [
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt",
+          "formulir permohonan pindah kelas.txt",
+          "berita_terbaru_baak.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.8,
+        "latency_s": 0.172
+      },
+      {
+        "id": 27,
+        "domain": "rps",
+        "query": "Informasi RPS",
+        "ground_truth": [
+          "informasi_rps.txt",
+          "informasi_kontak_rps.txt"
+        ],
+        "retrieved": [
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.166
+      },
+      {
+        "id": 28,
+        "domain": "administrasi",
+        "query": "SKPI",
+        "ground_truth": [
+          "skpi.txt"
+        ],
+        "retrieved": [
+          "profil_teknik_sipil_dokumen_evaluasi.txt",
+          "perpustakaan.txt",
+          "daftar_rps_master.txt",
+          "skpi.txt",
+          "daftar_rps_master.txt"
+        ],
+        "hit": 1.0,
+        "rr": 0.25,
+        "precision": 0.2,
+        "latency_s": 0.143
+      },
+      {
+        "id": 29,
+        "domain": "jadwal",
+        "query": "Kalender Akademik",
+        "ground_truth": [
+          "kalender_akademik.txt"
+        ],
+        "retrieved": [
+          "kalender.txt",
+          "jadwal_uas_master.txt",
+          "formulir cuti akademik.txt",
+          "jadwal_uas_master.txt",
+          "MATERI PPSPPT.txt"
+        ],
+        "hit": 0.0,
+        "rr": 0.0,
+        "precision": 0.0,
+        "latency_s": 0.137
+      },
+      {
+        "id": 30,
+        "domain": "administrasi",
+        "query": "Pengurusan Ujian Bentrok",
+        "ground_truth": [
+          "pengurusan_ujian_bentrok.txt"
+        ],
+        "retrieved": [
+          "pengurusan_ujian_bentrok.txt",
+          "pengurusan_ujian_bentrok.txt",
+          "jadwal_ujian.txt",
+          "berita_terbaru_baak.txt",
+          "berita_terbaru_baak.txt"
+        ],
+        "hit": 1.0,
+        "rr": 1.0,
+        "precision": 0.4,
+        "latency_s": 0.163
+      }
+    ]
+  }
+}

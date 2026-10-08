@@ -1,0 +1,23 @@
+=== JURUSAN MANAJEMEN ===
+Topik: Profil Lulusan / Keahlian
+URL Asli: https://fe.gunadarma.ac.id/manajemen/?page_id=76
+
+KONTEN:
+
+## INFORMASI UMUM
+- Program Studi: S1 Manajemen
+- Akreditasi: A (Baik Sekali)
+- Gelar Akademik Lulusan: S.E. (Sarjana Ekonomi)
+
+## KEAHLIAN YANG DITAWARKAN
+- e-Business Management: Keahlian dalam mengelola bisnis berbasis teknologi informasi dan komunikasi (TIK) yang meliputi semua transaksi berbasis internet dengan mitra bisnis, pemasok maupun pelanggan.
+- e-Marketing Management: Keahlian dalam mengelola pemasaran berbasis TIK untuk mempromosikan dan menjual barang/jasa melalui internet, serta menyusun strategi pemasaran digital.
+- Fund Management: Keahlian dalam mengawasi dan mengelola arus kas organisasi secara sistematis dan efisien berbantuan TIK.
+- Investment Management: Keahlian membuat keputusan investasi, portofolio saham, obligasi, dan instrumen investasi dengan bantuan TIK.
+- Banking and e-Banking Management: Keahlian mengelola perusahaan perbankan berbasis TIK (banking operation management, core deposit system, electronic fund raising, dll).
+- Retail Business Management: Keahlian merancang dan mengelola bisnis ritel (market research, merchandising, inventory, franchising).
+- Human Resources Expertise: Keahlian manajerial, kepemimpinan, evaluasi kinerja SDM, penelitian bidang SDM, dan aplikasi bisnis.
+- Entrepreuneurship: Keahlian merancang dan mengelola bisnis mandiri (business plan) yang responsif terhadap perubahan lingkungan bisnis berbasis TIK.
+
+## PROSPEK PROFESI LULUSAN
+Lulusan program studi ini memiliki kesempatan yang luas di lembaga pemerintah atau perusahaan dalam berbagai sektor industri seperti perbankan, asuransi, perhotelan, pariwisata, rumah sakit, agrobisnis, dan pendidikan. Bidang pekerjaan meliputi pemasaran, SDM, keuangan, strategi, operasi, investasi, penelitian, serta peluang menjadi wirausahawan (entrepreneur).

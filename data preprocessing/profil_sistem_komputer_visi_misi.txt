@@ -1,0 +1,20 @@
+=== JURUSAN SISTEM KOMPUTER ===
+Topik: Visi Misi dan Profil Singkat
+URL Asli: https://fikti.gunadarma.ac.id/siskom/?page_id=568
+
+KONTEN:
+
+## PROFIL SINGKAT PROGRAM STUDI SISTEM KOMPUTER
+Program Studi Sistem Komputer adalah salah satu program studi yang berada di Fakultas Ilmu Komputer dan Teknologi Informasi (FIKTI) Universitas Gunadarma. FIKTI menaungi 2 (dua) program studi, yaitu Sistem Informasi dan Sistem Komputer. Kedua program studi tersebut saat ini memiliki akreditasi Unggul. 
+- Prodi Sistem Komputer: Predikat Unggul berdasarkan SK LAM INFOKOM No. 8829/SK/BAN-PT/Ak-ISK/S/VI/2021 (Berlaku hingga 17 September 2024).
+- Prodi Sistem Informasi: Predikat Unggul berdasarkan SK LAM INFOKOM No. 1266/SK/BAN-PT/Ak.KP/S/IV/2023 (Berlaku hingga 18 Maret 2025).
+
+## VISI PROGRAM STUDI SISTEM KOMPUTER
+Pada tahun 2027 menjadi program studi berorientasi global dan berkontribusi dalam pembangunan berkelanjutan di bidang ilmu komputer dan teknologi informasi melalui tata kelola dan tri dharma perguruan tinggi yang adaptif, transformatif, dan inovatif dalam mendukung daya saing nasional, terutama dalam bidang teknologi Sistem Tertanam (Embedded System), Jaringan Komputer, dan Internet of Things (IoT).
+
+## MISI PROGRAM STUDI SISTEM KOMPUTER
+- Menyelenggarakan proses pendidikan inovatif dan transformatif untuk menghasilkan SDM unggul yang mendukung program Indonesia maju pada ekosistem digital terutama dalam bidang teknologi Sistem Tertanam (Embedded System) dan Jaringan Komputer (Internet of Things (IoT)).
+- Menyelenggarakan kegiatan penelitian yang mendorong pengembangan dan penyebarluasan IPTEKS terutama dalam bidang teknologi Sistem Tertanam (Embedded System), Jaringan Komputer (Internet of Things (IoT)) di tingkat nasional dan internasional.
+- Menyelenggarakan kegiatan pengabdian kepada masyarakat dalam bidang teknologi Sistem Tertanam (Embedded System) dan Jaringan Komputer (Internet of Things (IoT)) yang mendukung peningkatan kualitas hidup masyarakat, perekonomian nasional, dan pelestarian lingkungan yang seimbang dan berkelanjutan.
+- Menyelenggarakan kemitraan nasional dan internasional terutama dalam bidang teknologi Sistem Tertanam (Embedded System) dan Jaringan Komputer (Internet of Things (IoT)) yang mendukung penguatan identitas nasional, dan jati diri bangsa di lingkungan global.
+- Menerapkan tata kelola Program Studi Sistem Komputer yang baik, modern, adaptif, dan transformatif dalam pengembangan ekosistem digital yang bersifat multidisiplin ilmu untuk peningkatan kinerja institusi.

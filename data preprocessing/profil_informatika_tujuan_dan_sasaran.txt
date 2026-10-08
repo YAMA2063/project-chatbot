@@ -1,0 +1,34 @@
+=== JURUSAN INFORMATIKA ===
+Topik: Tujuan dan Sasaran
+URL Asli: https://fti.gunadarma.ac.id/informatika/?page_id=292
+
+KONTEN:
+
+## Tujuan Program Studi Informatika
+
+- Menyiapkan peserta didik yang tanggap terhadap perubahan dan kemajuan Ilmu Pengetahuan dan Teknologi terkini, khususnya yang berkaitan dengan bidang Informatika yang berbasis kecerdasan artifisial, khususnya pada pengolahan data besar dan pembelajaran mesin.
+- Menjadi program studi yang memiliki:
+  - Jejaring kerjasama yang aktif dengan berbagai institusi baik dalam dan luar negeri sebagai perwujudan keberadaan/reputasi di masyarakat nasional ataupun internasional.
+  - Peran dalam pengembangan ilmu pengetahuan dan teknologi bidang Informatika melalui kegiatan penelitian secara kolaboratif dan produktif yang berkualitas.
+  - Peran yang tinggi dalam peningkatan kinerja masyarakat melalui penerapan teknologi informasi khususnya pada pengolahan data besar dan pembelajaran mesin.
+- Menyiapkan lulusan yang memiliki kualifikasi:
+  - Mampu menerapkan pengetahuan dan keterampilan teknologi yang dimilikinya sesuai dengan keahliannya di bidang Informatika berbasis kecerdasan artifisial, pengolahan data besar, dan pembelajaran mesin dalam kegiatan produktif dan pelayanan masyarakat.
+  - Menguasai dasar ilmiah, pengetahuan serta metodologi keahlian bidang informatika berbasis kecerdasan artifisial sehingga mampu merumuskan cara penyelesaian masalah.
+  - Mampu bersikap dan berperilaku profesional serta membawa diri dalam berkarya maupun berkehidupan di masyarakat serta memiliki jiwa kewirausahaan.
+  - Mampu beradaptasi terhadap perubahan teknologi masa depan di berbagai industri dan mengembangkan diri sesuai tuntutan masyarakat.
+
+## Sasaran Program Studi Informatika
+
+### Dalam Bidang Pendidikan
+Menghasilkan lulusan yang:
+- Menguasai ilmu dasar dan terapan dalam pengembangan aplikasi di bidang informatika berbasis kecerdasan artifisial, khususnya pada pengolahan data besar dan pembelajaran mesin.
+- Mampu memformulasikan, menganalisis masalah, dan mengembangkan sistem penyelesaian yang menerapkan ilmu teknologi informatika.
+- Memiliki rasa tanggung jawab dalam lingkungan masyarakat dan peka terhadap perubahan teknologi, ilmu pengetahuan, budaya, dan lingkungan.
+- Mampu berkomunikasi efektif (termasuk Bahasa Inggris), berpikir inovatif, memiliki etika profesi, dan aktif meningkatkan kesejahteraan masyarakat.
+- Mampu bersaing dengan lulusan perguruan tinggi lain dan berorientasi global.
+
+### Dalam Bidang Penelitian
+Mampu menghasilkan penelitian bidang Informatika yang bermutu dan berguna bagi pengembangan ilmu pengetahuan, teknologi, pembelajaran, serta bagi masyarakat Indonesia maupun global, khususnya bidang informatika berbasis kecerdasan artifisial, pengolahan data besar, dan pembelajaran mesin.
+
+### Dalam Bidang Pengabdian kepada Masyarakat
+Menyelenggarakan kegiatan seminar, pelatihan, pengembangan, pembuatan model, serta menjalin kerjasama dengan pihak lain untuk meningkatkan kesejahteraan masyarakat secara nasional maupun global dengan memanfaatkan ilmu bidang informatika berbasis kecerdasan artifisial.

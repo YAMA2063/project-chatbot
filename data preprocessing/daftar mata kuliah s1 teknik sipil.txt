@@ -1,0 +1,89 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 TEKNIK SIPIL (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang (Wajib diikuti dengan praktikumnya)
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1TA01, 1TA02, 1TA03, 1TA04 (Reguler) ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. IT031201 - Bahasa Inggris (2 SKS)
+2. IT031216 - Bahasa Pemrograman Komputer dan Praktikum (2 SKS) [PP]
+3. IT031204 - Fisika 1 (2 SKS)
+4. IT031246 - Kimia (2 SKS)
+5. IT031303 - Matematika 1 (3 SKS)
+6. IT031350 - Mekanika Statika (3 SKS)
+7. IT031207 - Menggambar Teknik (2 SKS)
+8. IT031105 - Praktikum Fisika Dasar (1 SKS)
+9. IT031157 - Praktikum Menggambar Teknik (1 SKS)
+
+=== KELAS: 1TA05 (SARMAG & BEASISWA) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+(Sama dengan kelas reguler ditambah: PP000207 - Pendidikan Kewarganegaraan 2 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2TA01, 2TA02, 2TA03, 2TA04 (Reguler) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT031229 - Analisis Struktur Statis Tertentu (2 SKS) [UU]
+2. IT031224 - Ilmu Ukur Tanah dan Praktikum (2 SKS) [PP]
+3. IT031347 - Matematika 3 (3 SKS) [UU]
+4. IT031223 - Mekanika Fluida (2 SKS) [UU]
+5. IT031110 - Praktikum Teknologi Bahan Konstruksi (1 SKS)
+6. IT031222 - Sifat-Sifat Fisik Tanah (2 SKS)
+7. IT031315 - Statistika dan Probabilitas (3 SKS) [UU]
+8. IT031209 - Teknologi Bahan Konstruksi (2 SKS)
+9. IT000203 - Komputasi Big Data (2 SKS) [TT]
+10. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT]
+
+=== KELAS: 2TA05 (SARMAG) ===
+Total SKS: 24 SKS
+Daftar Mata Kuliah:
+(Sama dengan kelas reguler ditambah: PB031201 - Manajemen Konstruksi 2 SKS, PB031202 - Penulisan dan Presentasi 2 SKS)
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3TA01, 3TA02, 3TA03, 3TA04 (Reguler) ===
+Total SKS: 22 SKS
+Daftar Mata Kuliah:
+1. IT031236 - Dinamika Struktur (2 SKS)
+2. IT031256 - Drainase Perkotaan (2 SKS)
+3. IT031224 - Ilmu Ukur Tanah dan Praktikum (2 SKS) [PP]
+4. AK031250 - Irigasi dan Bangunan Air (2 SKS)
+5. PB031201 - Manajemen Konstruksi (2 SKS)
+6. AK031228 - Metode Pelaksanaan Konstruksi (2 SKS)
+7. PB031202 - Penulisan dan Presentasi (2 SKS) [Tidak ada UTS dan UAS]
+8. AK031246 - Perancangan Geometrik Jalan (2 SKS)
+9. AK031247 - Perancangan Pondasi Dangkal (2 SKS) [UU]
+10. AK031207 - Perancangan Struktur Baja 1 (2 SKS) [UU]
+11. AK031248 - Perancangan Struktur Beton Bertulang 1 (2 SKS) [UU]
+
+=== KELAS: 3TA05 (SARMAG) ===
+Total SKS: 22 SKS
+Daftar Mata Kuliah:
+(Mata kuliah bervariasi dengan reguler, mencakup Administrasi Kontrak, Analisis Struktur Matriks, Pengembangan SDA, dll)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4TA01, 4TA02, 4TA03, 4TA04, 4TA05, 4TA06 ===
+Total SKS: 19 SKS
+Daftar Mata Kuliah:
+1. AK031226 - Administrasi Kontrak dan Anggaran Borongan (2 SKS) [UU]
+2. AK031256 - Analisis Struktur Metode Matriks dan Elemen Hingga (2 SKS) [UU]
+3. AK031219 - Pengembangan Sumber Daya Air (2 SKS)
+4. AK031216 - Perancangan Pelabuhan Udara (2 SKS)
+5. AK031242 - Perancangan Struktur Gedung Bertingkat (2 SKS)
+6. AK031222 - Perancangan Struktur Jembatan (2 SKS)
+7. AK031455 - Proyek Sipil Terintegrasi (4 SKS)
+8. IT000207 - Robotika Cerdas (2 SKS)
+9. IT000108 - Praktikum Robotika Cerdas (1 SKS)

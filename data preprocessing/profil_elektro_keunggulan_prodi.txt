@@ -1,0 +1,22 @@
+=== JURUSAN ELEKTRO ===
+Topik: Keunggulan Prodi
+URL Asli: https://fti.gunadarma.ac.id/elektro/keunggulan-prodi/
+
+KONTEN:
+
+## Keunggulan Program Studi Teknik Elektro
+
+Program Studi Teknik Elektro didirikan berdasarkan SK Dirjen Dikti Nomor 92/Kep/Dikti/1996 tertanggal 3 April 1996 dan berada di bawah Fakultas Teknologi Industri. Memperoleh Akreditasi Predikat UNGGUL Bedasarkan BAN-PT No.8659/SK/BAN-PT/Ak-PPJ/S/VI/2021
+
+## Bidang Unggulan Berdasarkan Visi 2022–2026
+
+### Teknik Tenaga Elektrik
+- Otomatisasi Sistem Kelistrikan
+- Industrial IoT dan Industrial Robotics
+- Energi Baru Terbarukan
+
+### Teknik Elektronika
+- Sistem Cerdas & Embedded System berbasis IoT
+- Desain Chip
+- Komunikasi Wireless & Komunikasi Bergerak
+- Komunikasi Multimedia.

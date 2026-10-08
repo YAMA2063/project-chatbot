@@ -1,0 +1,22 @@
+=== JURUSAN INFORMATIKA ===
+Topik: Capaian Pembelajaran Lulusan (CPL)
+URL Asli: https://fti.gunadarma.ac.id/informatika/?page_id=580
+
+KONTEN:
+Capaian Pembelajaran Lulusan Prodi Informatika adalah sebagai berikut:
+
+- CPL01: Kemampuan memahami konsep sains yang mendukung analisis, metode dalam pengembangan produk perangkat lunak teknologi informasi untuk sistem dengan kompleksitas komputasi yang menerapkan pemikiran logis, kritis, sistematis dan inovatif, termasuk komputasi paralel yang terdistribusi.
+- CPL02: Kemampuan mengidentifikasi, menganalisis, merancang dan mendapatkan solusi dengan komputasi serta mengkombinasikan berbagai prosedur teknis rekayasa teknologi Informatika secara tepat, menyeluruh dan optimal.
+- CPL03: Kemampuan memahami implementasi ilmu pengetahuan dan teknologi yang memperhatikan dan menerapkan nilai humaniora sesuai dengan keahliannya berdasarkan kaidah, tata cara dan etika ilmiah dalam rangka menghasilkan solusi, gagasan dan desain.
+- CPL04: Kemampuan merancang, membangun dan mengimplementasikan produk teknologi informasi termasuk mengelola keamanan data dan sistem untuk menyelesaikan masalah dan mendukung efisiensi organisasi.
+- CPL05: Kemampuan merancang algoritma yang efisien dan efektif serta mengimplementasikannya dengan bahasa pemrograman dan teknologi Informatika dalam membangun sistem komputasi berbasis desktop, web dan mobile.
+- CPL06: Kemampuan membangun perencanaan, perancangan, penerapan, pengujian dan pemeliharaan sistem perangkat lunak yang berorientasi pada pemrosesan data besar.
+- CPL07: Kemampuan merancang dan mengelola sistem jaringan komputer yang efisien dan aman pada sebuah organisasi.
+- CPL08: Kemampuan membuat pemodelan data serta membangun aplikasi perangkat lunak untuk pengorganisasian data dan penjaminan keamanan akses data termasuk produk multimedia berbasis grafika computer dan computer vision.
+- CPL09: Kemampuan menunjukkan kinerja mandiri, bermutu, dan terukur dengan memahami konsep sistem cerdas yang mencakup kecerdasan buatan, machine learning, fuzzy logic, deep learning dan data analyst.
+- CPL10: Kemampuan memahami konsep dasar bidang ilmu komputer, perekayasaan dan teknologi informasi yang ditunjukkan dengan tanggung jawab terhadap pekerjaan dan kewirausahaan serta menjunjung tinggi hukum, etika dan moral.
+- CPL11: Kemampuan memahami konsep legal aspek dan budaya dalam perkembangan dan penerapan teknologi informasi pada masyarakat dengan media yang relevan.
+- CPL12: Kemampuan berkomunikasi secara efektif, memelihara dan mengembangkan jaringan kerja dengan pembimbing, kolega, sejawat baik di dalam maupun di luar lembaganya.
+- CPL13: Kemampuan bekerja-sama secara efektif dalam penelitian multidisiplin dan transdisiplin, menjadi pemimpin dalam kegiatan penelitian keprofesian bidang informatika dengan melakukan supervisi dan evaluasi terhadap penyelesaian pekerjaan yang ditugaskan kepada pekerja yang berada di bawah tanggung jawabnya.
+- CPL14: Kemampuan mengambil keputusan secara tepat dalam konteks penyelesaian masalah di bidang keahliannya, berdasarkan hasil analisis informasi dan data.
+- CPL15: Kemampuan mendokumentasikan, menyimpan, mengamankan, dan menemukan kembali data untuk menjamin kesahihan dan mencegah plagiasi serta melibatkan diri dalam proses belajar terus-menerus sepanjang hidup.

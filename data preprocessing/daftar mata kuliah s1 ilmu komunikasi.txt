@@ -1,0 +1,117 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 ILMU KOMUNIKASI (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1MA01, 1MA02, 1MA03, 1MA04, 1MA05, 1MA06, 1MA07, 1MA08, 1MA09, 1MA10, 1MA11, 1MA12, 1MA13, 1MA14, 1MA15, 1MA16, 1MA17, 1MA18, 1MA19, 1MA20, 1MA21, 1MA22, 1MA23, 1MA24, 1MA25, 1MA26, 1MA27, 1MA28 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PP00020X - Pendidikan Agama (2 SKS)
+2. PP000207 - Pendidikan Kewarganegaraan (2 SKS)
+3. IT081307 - Algoritma Pemrograman (3 SKS) [PP]
+4. AK081322 - English for Communication Science (3 SKS)
+5. IT081238 - Mathematical Thinking On Communication (2 SKS)
+6. IT081236 - Pengantar Ilmu Komunikasi (2 SKS)
+7. AK081220 - Public Relations (2 SKS) [UU]
+8. IT081211 - Teknologi Informasi dan Komunikasi (2 SKS) [UU]
+
+=== KELAS: 1MA29 (SARMAG) ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PP00020X - Pendidikan Agama (2 SKS)
+2. PP000207 - Pendidikan Kewarganegaraan (2 SKS)
+3. IT081307 - Algoritma Pemrograman (3 SKS) [PP]
+4. AK081322 - English for Communication Science (3 SKS)
+5. IT081238 - Mathematical Thinking On Communication (2 SKS)
+6. IT081236 - Pengantar Ilmu Komunikasi (2 SKS)
+7. AK081220 - Public Relations (2 SKS) [UU]
+8. IT081211 - Teknologi Informasi dan Komunikasi (2 SKS) [UU]
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2MA01, 2MA02, 2MA03, 2MA04, 2MA05, 2MA06, 2MA07, 2MA08, 2MA09, 2MA10, 2MA11, 2MA12, 2MA13, 2MA14, 2MA15, 2MA16, 2MA17, 2MA18, 2MA19, 2MA20, 2MA21, 2MA22, 2MA23, 2MA24, 2MA25, 2MA26, 2MA27, 2MA28, 2MA29 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. AK081321 - English Creative Writing (3 SKS)
+2. AK081303 - Fotografi dan Teknologi Dokumentasi (3 SKS) [PP]
+3. AK081205 - Komunikasi Antar Budaya (2 SKS) [UU]
+4. IT081315 - Komunikasi Massa (3 SKS) [UU]
+5. AK081304 - Komunikasi Multimedia (3 SKS) [UU] [PP]
+6. IT081343 - Metode Penelitian Komunikasi: Kuantitatif (3 SKS)
+7. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS) [TT]
+8. IT000211 - Social Networking dan Creative Content (2 SKS) [TT]
+
+=== KELAS: 2MA30 (SARMAG) ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. AK081321 - English Creative Writing (3 SKS)
+2. AK081303 - Fotografi dan Teknologi Dokumentasi (3 SKS) [PP]
+3. AK081205 - Komunikasi Antar Budaya (2 SKS) [UU]
+4. IT081315 - Komunikasi Massa (3 SKS) [UU]
+5. AK081304 - Komunikasi Multimedia (3 SKS) [UU] [PP]
+6. IT081343 - Metode Penelitian Komunikasi: Kuantitatif (3 SKS)
+7. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS) [TT]
+8. IT000211 - Social Networking dan Creative Content (2 SKS) [TT]
+9. AK081311 - Teknik Lobby dan Negosiasi (3 SKS) [UU]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3MA01, 3MA02, 3MA03, 3MA04, 3MA05, 3MA06, 3MA07, 3MA08, 3MA09, 3MA10, 3MA11, 3MA12, 3MA13, 3MA14, 3MA15, 3MA16, 3MA17, 3MA18, 3MA19, 3MA20, 3MA21, 3MA22, 3MA23, 3MA24, 3MA25, 3MA26, 3MA27, 3MA28 ===
+Total SKS: 19 SKS
+Daftar Mata Kuliah:
+1. HM081306 - Komunikasi Politik (3 SKS)
+2. AK081319 - Digital Journalism (3 SKS)
+3. AK081210 - Penulisan Ilmiah (2 SKS)
+4. IT081346 - Produksi Program Televisi (3 SKS) [PP]
+5. IT081326 - Public Speaking (3 SKS) [PP]
+6. IT081345 - Sistem Multimedia (3 SKS) [UU]
+7. IT081240 - Social Network Analysis (2 SKS)
+
+=== KELAS: 3MA29 (SARMAG) ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. HM081306 - Komunikasi Politik (3 SKS)
+2. IT081349 - Digital Entrepreneurship (3 SKS)
+3. AK081319 - Digital Journalism (3 SKS)
+4. IT081324 - Manajemen Krisis (3 SKS) [UU]
+5. IT081346 - Produksi Program Televisi (3 SKS) [PP]
+6. IT081326 - Public Speaking (3 SKS) [PP]
+7. IT081345 - Sistem Multimedia (3 SKS) [UU]
+8. IT081240 - Social Network Analysis (2 SKS)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4MA01, 4MA02, 4MA03, 4MA04, 4MA05, 4MA06, 4MA07, 4MA08, 4MA09, 4MA10, 4MA11, 4MA12, 4MA13, 4MA14, 4MA15, 4MA16, 4MA17, 4MA18, 4MA19, 4MA20, 4MA21, 4MA22, 4MA23, 4MA24, 4MA25, 4MA26, 4MA27, 4MA28, 4MA29 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. PB081306 - Kuliah Kerja Lapangan (3 SKS)
+2. PB081308 - Seminar Kajian Bidang Ilmu Komunikasi (3 SKS)
+3. HM081208 - Consumer Behavior (2 SKS)
+4. IT081349 - Digital Entrepreneurship (3 SKS)
+5. IT000215 - Kecerdasan Artifisial dan Masyarakat (2 SKS) [TT]
+6. IT081324 - Manajemen Krisis (3 SKS) [UU]
+7. IT000116 - Praktikum Kecerdasan Artifisial dan Masyarakat (1 SKS) [TT]
+8. AK081311 - Teknik Lobby dan Negosiasi (3 SKS) [UU]
+
+=== KELAS: 4MA30, 4MA31, 4MA32, 4MA33, 4MA34, 4MA35, 4MA36, 4MA37, 4MA38, 4MA39 (AKOM Lanjut S1) ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. HM081210 - Komunikasi Keberlanjutan (2 SKS)
+2. PB081306 - Kuliah Kerja Lapangan (3 SKS)
+3. PB081308 - Seminar Kajian Bidang Ilmu Komunikasi (3 SKS)
+4. PP000207 - Pendidikan Kewarganegaraan (2 SKS)
+5. PP081209 - Ethical And Moral Issue In Communication Science (2 SKS)
+6. IT081307 - Algoritma Pemrograman (3 SKS) [PP]
+7. IT000215 - Kecerdasan Artifisial dan Masyarakat (2 SKS) [TT]
+8. IT081238 - Mathematical Thinking On Communication (2 SKS)
+9. IT000116 - Praktikum Kecerdasan Artifisial dan Masyarakat (1 SKS) [TT]
+10. IT081351 - Sosiologi Komunikasi dan Media (3 SKS)

@@ -1,0 +1,54 @@
+=== JURUSAN ELEKTRO ===
+Topik: Tujuan dan Strategi
+URL Asli: https://fti.gunadarma.ac.id/elektro/tujuan-dan-sasaran/
+
+KONTEN:
+
+## Tujuan Program Studi
+Program Studi Teknik Elektro bertujuan menghasilkan lulusan unggul, profesional, adaptif terhadap perkembangan teknologi, serta berkontribusi pada pengembangan ilmu pengetahuan dan kesejahteraan masyarakat secara nasional dan global.
+
+- Menghasilkan peserta didik yang tanggap terhadap perkembangan IPTEK dan ekosistem digital Indonesia Maju.
+- Menjadi program studi yang memiliki jejaring kerja sama aktif nasional dan internasional, peran strategis dalam penelitian kolaboratif, serta kontribusi nyata dalam penerapan teknologi untuk masyarakat.
+- Menghasilkan lulusan yang mampu menerapkan keilmuan secara profesional, menguasai metodologi penyelesaian masalah, beretika, berjiwa kewirausahaan, adaptif, dan siap menghadapi teknologi masa depan.
+- Menghasilkan penelitian unggul berorientasi global.
+- Menghasilkan pengabdian kepada masyarakat sebagai wujud tanggung jawab sosial.
+- Membangun jejaring kerja sama untuk meningkatkan reputasi program studi.
+
+## Pemetaan Tujuan dan Strategi
+
+### Tujuan 1: Penguatan Kompetensi Digital
+- Kurikulum adaptif berbasis IoT, AI, Big Data, dan Sistem Kendali Cerdas.
+- Peningkatan kapasitas dosen melalui pelatihan dan sertifikasi.
+- Pemanfaatan e-learning dan laboratorium virtual.
+- Kolaborasi dengan industri dan startup digital.
+- Project-based learning dan problem-solving.
+
+### Tujuan 2: Jejaring dan Penelitian
+- Pengembangan MoU/MoA nasional dan internasional.
+- Program pertukaran dosen dan mahasiswa.
+- Joint research dan joint publication.
+- Riset unggulan: energi terbarukan, smart grid, komunikasi digital.
+- Penguatan publikasi bereputasi.
+
+### Tujuan 3: Lulusan Profesional
+- Revisi kurikulum berbasis kebutuhan industri.
+- Sertifikasi kompetensi dan kompetisi teknologi.
+- Program magang dan MBKM.
+- Pembinaan etika profesi dan technopreneur.
+
+### Tujuan 4: Pengabdian dan Globalisasi
+- Program berbasis SDGs dan kebutuhan masyarakat.
+- KKN Tematik dan pelatihan teknologi.
+- Kolaborasi dengan pemerintah dan komunitas.
+- Akses hibah internasional dan konferensi global.
+
+### Tujuan 5: Pengabdian Masyarakat Berkelanjutan
+- Penetapan tema prioritas berbasis kebutuhan masyarakat dan SDGs.
+- Keterlibatan mahasiswa dalam KKN Tematik dan pelatihan teknologi.
+- Sinergi dengan program pemerintah.
+- Monitoring dan evaluasi dampak kegiatan pengabdian.
+
+### Tujuan 6: Penguatan Jejaring Kerja Sama Internasional
+- Pembentukan gugus tugas kerja sama luar negeri.
+- Penyelenggaraan international conference, summer course, dan workshop.
+- Akses hibah internasional seperti Erasmus+, DAAD, dan AUN-QA.

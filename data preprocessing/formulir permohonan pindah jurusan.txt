@@ -1,0 +1,51 @@
+DOKUMEN: KETENTUAN, SYARAT, DAN PROSEDUR PINDAH JURUSAN UNIVERSITAS GUNADARMA
+
+DESKRIPSI DAN KETENTUAN UMUM:
+Pindah jurusan adalah perpindahan program studi bagi mahasiswa. 
+- Syarat Wajib 1 Fakultas: Pindah jurusan HANYA BISA dilakukan antar program studi yang berada di bawah satu fakultas yang sama (misalnya: S1 Sistem Informasi ke S1 Sistem Komputer, atau sesama prodi di Fakultas Ekonomi).
+- Aturan Khusus FTI (Fakultas Teknologi Industri): Jurusan Teknik Informatika TIDAK DIPERBOLEHKAN pindah ke Teknik Elektro, Teknik Mesin, atau Teknik Industri, begitu pun sebaliknya.
+
+ATURAN MUTLAK (WAJIB DIPERHATIKAN):
+1. Waktu Pengajuan: Permohonan HANYA DAPAT diajukan oleh mahasiswa tingkat 1 (yakni setelah mengikuti kuliah sekurang-kurangnya 1 semester dan sebanyak-banyaknya 2 semester).
+2. Kesetaraan Nilai: Nilai mata kuliah yang pernah diperoleh akan diperhitungkan pada jurusan baru apabila terdapat kesetaraan/kesamaan mata kuliah.
+
+SYARAT DAN BERKAS LAMPIRAN:
+Mahasiswa WAJIB menyiapkan persyaratan berikut untuk diunggah (upload):
+1. Formulir Permohonan Pindah Jurusan. PENTING: Formulir yang diupload nanti harus sudah ada TANDATANGAN dan STEMPEL dari jurusan lama/asal.
+2. Surat Persetujuan dari Orang Tua / Wali.
+3. 1 (satu) lembar fotokopi Ijazah SMA yang telah dilegalisir.
+4. 1 (satu) lembar fotokopi DNS (Daftar Nilai Semester) terakhir.
+5. 2 (dua) lembar pas photo ukuran 2 x 3.
+
+PROSEDUR PENGAJUAN (DIGITAL):
+Pengajuan pindah jurusan dilakukan secara digital melalui Google Form resmi BAAK pada periode waktu tertentu yang telah ditetapkan (misal: 09-24 Februari).
+1. Unduh Berkas Administrasi: Mahasiswa WAJIB mengunduh format dokumen resmi sesuai fakultas masing-masing:
+   - Formulir Pindah Jurusan FIKTI (Ilmu Komputer): https://baak.gunadarma.ac.id/file/Administrasi%20Akademik/pindah_jurusan_ilkom.pdf
+   - Formulir Pindah Jurusan Ekonomi: https://baak.gunadarma.ac.id/file/Administrasi%20Akademik/pindah_jurusan_ekonomi.pdf
+   - Formulir Pindah Jurusan FTI (Teknologi Industri): https://baak.gunadarma.ac.id/file/Administrasi%20Akademik/pindah_jurusan_ti.pdf
+   - Surat Persetujuan Orangtua: https://docs.google.com/document/d/1N-9BnYRu7fAuX5D5ZE2oaSQu0xVipa_q/edit
+2. Pengesahan Jurusan: Mahasiswa meminta tanda tangan dan stempel ke sekretariat jurusan lama pada Formulir Pindah Jurusan yang telah diunduh.
+3. Pengisian Form Digital: Setelah semua berkas lengkap, ditandatangani, dan distempel, mahasiswa mengisi data dan mengunggah seluruh berkas tersebut ke form digital pendaftaran resmi: https://bit.ly/UGPindahJurusan
+4. Pantau pengumuman persetujuan pindah jurusan melalui portal mahasiswa atau situs BAAK.
+
+
+---
+
+# ISI DARI FORMULIR PERMOHONAN PINDAH JURUSAN
+Jika mahasiswa bertanya apa saja rincian isi dari Formulir Permohonan Pindah Jurusan, formulir tersebut berisi isian data sebagai berikut:
+- Nama, NPM & Kelas
+- Fakultas (Tercetak permanen sesuai formulir: Ekonomi / Ilmu Komputer / Teknologi Industri)
+- Jenjang studi/Jurusan (Jurusan asal)
+- Alasan memberikan izin untuk pindah jurusan / jenjang
+- Tabel Detail Pindah Jurusan (Mahasiswa memberi tanda silang pada pilihan):
+  - DARI jurusan apa -> KE jurusan apa.
+  - Pilihan prodi Fakultas Ekonomi: S1 Manajemen, S1 Akuntansi, D3 Manajemen, D3 Akuntansi.
+  - Pilihan prodi Fakultas Ilmu Komputer (FIKTI): S1 Sistem Informasi, S1 Sistem Komputer, D3 Manajemen Informatika, D3 Teknik Komputer.
+  - Pilihan prodi Fakultas Teknologi Industri (FTI): S1 Teknik Elektro, S1 Teknik Mesin, S1 Teknologi Industri.
+- Daftar persyaratan lampiran wajib yang tertulis di form:
+  a. 1 lembar foto copy ijazah SMA yang telah dilegalisir
+  b. 1 lembar foto copy DNS terakhir
+- Kolom Tanda Tangan: 
+  - Mengetahui (Orang Tua / Wali)
+  - Pemohon (Mahasiswa)
+  - Menyetujui (Sekretaris Jurusan) -- (Catatan: Wajib ditandatangani & distempel oleh Sekretaris Jurusan sebelum diupload)

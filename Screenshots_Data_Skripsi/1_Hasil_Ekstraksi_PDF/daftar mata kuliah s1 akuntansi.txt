@@ -1,0 +1,110 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 AKUNTANSI (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1EB01, 1EB02, 1EB03, 1EB04, 1EB05, 1EB06, 1EB07, 1EB08, 1EB09, 1EB10, 1EB11, 1EB12, 1EB13, 1EB14, 1EB15, 1EB16, 1EB17, 1EB18 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PB022203 - Bahasa Inggris (2 SKS)
+2. PB022107 - Ilmu Budaya Dasar (1 SKS)
+3. IT022225 - Matematika Ekonomi 1 (2 SKS) [PP]
+4. PP000207 - Pendidikan Kewarganegaraan (2 SKS)
+5. IT022332 - Pengantar Akuntansi 1 (3 SKS) [PP]
+6. IT022234 - Pengantar Bisnis (2 SKS)
+7. IT022235 - Pengantar Ekonomi 1 (2 SKS)
+8. IT022237 - Pengantar Komputer dan Teknologi Informasi 1 (2 SKS)
+9. IT022239 - Pengantar Manajemen (2 SKS)
+
+=== KELAS: 1EB19 (SARMAG) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. PB022203 - Bahasa Inggris (2 SKS)
+2. PB022107 - Ilmu Budaya Dasar (1 SKS)
+3. IT022225 - Matematika Ekonomi 1 (2 SKS) [PP]
+4. PP00020X - Pendidikan Agama (2 SKS)
+5. PP000207 - Pendidikan Kewarganegaraan (2 SKS)
+6. IT022332 - Pengantar Akuntansi 1 (3 SKS) [PP]
+7. IT022234 - Pengantar Bisnis (2 SKS)
+8. IT022235 - Pengantar Ekonomi 1 (2 SKS)
+9. IT022237 - Pengantar Komputer dan Teknologi Informasi 1 (2 SKS)
+10. IT022239 - Pengantar Manajemen (2 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2EB01, 2EB02, 2EB03, 2EB04, 2EB05, 2EB06, 2EB07, 2EB08, 2EB09, 2EB10, 2EB11, 2EB12, 2EB13, 2EB14, 2EB15, 2EB16, 2EB17, 2EB18 ===
+Total SKS: 19 SKS
+Daftar Mata Kuliah:
+1. IT022301 - Akuntansi Biaya (3 SKS) [UU] [PP]
+2. AK022301 - Akuntansi Keuangan Menengah 1 (3 SKS) [UU] [PP]
+3. IT022210 - Bank dan Lembaga Keuangan 1 (2 SKS)
+4. IT022220 - Manajemen Keuangan 1 (2 SKS)
+5. PP00020X - Pendidikan Agama (2 SKS)
+6. IT000112 - Prak. Social Networking dan Creative Content (1 SKS) [TT]
+7. IT000211 - Social Networking dan Creative Content (2 SKS) [TT]
+8. IT022250 - Statistika 1 (2 SKS) [UU] [PP]
+9. IT022270 - Teori Ekonomi (2 SKS)
+
+=== KELAS: 2EB19 (SARMAG) ===
+Total SKS: 21 SKS
+Daftar Mata Kuliah:
+1. IT022301 - Akuntansi Biaya (3 SKS) [UU] [PP]
+2. AK022301 - Akuntansi Keuangan Menengah 1 (3 SKS) [UU] [PP]
+3. PB022205 - Bahasa Inggris Bisnis (2 SKS)
+4. IT022210 - Bank dan Lembaga Keuangan 1 (2 SKS)
+5. IT022220 - Manajemen Keuangan 1 (2 SKS)
+6. IT000112 - Prak. Social Networking dan Creative Content (1 SKS) [TT]
+7. PB022208 - Riset Akuntansi (2 SKS) [PP]
+8. IT000211 - Social Networking dan Creative Content (2 SKS) [TT]
+9. IT022250 - Statistika 1 (2 SKS) [UU] [PP]
+10. IT022270 - Teori Ekonomi (2 SKS)
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3EB01, 3EB02, 3EB03, 3EB04, 3EB05, 3EB06, 3EB07, 3EB08, 3EB09, 3EB10, 3EB11, 3EB12, 3EB13, 3EB14, 3EB15, 3EB16, 3EB17 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. AK022314 - Akuntansi Keuangan Lanjut 1 (3 SKS) [UU] [PP]
+2. PB022205 - Bahasa Inggris Bisnis (2 SKS)
+3. AK022305 - Pemeriksaan Akuntansi 1 (3 SKS) [UU]
+4. IT022343 - Perpajakan (3 SKS) [UU] [PP]
+5. PB022208 - Riset Akuntansi (2 SKS) [PP]
+6. IT022244 - Riset Operasional (2 SKS)
+7. IT022363 - Sistem Informasi Akuntansi (3 SKS) [UU] [PP]
+8. PB022209 - Tatap Muka Penulisan Ilmiah (2 SKS)
+
+=== KELAS: 3EB18 (SARMAG) ===
+Total SKS: 24 SKS
+Daftar Mata Kuliah:
+1. AK022314 - Akuntansi Keuangan Lanjut 1 (3 SKS) [UU] [PP]
+2. IT022305 - Akuntansi Pemerintahan (3 SKS) [UU]
+3. IT022306 - Akuntansi Perbankan (3 SKS) [PP]
+4. IT022224 - Manajemen Strategik (2 SKS)
+5. IT022258 - Manajemen Sumber Daya Manusia (2 SKS)
+6. AK022305 - Pemeriksaan Akuntansi 1 (3 SKS) [UU]
+7. IT022343 - Perpajakan (3 SKS) [UU] [PP]
+8. IT022244 - Riset Operasional (2 SKS)
+9. IT022363 - Sistem Informasi Akuntansi (3 SKS) [UU] [PP]
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4EB01, 4EB02, 4EB03, 4EB04, 4EB05, 4EB06, 4EB07, 4EB08, 4EB09, 4EB10, 4EB11, 4EB12, 4EB13, 4EB14, 4EB15 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT022303 - Akuntansi Manajemen Lanjut (3 SKS) [PP]
+2. IT022305 - Akuntansi Pemerintahan (3 SKS) [UU]
+3. IT022306 - Akuntansi Perbankan (3 SKS) [PP]
+4. IT022262 - Analisis dan Perancangan Sistem Informasi Akuntansi (2 SKS) [PP]
+5. IT000215 - Kecerdasan Artifisial dan Masyarakat (2 SKS) [TT]
+6. IT022328 - Pemeriksaan Akuntansi Lanjut (3 SKS) [PP]
+7. IT000116 - Praktikum Kecerdasan Artifisial dan Masyarakat (1 SKS) [TT]
+8. IT022349 - Sistem Pengendalian Manajemen (3 SKS) [UU]

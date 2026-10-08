@@ -1,0 +1,66 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 KEBIDANAN (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1HC01 ===
+Total SKS: 20 SKS [cite: 284]
+Daftar Mata Kuliah:
+1. IT074201 - Anatomi (2 SKS) [cite: 284]
+2. PP074211 - Bahasa Inggris untuk Mahasiswa Kebidanan 1 (2 SKS) [cite: 284]
+3. PB074201 - Etika dan Hukum Kesehatan (2 SKS) [cite: 284]
+4. HM074202 - Filsafat Ilmu (2 SKS) [UU] [cite: 284]
+5. IT074203 - Fisiologi (2 SKS) [UU] [cite: 284]
+6. IT074308 - Informatika Kesehatan (3 SKS) [cite: 284]
+7. PB074302 - Konsep Kebidanan (3 SKS) [cite: 284]
+8. AK074219 - Pendidikan Karakter (2 SKS) [UU] [cite: 284]
+9. PP000206 - Pendidikan Pancasila (2 SKS) [UU] [cite: 284]
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2HC01, 2HC02 ===
+Total SKS: 21 SKS [cite: 288]
+Daftar Mata Kuliah:
+1. HM074201 - Ilmu Sosial Budaya Dasar (2 SKS) [cite: 288]
+2. PB074203 - Manajemen dan Kepemimpinan Dalam Pelayanan Kebidanan (2 SKS) [UU] [cite: 288]
+3. AK074202 - Ilmu Penyakit Umum (2 SKS) [cite: 288]
+4. IT074224 - Farmakologi (2 SKS) [cite: 288]
+5. IT074205 - Gizi Reproduksi (2 SKS) [UU] [cite: 288]
+6. IT074409 - Keterampilan Dasar Praktik Kebidanan (4 SKS) [cite: 288]
+7. IT000203 - Komputasi Big Data (2 SKS) [cite: 288]
+8. IT074218 - Pengantar Praktik Kebidanan (2 SKS) [cite: 288]
+9. IT000104 - Praktikum Komputasi Big Data (1 SKS) [cite: 288]
+10. IT074209 - Promosi Kesehatan dan Ilmu Perilaku (2 SKS) [cite: 288]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3HC01, 3HC02 ===
+Total SKS: 21 SKS [cite: 307]
+Daftar Mata Kuliah:
+1. AK074504 - Asuhan Kebidanan Pada Bayi, Balita dan Anak Pra Sekolah (5 SKS) [cite: 307]
+2. AK074405 - Asuhan Kebidanan Pada Nifas (4 SKS) [UU] [cite: 307]
+3. AK074606 - Asuhan Kebidanan pada Persalinan dan Bayi Baru Lahir (6 SKS) [cite: 307]
+4. IT074214 - Ilmu Kesehatan Anak (2 SKS) [cite: 307]
+5. PB074211 - Metodologi Penelitian (2 SKS) [cite: 307]
+6. IT074217 - Obstetri (2 SKS) [cite: 307]
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4HC01, 4HC02 ===
+Total SKS: 16 SKS [cite: 320]
+Daftar Mata Kuliah:
+1. AK074210 - Kebidanan Dalam Sistem Pelayanan Kesehatan (2 SKS) [UU] [cite: 320]
+2. AK074213 - Kegawatdaruratan Neonatal Bayi dan Anak (2 SKS) [UU] [cite: 320]
+3. PP074215 - Komunikasi Bahasa Inggris Untuk Bidan (2 SKS) [cite: 320]
+4. PB074208 - Penelitian Dalam Kebidanan (2 SKS) [cite: 320]
+5. PB074509 - Tugas Akhir / Skripsi/ Studi Komprehensif (5 SKS) [cite: 320]
+6. IT000207 - Robotika Cerdas (2 SKS) [TT] [cite: 320]
+7. IT000108 - Praktikum Robotika Cerdas (1 SKS) [TT] [cite: 320]

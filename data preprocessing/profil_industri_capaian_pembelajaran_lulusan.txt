@@ -1,0 +1,20 @@
+=== JURUSAN INDUSTRI ===
+Topik: Capaian Pembelajaran Lulusan (CPL)
+URL Asli: https://fti.gunadarma.ac.id/industri/?page_id=533
+
+KONTEN:
+
+## CAPAIAN PEMBELAJARAN LULUSAN
+Capaian Pembelajaran Lulusan (CPL) Prodi Teknik Industri bertujuan memenuhi Standar Nasional Pendidikan Tinggi (SN-Dikti) yang meliputi kompetensi sikap, pengetahuan, keterampilan umum (KU), dan keterampilan khusus (S).
+
+- CPL-01: Kemampuan untuk menerapkan pengetahuan matematika, ilmu alam dan/atau material, teknologi informasi dan keteknikan untuk memperoleh pemahaman menyeluruh dari prinsip-prinsip keteknikindustrian. (SN Dikti: KU(a), KU(c))
+- CPL-02: Kemampuan untuk merancang sistem terintegrasi dengan memenuhi standar yang diperlukan dan berbagai batasan multi aspek yang realistis (teknis, hukum, ekonomi, lingkungan, sosial, politik, kesehatan dan keselamatan, keberlanjutan), serta melibatkan berbagai pemangku kepentingan, dan mengidentifikasi/memanfaatkan potensi sumber daya lokal dan nasional dengan pandangan global di bidang teknik industri. (SN Dikti: KU(a), KU(c), KU(e))
+- CPL-03: Kemampuan untuk merancang dan melakukan eksperimen laboratorium dan/atau lapangan serta menganalisis dan menerjemahkan data untuk mendukung proses pengambilan keputusan keteknikindustrian. (SN Dikti: KU(c), KU(e), KU(i))
+- CPL-04: Kemampuan untuk mengidentifikasi, merumuskan, menganalisis dan menyelesaikan permasalahan kompleks di bidang teknik industri. (SN Dikti: KU(c))
+- CPL-05: Kemampuan untuk menerapkan metode, keterampilan, dan peralatan teknik modern yang diperlukan dalam praktik keteknikindustrian. (SN Dikti: KU(a))
+- CPL-06: Kemampuan untuk berkomunikasi lisan dan tulisan secara efektif. (SN Dikti: KU(d), KU(f), KU(g), KU(i))
+- CPL-07: Kemampuan untuk merencanakan, menyelesaikan dan mengevaluasi tugas dengan memperhatikan batasan yang diberikan. (SN Dikti: S(g), S(i), S(j), KU(b))
+- CPL-08: Kemampuan untuk bekerja dalam tim multidispilin dan multibudaya. (SN Dikti: S(f), KU(f), KU(g), KU(h))
+- CPL-09: Kemampuan untuk bertanggungjawab kepada masyarakat, akuntabel dan menjalankan etika profesi dalam menyelesaikan permasalahan keteknikindustrian. (SN Dikti: S(a), S(b), S(c), S(d), S(f), S(g), S(h), S(i), KU(g))
+- CPL-10: Kemampuan untuk terlibat dalam pembelajaran sepanjang hayat, termasuk akses terhadap pengetahuan yang relevan dari isu-isu terkini. (SN Dikti: S(j), KU(h))
+- CPL-11: Mampu beradaptasi dan mensejajarkan diri pada jejaring baik lokal maupun global. (SN Dikti: S(f), S(j), KU(h))

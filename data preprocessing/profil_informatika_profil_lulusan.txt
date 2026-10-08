@@ -1,0 +1,12 @@
+=== JURUSAN INFORMATIKA ===
+Topik: Profil Lulusan
+URL Asli: https://fti.gunadarma.ac.id/informatika/?page_id=307
+
+KONTEN:
+Profil Lulusan Program Studi Informatika adalah sebagai berikut:
+
+- PL1: Memiliki kemampuan penguasaan dasar ilmiah, pengetahuan, metodologi keahlian bidang Teknik Informatika, serta memiliki logika berpikir dan nalar yang baik, sehingga mampu memahami, menganalisis, merancang, dan mengimplementasikan perangkat lunak sesuai bidang keahlian dalam kawasan bidang Informatika.
+- PL2: Memiliki kemampuan dalam mengevaluasi sumber data dan, merancang database, serta kemampuan mengumpulkan, mengolah dan menganalisis data untuk menghasilkan informasi yang berguna dalam penggambilan keputusan bagi organisasi atau badan usaha.
+- PL3: Memiliki kemampuan penguasaan dasar infrastruktur jaringan dalam membangun komunikasi antar user serta bisa merencanakan, mendesain, melakukan pengelolaan, manajemen, dan menyelesaikan permasalahan jaringan.
+- PL4: Memiliki kemampuan penguasaan konsep fundamental pengolahan citra, grafik komputer dan multimedia untuk mengembangkan solusi grafis inovatif serta menerapkan algoritma dan teknik terbaru dalam pengembangan aplikasi dan permainan yang menarik dan fungsional.
+- PL5: Memiliki sikap dan perilaku professional, bertanggung jawab, disiplin, beretika, kompetitif, berkarakter, dapat membawa diri dalam berkarya di bidang Informatika, dapat melakukan kinerja secara mandiri, mengembangkan, tata cara dan etika ilmiah yang dapat menghasilkan solusi dalam pembelajaran dalam teknologi informasi dan dapat berkomunikasi secara efektif dan selalu berperan aktif dalam meningkatkan kesejahteraan masyarakat.

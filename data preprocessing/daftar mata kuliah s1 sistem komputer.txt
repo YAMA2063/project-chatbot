@@ -1,0 +1,106 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 SISTEM KOMPUTER (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1KB01, 1KB02, 1KB03, 1KB04, 1KB05 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. IT012301 - Algoritma dan Pemrograman 1 (3 SKS) [UU]
+2. PB012201 - Bahasa Indonesia (2 SKS)
+3. IT012208 - Fisika Dasar 1 (2 SKS)
+4. HM012202 - Ilmu Sosial Dasar (2 SKS)
+5. IT012278 - Kimia Dasar (2 SKS)
+6. IT012315 - Matematika Dasar 1 (3 SKS)
+7. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+8. IT012130 - Praktikum Algoritma dan Pemrograman 1 (1 SKS)
+9. IT012132 - Praktikum Fisika Dasar (1 SKS)
+
+=== KELAS: 1KB06 (SARMAG) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT012301 - Algoritma dan Pemrograman 1 (3 SKS) [UU]
+2. PB012201 - Bahasa Indonesia (2 SKS)
+3. IT012204 - Bahasa Inggris (2 SKS)
+4. IT012208 - Fisika Dasar 1 (2 SKS)
+5. HM012202 - Ilmu Sosial Dasar (2 SKS)
+6. IT012278 - Kimia Dasar (2 SKS)
+7. IT012315 - Matematika Dasar 1 (3 SKS)
+8. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+9. IT012130 - Praktikum Algoritma dan Pemrograman 1 (1 SKS)
+10. IT012132 - Praktikum Fisika Dasar (1 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2KB01, 2KB02, 2KB03, 2KB04, 2KB05 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT012245 - Algoritma dan Pemrograman 3 (2 SKS) [PP]
+2. IT012346 - Elektronika Dasar (3 SKS)
+3. IT012211 - Fisika Panas dan Gelombang (2 SKS) [UU]
+4. IT000203 - Komputasi Big Data (2 SKS) [TT]
+5. IT012255 - Komunikasi Data (2 SKS) [UU]
+6. IT012217 - Matematika Diskrit 1 (2 SKS)
+7. IT012219 - Matematika Lanjut 1 (2 SKS)
+8. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT]
+9. IT012248 - Sistem Basis Data (2 SKS)
+10. IT012236 - Sistem Operasi (2 SKS) [UU]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3KB01, 3KB02, 3KB03, 3KB04 ===
+Total SKS: 19 SKS
+Daftar Mata Kuliah:
+1. IT012259 - Jaringan Komputer Dasar (2 SKS) [UU]
+2. AK012209 - Keamanan Komputer (2 SKS)
+3. AK012212 - Mikrokomputer (2 SKS) [UU]
+4. IT012254 - Pemrograman Devais FPGA (2 SKS)
+5. IT012280 - Pemrograman Web (2 SKS) [UU]
+6. AK012229 - Pengantar Sistem Cerdas (2 SKS)
+7. IT012163 - Praktikum Jaringan Komputer Dasar (1 SKS)
+8. IT012158 - Praktikum Mikrokomputer (1 SKS)
+9. IT012157 - Praktikum Pemrograman Devais FPGA (1 SKS)
+10. AK012225 - Teknik Kendali (2 SKS)
+11. AK012232 - Teknologi Sensor (2 SKS)
+
+=== KELAS: 3KB05 (SARMAG) ===
+Total SKS: 21 SKS
+Daftar Mata Kuliah:
+1. IT012259 - Jaringan Komputer Dasar (2 SKS) [UU]
+2. AK012209 - Keamanan Komputer (2 SKS)
+3. AK012212 - Mikrokomputer (2 SKS) [UU]
+4. IT012254 - Pemrograman Devais FPGA (2 SKS)
+5. IT012280 - Pemrograman Web (2 SKS) [UU]
+6. AK012229 - Pengantar Sistem Cerdas (2 SKS)
+7. IT012163 - Praktikum Jaringan Komputer Dasar (1 SKS)
+8. IT012158 - Praktikum Mikrokomputer (1 SKS)
+9. IT012157 - Praktikum Pemrograman Devais FPGA (1 SKS)
+10. IT012230 - Sistem Multimedia (2 SKS)
+11. AK012225 - Teknik Kendali (2 SKS)
+12. AK012232 - Teknologi Sensor (2 SKS)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4KB01, 4KB02, 4KB03, 4KB04, 4KB05 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. AK012234 - Aplikasi Internet Of Things (IoT) (2 SKS)
+2. PB012203 - Etika Profesi (2 SKS)
+3. AK012133 - Praktikum Interface (1 SKS)
+4. IT012119 - Praktikum Robotika (1 SKS)
+5. IT000108 - Praktikum Robotika Cerdas (1 SKS) [TT]
+6. IT012169 - Praktikum Sistem Komputasi Bergerak (1 SKS)
+7. AK012437 - Proyek Sistem Komputer (4 SKS) [UAS Presentasi]
+8. IT000207 - Robotika Cerdas (2 SKS) [TT]
+9. IT012276 - Robotika Lanjut (2 SKS)
+10. IT012268 - Sistem Komputasi Bergerak (2 SKS)
+11. AK012219 - Sistem Terdistribusi (2 SKS) [UU]

@@ -1,0 +1,40 @@
+INFORMASI MENU AKADEMIK STUDENTSITE GUNADARMA
+
+Untuk mengakses seluruh data akademik mahasiswa, login ke Studentsite Gunadarma, pilih menu "Akademik", lalu klik tombol "Buka Modul Akademik". Modul ini berisi beberapa tab penting:
+
+1. Profil: Menampilkan Data Personal, Alamat, dan Data Kampus (Jalur, Ijazah, Fakultas, Program Studi, Konsentrasi, Lokasi Kuliah, dan Kelas). Jika ada kesalahan data induk, mahasiswa harus menghubungi jurusan masing-masing.
+2. KRS (Kartu Rencana Studi): Menampilkan riwayat pengisian KRS per semester, total SKS yang telah diambil, dan keterangan status (misalnya: "Sudah mengisi dan mengambil KRS"). Jika data tidak sesuai, hubungi loket PSA.
+3. Rangkuman Nilai: Menampilkan total SKS Lokal/Total, IPK Lokal/Total, IPK Utama, serta rincian nilai huruf (Mutu) dari seluruh matakuliah yang diambil.
+   - Aturan Nilai Khusus: Nilai yang berisikan huruf P, T, K, atau X TIDAK termasuk dalam perhitungan IPK. 
+   - Nilai O: Jika mendapat nilai huruf O, mahasiswa harap memperbaiki data pembayaran ke PSA dengan membawa bukti pembayaran pada semester tersebut.
+4. Kartu Ujian: Digunakan untuk melihat jadwal ujian, ruangan (Online/D/J/K/L), dan mencetak kartu ujian (seperti Ujian Utama, Ujian Akhir Semester, Team Teaching, dll). 
+5. Semester Pendek: Digunakan untuk mendaftar ujian Semester Pendek. Mahasiswa harus melengkapi form Registrasi (No HP, Email, Foto) untuk mendapatkan "Key dari Server". Key ini digunakan untuk login ke situs semesterpendek.gunadarma.ac.id.
+6. Pembayaran Kuliah: Menampilkan ringkasan status kelancaran pembayaran, rincian total tagihan, dan total yang sudah dibayar pada setiap semester.
+
+INFORMASI PENULISAN ILMIAH (PI) & PENGAMBILAN SERTIFIKAT
+Tab Penulisan Ilmiah menampilkan detail tugas akhir PI mahasiswa, seperti Judul, Dosen Pembimbing, Tanggal Lulus, Nilai, Tanggal Revisi, hingga status Penyerahan Hardcover. 
+
+Syarat Pengambilan Sertifikat Penulisan Ilmiah (PI):
+Sebelum mengambil sertifikat PI, mahasiswa wajib memenuhi 3 syarat online:
+1. Lembar Pengesahan telah ditandatangani oleh Pembimbing, Ketua Program Studi, dan Ketua Sub-Bagian Sidang PI.
+2. Telah mengupload seluruh Naskah PI pada web Deposit Library (library.gunadarma.ac.id).
+3. Telah melakukan proses permohonan pembayaran sumbang buku di web perpustakaan.
+
+Berkas Fisik yang wajib dibawa saat mengambil Sertifikat PI ke kampus:
+1. Lembar Pengesahan asli yang telah ditandatangani lengkap.
+2. Bukti Pembayaran Sumbang Buku PI.
+3. Pas Foto ukuran 4x6 cm (hitam putih, dicetak pada kertas doff/tidak mengkilap).
+
+SYARAT PENDAFTARAN SIDANG SKRIPSI/KOMPREHENSIF
+Pada tab Sidang, mahasiswa dapat melihat daftar persyaratan (checklist) untuk mendaftar Sidang. Persyaratan mutlak yang harus dipenuhi (ceklis biru) antara lain:
+1. Sudah Upload Foto dan Upload KTP.
+2. 16 Digit NIK sudah diinput.
+3. Sudah Lulus minimal 3 dari 6 kursus.
+4. Sudah Lulus minimal 1 dari 1 Workshop.
+5. Lulus Sidang Penulisan Ilmiah (Judul PI sudah diisi).
+6. Sudah mengikuti Tes Aptitude.
+7. Sudah mengurus surat Bebas Perpustakaan dan Bebas Keuangan.
+8. Mencapai SKS Minimal 152.
+9. IPK Matakuliah Lokal minimal 2.00 dan IPK Matakuliah Utama minimal 3.00.
+10. Maksimal hanya boleh memiliki 4 Matakuliah dengan Nilai D.
+11. Tidak boleh ada Matakuliah dengan Nilai E (Maksimal 0 nilai E).

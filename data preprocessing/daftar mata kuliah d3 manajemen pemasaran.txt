@@ -1,0 +1,57 @@
+DOKUMEN: DAFTAR MATA KULIAH D3 MANAJEMEN PEMASARAN (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1DD01 ===
+Total SKS: 18 SKS [cite: 536]
+Daftar Mata Kuliah:
+1. Pendidikan Agama (2 SKS) [cite: 536]
+2. PP000207 - Pendidikan Kewarganegaraan (2 SKS) [cite: 536]
+3. PP000209 - Ilmu Alamiah Dasar (2 SKS) [cite: 536]
+4. IT023252 - Ekonomika 1 (2 SKS) [cite: 536]
+5. IT023236 - Manajemen Penjualan (2 SKS) [cite: 536]
+6. IT023229 - Matematika Bisnis (2 SKS) [cite: 536]
+7. IT023222 - Pengantar Akuntansi 1 dan Praktikum (2 SKS) [PP] [cite: 536]
+8. IT023221 - Pengantar Aplikasi Komputer dan Praktikum (2 SKS) [cite: 536]
+9. IT023256 - Pengantar Bisnis dan Pemasaran (2 SKS) [cite: 536]
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2DD01, 2DD02 ===
+Total SKS: 20 SKS [cite: 547]
+Daftar Mata Kuliah:
+1. HM023217 - Kewirausahaan 2 (2 SKS) [cite: 547]
+2. HM023206 - Komputer Multimedia Pemasaran 1 (2 SKS) [cite: 547]
+3. IT023248 - Komputerisasi Peranggaran 1 (2 SKS) [PP] [cite: 547]
+4. IT023342 - Manajemen Keuangan 1 dan Praktikum (3 SKS) [PP] [cite: 547]
+5. IT023238 - Manajemen Pemasaran 1 (2 SKS) [cite: 547]
+6. IT023234 - Manajemen Ritel (2 SKS) [cite: 547]
+7. IT023233 - Manajemen Sumber Daya Manusia (2 SKS) [UU] [cite: 547]
+8. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS) [TT] [cite: 547]
+9. IT000211 - Social Networking dan Creative (2 SKS) [TT] [cite: 547]
+10. IT023202 - Statistika 1 dan Praktikum (2 SKS) [UU] [PP] [cite: 547]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3DD01, 3DD02 ===
+Total SKS: 21 SKS [cite: 551]
+Daftar Mata Kuliah:
+1. IT023262 - Akuntansi Biaya dan Praktikum (2 SKS) [UU] [PP] [cite: 551]
+2. PB023115 - Bahasa Inggris Bisnis (2 SKS) [cite: 551]
+3. IT023251 - Hubungan Industrial Pancasila (2 SKS) [cite: 551]
+4. HM023204 - Komunikasi Pemasaran dan Praktikum (2 SKS) [PP] [cite: 551]
+5. IT023374 - Manajemen Strategi Pemasaran (3 SKS) [cite: 551]
+6. IT023237 - Mananjemen Pemasaran Jasa dan Praktikum (2 SKS) [PP] [cite: 551]
+7. IT023227 - Pemasaran Usaha Kecil Menengah (2 SKS) [cite: 551]
+8. IT023213 - Promosi dan Periklanan 1 (2 SKS) [cite: 551]
+9. IT023209 - Riset Pemasaran (2 SKS) [cite: 551]
+10. IT023205 - Sistem Informasi Manajemen (2 SKS) [UU] [cite: 551]

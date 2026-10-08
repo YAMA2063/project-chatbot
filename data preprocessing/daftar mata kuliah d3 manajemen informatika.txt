@@ -1,0 +1,44 @@
+DOKUMEN: DAFTAR MATA KULIAH UNIVERSITAS GUNADARMA (SEMESTER GENAP ATA 2024/2025)
+JURUSAN: D3 MANAJEMEN INFORMATIKA - KODE KELAS: DB
+
+SEMESTER 2 (TINGKAT 1) - Total 20 SKS - JURUSAN D3 MANAJEMEN INFORMATIKA
+Berlaku untuk kelas 1DB01
+
+1. Algoritma dan Pemrograman 2 - 2 SKS
+2. Arsitektur dan Organisasi Sistem Komputer - 2 SKS
+3. Bisnis dan Ekonomi Digital - 2 SKS
+4. Matematika Dasar 2 - 2 SKS
+5. Pendidikan Agama - 2 SKS
+6. Pendidikan Kewarganegaraan - 2 SKS
+7. Praktikum Algoritma dan Pemrograman 2 - 1 SKS
+8. Praktikum Teknologi Kecerdasan Artifisial - 1 SKS
+9. Sistem Basis Data 2 - 2 SKS
+10. Sistem Informasi Manajemen - 2 SKS
+11. Teknologi Kecerdasan Artifisial - 2 SKS
+
+SEMESTER 4 (TINGKAT 2) - Total 20 SKS - JURUSAN D3 MANAJEMEN INFORMATIKA
+Berlaku untuk kelas 2DB01
+
+1. Manajemen Proyek Teknologi Informasi - 2 SKS
+2. Matematika Informatika 2 - 2 SKS
+3. Pemrograman Berbasis Mobile 2 - 2 SKS
+4. Pemrograman Berbasis Web 2 - 2 SKS
+5. Pemrograman Olah Berkas - 2 SKS
+6. Pendidikan Kewarganegaraan - 2 SKS
+7. Pengantar Interaksi Manusia dan Komputer - 3 SKS
+8. Praktikum Pemrograman Berbasis Mobile 2 - 1 SKS
+9. Praktikum Pemrograman Berbasis Web 2 - 1 SKS
+10. Praktikum Pemrograman Olah Berkas - 1 SKS
+11. Teknik Pemrograman Terstruktur 2 - 2 SKS
+
+SEMESTER 6 (TINGKAT 3) - Total 17 SKS - JURUSAN D3 MANAJEMEN INFORMATIKA
+Berlaku untuk kelas 3DB01
+
+1. Bahasa Inggris Bisnis - 2 SKS
+2. Etika dan Profesi Tik - 2 SKS
+3. Pemrograman Multimedia 2 - 2 SKS
+4. Penulisan Penelitian / Laporan Kerja Praktek - 4 SKS
+5. Praktikum Terapan Teori Graf - 1 SKS
+6. Sistem Informasi Manajemen - 2 SKS
+7. Teknik Pemrograman Terstruktur 2 - 2 SKS
+8. Terapan Teori Graf - 2 SKS

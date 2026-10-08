@@ -1,0 +1,16 @@
+# HASIL PENCARIAN DOKUMEN RESMI INFORMATIKA GUNADARMA
+
+Catatan: Dokumen spesifik seperti Buku Kurikulum dan Rencana Pembelajaran Semester (RPS) Universitas Gunadarma berada di dalam sistem tertutup (Studentsite / portal login) sehingga tidak dipublikasikan secara bebas di internet.
+
+Namun, berdasarkan hasil pencarian mendalam, berikut adalah informasi esensial terkait kurikulum dan pedoman Informatika Gunadarma yang dapat dijadikan referensi dasar untuk Chatbot:
+
+### 1. Standar Kurikulum Nasional
+Program Studi S1 Informatika Universitas Gunadarma mengacu pada Standar Kurikulum OBE (Outcome-Based Education) yang dirumuskan oleh APTIKOM (Asosiasi Pendidikan Tinggi Informatika dan Komputer) tingkat nasional. Kurikulum ini didesain agar mahasiswa tidak hanya menguasai teori, tetapi juga memiliki keterampilan nyata (outcomes) yang relevan dengan kebutuhan industri 4.0.
+
+### 2. Sistem Pembelajaran
+- Pembelajaran dilakukan menggunakan sistem SKS reguler.
+- Mahasiswa didukung dengan sistem manajemen pembelajaran (LMS) internal.
+- Dokumentasi Rencana Pembelajaran Semester (RPS) dapat diakses mahasiswa melalui portal `rps.gunadarma.ac.id` menggunakan akun resmi.
+
+### 3. Panduan Pengelolaan Proyek
+Terdapat tugas besar dan proyek terpadu (Penulisan Ilmiah / PI) pada tingkat 3, serta Skripsi pada tingkat 4, yang dikelola dan dinilai dengan standar ketat untuk menjamin keaslian dan relevansi penelitian dengan pilar ilmu komputer (misalnya Kecerdasan Buatan, Rekayasa Perangkat Lunak, dan Jaringan Komputer).

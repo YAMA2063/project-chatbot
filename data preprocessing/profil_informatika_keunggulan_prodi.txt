@@ -1,0 +1,16 @@
+=== JURUSAN INFORMATIKA ===
+Topik: Keunggulan Prodi
+URL Asli: https://fti.gunadarma.ac.id/informatika/?page_id=1444
+
+KONTEN:
+Kurikulum yang diberikan di Program Studi Informatika mengacu pada kompetensi unggulan yang tertuan dalam body of knowledge bidang Informatika yaitu: Basic Mathematics and Statistics, Computer Programming and Algorithm, Computer Architecture, Software Engineering, Artificial Intelligent, Computer Graphics and Multimedia, Big Data Scientist dan Computer Networking and Scalable Systems.
+
+Fokus Kurikulum Yang Dikembangkan:
+
+- Mahasiswa yang tertarik menjadi ahli di bidang Informatika harus terlebih dahulu menguasai ilmu dasar (core knowledge) Informatika yaitu membahas teori dasar komputasi serta algoritma dan pemrograman yang dibutuhkan; dan
+
+- Sesuai visi, misi, tujuan, dan kekuatan program studi, akan dikembangkan ilmu yang berorientasi pada penciptaan entitas yang siap diterapkan bagi kehidupan manusia. Dalam hal ini ilmu yang dikembangkan oleh program studi, diantaranya: Kecerdasan Artifisial, Pengolahan Data Besar (Big Data), Software Engineering, teknik penggalian data (Data Mining) dan Sistem Cerdas (intelligent system) termasuk Machine Learning untuk membangun perangkat lunak pada sistem berbasis pengetahuan dan sistem penunjang keputusan, dimana saat ini sangat dibutuhkan suatu perangkat lunak pada sistem pengambilan keputusan yang bersifat real time dan, sistem jaringan komputer yang mencakup manajemen skalabilitas kompleksitas.
+
+- Keunggulan kurikulum prodi Informatika terletak pada penyelenggaraan matakuliah yang mendukung rekayasa perangkat lunak berbasis Kecerdasan artifisial dengan skalabilitas dan pengguna data besar yang menjadi isu utama jaman yang serba online. Matakuliah untuk mendukung skalabilitas dan data besar: Matematika, Statistika, Algoritma Pengolahan Paralel, Sistem Terdistribusi, Konsep Data Mining. Matakuliah Unggulan Universitas : Teknologi Kecerdasan Artifisial, Komputasi Big Data, Terapan Teori Graf, Robotika Cerdas.
+
+- Mempunyai keunggulan pada grafik komputer yang dapat diterapkan pada beberapa domain, seperti pengolahan citra, sistem multimedia dan game. Matakuliah yang mendukung bidang grafik komputer adalah: Matematika Lanjut 2, Matematika Informatika 2 dan 4, Grafik Komputer 1 dan 2, Desain Pemodelan Grafik, Pengantar Pengolahan Citra, Sistem Multimedia, Pemrograman Multimedia, dan Pengantar Teknologi Game dan New Media.

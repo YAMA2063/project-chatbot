@@ -1,0 +1,50 @@
+=== JURUSAN ELEKTRO ===
+Topik: Profil Fakultas dan Kegiatan Jurusan
+URL Asli: https://fti.gunadarma.ac.id/elektro/
+
+KONTEN:
+
+## Profil Singkat Program Studi Teknik Elektro
+
+Program Studi Teknik Elektro Universitas Gunadarma merupakan bagian dari Fakultas Teknologi Industri yang berfokus pada pengembangan ilmu dan teknologi di bidang sistem tenaga listrik, elektronika, sistem kendali, telekomunikasi, dan otomasi industri. Program studi ini dirancang untuk menghasilkan lulusan yang memiliki kompetensi akademik yang kuat, kemampuan rekayasa yang aplikatif, serta adaptif terhadap perkembangan teknologi industri modern dan era digital.
+
+Didukung oleh kurikulum berbasis Outcome-Based Education (OBE), laboratorium yang representatif, serta tenaga pengajar yang kompeten, Teknik Elektro Universitas Gunadarma berkomitmen mencetak lulusan yang profesional, inovatif, dan berdaya saing global. Lulusan dipersiapkan untuk berkarier di sektor industri, energi, manufaktur, teknologi informasi, maupun melanjutkan studi ke jenjang yang lebih tinggi.
+
+Pendaftaran Mahasiswa Baru:
+Bangun keahlian di bidang rekayasa sistem kelistrikan, elektronika, dan otomasi cerdas di Jurusan Teknik Elektro Universitas Gunadarma untuk menjawab tantangan industri modern!
+
+## KEGIATAN JURUSAN
+
+### Seminar Nasional
+Tema: Peran Strategis Perguruan Tinggi Dalam Membangun Talenta Desain Chip dan Industri Semikonduktor di Indonesia
+Sebagai upaya nyata dalam mewujudkan sinergi antara dunia pendidikan dan industri, kami bermaksud menyelenggarakan Seminar Nasional bertema "Peran Strategis Perguruan Tinggi dalam Membangun Talenta desain chip dan industri semikonduktor di Indonesia". Kegiatan ini dirancang dalam format hybrid (daring dan luring) agar dapat menjangkau lebih banyak peserta, khususnya mahasiswa Teknik Elektro, serta menghadirkan narasumber kompeten dari kalangan akademisi, praktisi industri, dan pemangku kebijakan.
+Salah satu bentuk nyata dari kolaborasi ini adalah kehadiran perwakilan industri teknologi nasional seperti Polytron, perusahaan yang aktif dalam pengembangan produk berbasis semikonduktor dan perangkat pintar berbasis IoT. Kehadiran praktisi dari industri diharapkan dapat memberikan wawasan aplikatif, inspirasi karier, dan gambaran nyata tentang kebutuhan serta peluang di sektor teknologi. Selain itu, seminar ini juga menjadi momentum penting bagi dilaksanakannya seremoni penandatanganan kerja sama (Memorandum of Understanding – MoU) antara Universitas dan Indonesia Chip Design Collaborative Center (ICDeC), sebagai bentuk komitmen bersama dalam mendukung pengembangan riset dan sumber daya manusia di bidang desain cip dan teknologi semikonduktor nasional.
+
+### Focus Group Discussion (FGD)
+Kegiatan peninjauan, penguatan dan penyusunan kurikulum dalam bentuk Focus Group Discussion (FGD) akan melibatkan berbagai stakeholder dan mitra, yaitu perwakilan alumni, pengguna lulusan serta asosiasi.
+
+Tujuan:
+- Peninjauan kurikulum yang berfokus pada pengembangan kompetensi unggul di bidang Teknik Elektro, memperhatikan visi dan misi program studi.
+- Penyusunan peta kurikulum yang diperbarui (updated).
+- Wadah sosialisasi dan menjalin kerja sama antara stakeholder dan Program Studi Teknik Elektro.
+
+Manfaat:
+- Tersusunnya arah kebijakan kurikulum updated.
+- Tersusun draf peta kurikulum updated.
+- Mempererat kerjasama antara stakeholder.
+
+### Lokakarya
+Kegiatan Lokakarya yang mengusung tema "Peningkatan Kompetensi Dosen dan Mahasiswa dalam Perencanaan dan Perancangan Energi Baru Terbarukan Berbasis Energi Surya dan Energi Bayu". Diharapkan menjawab tantangan Perguruan Tinggi untuk meningkatkan kompetensi Dosen dan Mahasiswa yang mempunyai keterampilan, berkarya efektif dalam masyarakat, mandiri dan berinovasi sesuai perkembangan zaman.
+
+Tujuan:
+- Meningkatkan kompetensi dosen dan mahasiswa khususnya dalam bidang perancangan sistem pengelolaan pembangkit tenaga surya (PLTS) dan tenaga bayu (PLTB) berbasis teknologi smart grid.
+- Membentuk kualitas kurikulum pada matakuliah yang mendukung bidang Energi Baru Terbarukan (EBT) menggunakan metode pembelajaran pemecahan kasus (case method) atau project kelompok (team-based project).
+
+### Praktisi Mengajar
+Kegiatan praktisi mengajar merupakan kegiatan ilmiah yang bertujuan untuk transfer pengetahuan dan informasi dari praktisi di bidang energi baru terbarukan, konversi energi, kontrol listrik, dan distribusi tenaga listrik, kepada mahasiswa melalui pengajaran sesuai dengan penerapan ilmu di lapangan. Diharapkan dapat menjawab tantangan untuk meningkatkan pengetahuan mahasiswa langsung dari praktisi industri (DUDI) khususnya bidang Energi Surya dan Bayu.
+
+### Peningkatan Kompetensi Dosen
+Pengembangan kompetensi tenaga pengajar merupakan kegiatan yang dirancang khusus untuk pengembangan institusi yang berkaitan dengan proses belajar-mengajar. Tujuan utamanya adalah meningkatkan kompetensi tenaga pengajar secara profesional dalam bidang EBT (Energi Baru Terbarukan), khususnya dalam bidang perancangan sistem pengelolaan pembangkit tenaga surya (PLTS) dan tenaga bayu (PLTB) berbasis teknologi smart grid.
+
+Tahap 1: Pelatihan selama 5 hari (10 - 14 Juni 2024), di BBPPMVP BMTI, Cimahi.
+Tahap 2: Penguatan sertifikasi dan uji kompetensi selama 3 hari (18 - 20 November 2024), di BBPPMVP BMTI, Cimahi.

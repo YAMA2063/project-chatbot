@@ -1,0 +1,43 @@
+DOKUMEN: KETENTUAN, SYARAT, DAN PROSEDUR PENGECEKAN NILAI (DNS) UNIVERSITAS GUNADARMA
+
+# KETENTUAN DAN ATURAN UMUM
+Pengecekan nilai pada DNS (Daftar Nilai Semester) dilakukan apabila:
+1. Terdapat mata kuliah yang nilainya tidak tercantum (kosong) pada DNS, padahal mata kuliah tersebut tercantum di KRS semester bersangkutan.
+2. Terdapat keragu-raguan atau indikasi kekeliruan pada nilai yang diperoleh dalam pencetakan DNS.
+
+## ATURAN MUTLAK (WAJIB DIPERHATIKAN):
+- Pengecekan diprioritaskan HANYA untuk nilai C, D, dan E. Mahasiswa yang mendapat nilai A tidak diperbolehkan melakukan cek nilai.
+- Maksimal mata kuliah yang boleh dicek adalah 2 (dua) mata kuliah.
+- Pengecekan dilakukan pada jadwal yang telah ditentukan (selama 1 bulan setelah DNS dikeluarkan). Pengecekan nilai di luar jadwal tidak dilayani.
+- BAAK tidak melayani permintaan duplikat / foto copy DNS asli.
+
+---
+
+# PROSEDUR PENGECEKAN NILAI DNS
+
+## OPSI A: PROSEDUR TERKINI - LAYANAN LIVECHAT & ONLINE
+Saat ini, pelayanan pengecekan nilai Mata Kuliah Lokal direkomendasikan secara ONLINE melalui fitur LIVECHAT (OBROLAN) di website resmi: http://baak.gunadarma.ac.id
+- Jadwal Livechat: Senin, Selasa, Kamis, Jumat. (Hari Rabu, Sabtu, dan Minggu TIDAK ADA pelayanan).
+- Jam Operasional: 10.00 - 15.00 WIB (Istirahat jam 12.00 - 13.00 WIB).
+- Ketentuan Antrean: Mahasiswa diharap sabar mengantre karena sistem melayani ratusan chat. Saat terhubung, langsung tuliskan Nama Mata Kuliah dan Kode Mata Kuliah yang akan dicek.
+
+Bila tidak bisa diselesaikan via Livechat, BAAK menyediakan e-formulir khusus pengaduan:
+1. Matkul ada di KRS, tapi belum tampil di Rangkuman Nilai: https://bit.ly/MatkulPTA2025-2026BelumKeluar
+2. Nilai Praktikum error/salah (Dapat C/D/E): https://tinyurl.com/CekNilaiPraktikum
+3. Nilai UAS = 0 (Padahal mengikuti ujian): https://bit.ly/uas_nol
+4. Nilai UTS = 0 khusus Matkul Team Teaching: https://bit.ly/MKTeamTeachingPTA2025
+
+## OPSI B: PROSEDUR KONVENSIONAL (OFFLINE DI LOKET BAAK)
+1. Membawa fotokopi DNS dan KRS semester yang bersangkutan, serta kartu praktikum (apabila yang dicek adalah mata kuliah praktikum) ke loket BAAK sesuai jadwal pengecekan.
+2. Jika dalam pengecekan awal di BAAK terdapat kekurangan/kekeliruan, mahasiswa akan mendapat tanda terima pengecekan nilai (complain) dari BAAK yang berisi pemberitahuan tanggal pengambilan hasil. (Lanjut ke step 4).
+3. Jika dalam pemeriksaan awal di BAAK tidak terdapat kekurangan/kekeliruan pada DNS, maka mahasiswa akan menerima kembali berkasnya dan proses pengecekan dianggap selesai.
+4. Mahasiswa kembali ke loket BAAK sesuai dengan tanggal pengambilan hasil pengecekan dengan membawa KRS dan DNS ASLI.
+5. Mahasiswa akan mendapat DNS baru hasil pengecekan nilai dengan menyerahkan DNS asli lama ke BAAK, atau mendapat surat keterangan perbaikan nilai.
+
+---
+
+# KASUS KHUSUS JIKA NILAI UTS = 0 (MATKUL REGULER):
+Apabila mahasiswa mengikuti UTS namun nilainya 0, mahasiswa TIDAK BOLEH mengisi form BAAK atau loket BAAK, melainkan WAJIB menghubungi Dosen yang bersangkutan untuk konfirmasi. 
+- Jika ada kesalahan nilai, DOSEN (bukan mahasiswa) yang akan mengirimkan Surat Keterangan Perbaikan Nilai atau file nilai langsung ke email resmi BAAK sesuai region kampus. HANYA DOSEN yang diperbolehkan mengirim email ke alamat tersebut.
+
+INFO TAMBAHAN: Setelah melakukan pelaporan melalui e-formulir, email dosen, atau complain loket, mahasiswa diminta menunggu dan mengecek perubahan nilai di Studentsite dalam waktu kurang lebih 3 (tiga) minggu.

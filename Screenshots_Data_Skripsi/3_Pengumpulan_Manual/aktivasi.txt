@@ -1,0 +1,24 @@
+CARA AKTIVASI/DAFTAR AKUN STUDENTSITE GUNADARMA
+
+Bagi mahasiswa yang belum memiliki akses, wajib melakukan aktivasi akun StudentSite melalui menu "Aktivasi" di halaman awal (studentsite.gunadarma.ac.id/v4/aktivasi).
+
+Proses aktivasi terdiri dari 4 tahap:
+1. Verifikasi Identitas (Memasukkan NPM, Tempat Lahir, dan Tanggal Lahir dengan format dd/mm/yyyy).
+2. Buat Akun (Menentukan Username dan Password).
+3. Info Kontak (Memasukkan Email pribadi dan nomor HP).
+4. Selesai (Akun aktif).
+
+Catatan Penting Aktivasi/Daftar Studentsite:
+1. NPM adalah Nomor Pokok Mahasiswa yang tertera di kartu mahasiswa Anda.
+2. Tempat dan tanggal lahir HARUS SESUAI dengan data ketika melakukan daftar ulang (pendaftaran mahasiswa baru).
+3. Username yang dipilih pada Tahap 2 akan menjadi email student Anda (format: username@student.gunadarma.ac.id).
+4. Proses aktivasi HANYA DAPAT DILAKUKAN SEKALI.
+5. Perubahan biodata hanya bisa dilakukan saat pengisian KRS atau Daftar Ulang.
+6. Pastikan email pribadi berstatus aktif untuk pemulihan password. Jika gagal aktivasi, gunakan fasilitas "Help Desk".
+
+INFORMASI BERITA DAN PENGUMUMAN KAMPUS TERKINI (SEMESTER PTA 2025/2026)
+
+Untuk mengetahui informasi terbaru, mahasiswa sangat disarankan untuk selalu mengecek menu "Berita" di halaman utama StudentSite. Beberapa pengumuman penting kampus saat ini meliputi:
+1. Info Wisuda: Wisuda Universitas Gunadarma terdekat direncanakan akan diselenggarakan secara tatap muka (offline) pada hari Senin, 11 Mei 2026 yang berlokasi di JICC Jakarta.
+2. Kursus Pembekalan Berbasis Kompetensi: Akan diselenggarakan secara LURING (offline) pada tanggal 23 - 28 Februari 2026. Kursus ini ditujukan untuk mahasiswa kelas 1 (jenjang D3 dan S1) dan kelas 3 (jenjang S1) untuk semua Program Studi.
+3. Open Recruitment: Tim PMB (Penerimaan Mahasiswa Baru) Universitas Gunadarma sedang membuka kesempatan bagi mahasiswa/i aktif untuk bergabung sebagai Part Timer. Info pendaftaran lengkap ada di menu Berita.

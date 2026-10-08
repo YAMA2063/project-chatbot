@@ -1,0 +1,15 @@
+EMAIL - STUDENTSITE GUNADARMA
+
+=== INFO EMAIL KAMPUS ===
+- Setiap mahasiswa mendapat email resmi dengan format: username@student.gunadarma.ac.id
+- (Username dipilih saat proses aktivasi akun Studentsite pertama kali)
+- Email menggunakan platform Microsoft 365 (Outlook)
+- Akses melalui menu "Email" di Studentsite
+- Login menggunakan akun yang telah didaftarkan oleh admin
+- Gunakan fasilitas email sesuai peraturan yang berlaku
+
+=== CARA AKSES ===
+1. Login ke Studentsite: https://studentsite.gunadarma.ac.id
+2. Klik menu "Email"
+3. Akan diarahkan ke Microsoft 365
+4. Login dengan akun student Gunadarma/email pribadi kalian

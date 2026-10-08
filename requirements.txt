@@ -1,0 +1,17 @@
+groq
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+pypdf
+pdfplumber
+python-dotenv
+sentence-transformers
+rank-bm25
+pyjwt
+bcrypt
+slowapi
+google-genai

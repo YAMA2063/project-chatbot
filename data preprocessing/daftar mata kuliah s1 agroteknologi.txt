@@ -1,0 +1,67 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 AGROTEKNOLOGI (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang (Wajib diikuti dengan praktikumnya)
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 11E01, 11E02 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. IT044203 - Bahasa Indonesia (2 SKS)
+2. IT044204 - Bahasa Inggris (2 SKS)
+3. IT044301 - Botani (3 SKS) [PP]
+4. IT044323 - Fisika dan Kimia Dasar (3 SKS) [PP]
+5. IT044206 - Matematika (2 SKS)
+6. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+7. PB044201 - Pengantar Ekonomi Pertanian (2 SKS)
+8. IT044228 - Pengantar Komputer Teknologi Informasi dan Komunikasi (2 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 21E01, 21E02 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT044313 - Agroklimatologi (3 SKS) [PP]
+2. IT044308 - Dasar Perlindungan Tanaman (3 SKS) [UU] [PP]
+3. AK044302 - Kesuburan Tanah (3 SKS) [UU] [PP]
+4. IT044315 - Logika dan Pemograman Komputer (3 SKS) [PP]
+5. IT044214 - Metode Statistika (2 SKS)
+6. AK044303 - Pemuliaan Tanaman (3 SKS) [UU] [PP]
+7. IT000203 - Komputasi Big Data (2 SKS) [TT]
+8. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 31E01 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. AK044325 - Agroecoturism dan Pertanian Terpadu (3 SKS) [PP]
+2. IT044316 - Biokimia Tanaman (3 SKS) [PP]
+3. AK044306 - Bioteknologi Tanaman (3 SKS) [UU] [PP]
+4. IT044222 - Metode Penelitian (2 SKS)
+5. AK044314 - Pengendalian Hama dan Penyakit Terpadu (3 SKS) [PP]
+6. IT044321 - Pengolahan dan Analisis Citra Pertanian (3 SKS) [PP]
+7. AK044313 - Urban Hortikultura (3 SKS) [UU] [PP]
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 41E01 ===
+Total SKS: 22 SKS
+Daftar Mata Kuliah:
+1. PB044302 - Agrotechnopreneurship (3 SKS) [PP]
+2. PB044203 - Etika Profesi Pertanian (2 SKS)
+3. HM044301 - Kuliah Kerja Profesi (3 SKS) [TT]
+4. AK044326 - Manajemen dan Teknologi Produksi Tanaman (3 SKS) [UU] [PP]
+5. AK044329 - Organic Farming (3 SKS) [UU] [PP]
+6. HM044202 - Penulisan Ilmiah (2 SKS) [TT]
+7. AK044327 - Pertanian Berkelanjutan (3 SKS) [UU] [PP]
+8. IT000108 - Praktikum Robotika Cerdas (1 SKS) [TT]
+9. IT000207 - Robotika Cerdas (2 SKS) [TT]

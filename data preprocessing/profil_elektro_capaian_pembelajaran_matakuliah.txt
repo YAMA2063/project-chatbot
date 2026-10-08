@@ -1,0 +1,68 @@
+=== JURUSAN ELEKTRO ===
+Topik: Capaian Pembelajaran Mata Kuliah (CPMK)
+URL Asli: https://fti.gunadarma.ac.id/elektro/capaian-pembelajaran-matakuliah/
+
+KONTEN:
+
+## Pemetaan Capaian Pembelajaran Lulusan (CPL) ke Capaian Pembelajaran Mata Kuliah (CPMK)
+
+- CPL-01
+  - CPMK-01.1: Bertakwa kepada Tuhan Yang Maha Esa
+  - CPMK-01.2: Memiliki nasionalisme serta rasa tanggungjawab pada negara dan bangsa
+
+- CPL-02
+  - CPMK-02.1: Mampu berfungsi efektif di dalam tim yang bersifat multidisipliner
+
+- CPL-03
+  - CPMK-03.1: Memahami etika profesi sebagai seorang sarjana teknik elektro
+
+- CPL-04
+  - CPMK-04.1: Memiliki semangat kewirausahaan baik secara individu maupun di dalam tim yang bersifat multidisipliner
+
+- CPL-05
+  - CPMK-05.1: Menguasai pengetahuan umum untuk memahami dampak solusi rekayasa
+
+- CPL-06
+  - CPMK-06.1: Menguasai penerapan konsep teknologi terkini dalam bidang TIK khususnya kecerdasan artifisial
+
+- CPL-07
+  - CPMK-07.1: Menguasai penerapan konsep teknologi terkini dalam menyelesaikan permasalahan bidang keelektroteknikan
+
+- CPL-08
+  - CPMK-08.1: Menguasai penerapan pengetahuan dasar matematika dan sains untuk memecahkan masalah melalui pendekatan keelektroteknikan
+
+- CPL-09
+  - CPMK-09.1: Mampu mempresentasikan informasi dan mengemukakan ide secara lisan kepada pemangku kepentingan
+  - CPMK-09.2: Mampu mempresentasikan informasi dan mengemukakan ide secara tertulis kepada pemangku kepentingan
+  - CPMK-09.3: Mampu melakukan komunikasi ilmiah secara efektif secara lisan
+  - CPMK-09.4: Mampu melakukan komunikasi ilmiah secara efektif secara tertulis
+
+- CPL-10
+  - CPMK-10.1: Mampu menerapkan pemikiran logis, kritis, sistematis, dan inovatif dalam pengembangan atau implementasi ilmu pengetahuan dan teknologi
+  - CPMK-10.2: Mampu menerapkan nilai humaniora yang sesuai dengan bidang keahliannya
+  - CPMK-10.3: Mampu menganalisis masalah bidang elektro dan menyimpulkan solusi secara sistematis
+
+- CPL-11
+  - CPMK-11.1: Mampu melakukan eksperimen dan melakukan analisis data hasil eksperimen
+  - CPMK-11.2: Mampu menyusun deskripsi saintifik hasil kajian dan mengambil keputusan secara tepat berdasarkan hasil analisis informasi dan data
+  - CPMK-11.3: Mampu mengambil keputusan secara tepat dalam konteks penyelesaian masalah di bidang keahliannya
+
+- CPL-12
+  - CPMK-12.1: Mampu memelihara dan mengembangkan jaringan kerja baik di dalam maupun di luar lembaga
+  - CPMK-12.2: Mampu bertanggungjawab atas pencapaian hasil kerja kelompok
+  - CPMK-12.3: Mampu melakukan supervisi dan evaluasi terhadap penyelesaian pekerjaan yang ditugaskan kepada kelompok kerja
+
+- CPL-13
+  - CPMK-13.1: Mampu menerapkan pengetahuan matematika untuk memahami prinsip-prinsip Teknik Tenaga Elektrik dan Teknik Elektronika
+  - CPMK-13.2: Mampu menerapkan ilmu pengetahuan alam dan/atau material untuk memahami prinsip Teknik Tenaga Elektrik dan Teknik Elektronika
+  - CPMK-13.3: Mampu menggunakan perangkat keras dan lunak yang diperlukan dalam perancangan Teknik Tenaga Elektrik dan Teknik Elektronika
+
+- CPL-14
+  - CPMK-14.1: Mampu mengidentifikasi, merumuskan, dan menyelesaikan permasalahan Teknik Tenaga Elektrik berdasarkan kaidah ilmiah
+  - CPMK-14.2: Mampu mengidentifikasi, merumuskan, dan menyelesaikan permasalahan Teknik Elektronika berdasarkan kaidah ilmiah
+
+- CPL-15
+  - CPMK-15.1: Mampu mempertimbangkan aspek keselamatan, lingkungan, sosial, dan keberlanjutan dalam solusi rekayasa teknik elektro
+
+- CPL-16
+  - CPMK-16.1: Mampu mengembangkan diri secara berkelanjutan dan beradaptasi terhadap perkembangan teknologi modern

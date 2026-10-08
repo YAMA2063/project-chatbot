@@ -1,0 +1,105 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 PSIKOLOGI (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1PA01, 1PA02, 1PA03, 1PA04, 1PA05, 1PA06, 1PA07, 1PA08, 1PA09, 1PA10, 1PA11, 1PA12, 1PA13, 1PA14, 1PA15, 1PA16, 1PA17, 1PA18, 1PA19, 1PA20, 1PA21, 1PA22, 1PA23, 1PA24, 1PA25, 1PA26, 1PA27 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PP00020X - Pendidikan Agama (2 SKS)
+2. PP000207 - Pendidikan Kewarganegaraan (2 SKS)
+3. PB051203 - Matematika dan Ilmu Alamiah Dasar (2 SKS)
+4. AK051228 - Bahasa Inggris Psikologi 1 (2 SKS)
+5. IT051207 - Filsafat Umum (2 SKS)
+6. AK051209 - Pengantar Aplikasi Komputer Psikologi Informatika (2 SKS)
+7. IT051340 - Psikologi Sosial 1 (3 SKS) [UU]
+8. IT051342 - Psikologi Umum 1 (3 SKS)
+
+=== KELAS: 1PA28, 1PA29 (SARMAG) ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PP00020X - Pendidikan Agama (2 SKS)
+2. PP000207 - Pendidikan Kewarganegaraan (2 SKS)
+3. PB051203 - Matematika dan Ilmu Alamiah Dasar (2 SKS)
+4. AK051228 - Bahasa Inggris Psikologi 1 (2 SKS)
+5. IT051207 - Filsafat Umum (2 SKS)
+6. AK051209 - Pengantar Aplikasi Komputer Psikologi Informatika (2 SKS)
+7. IT051340 - Psikologi Sosial 1 (3 SKS) [UU]
+8. IT051342 - Psikologi Umum 1 (3 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2PA01, 2PA02, 2PA03, 2PA04, 2PA05, 2PA06, 2PA07, 2PA08, 2PA09, 2PA10, 2PA11, 2PA12, 2PA13, 2PA14, 2PA15, 2PA16, 2PA17, 2PA18, 2PA19, 2PA20, 2PA21, 2PA22, 2PA23, 2PA24, 2PA25, 2PA26, 2PA27, 2PA28, 2PA29, 2PA30, 2PA31, 2PA32, 2PA33 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. HM051201 - Kode Etik Psikologi (2 SKS)
+2. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS) [TT]
+3. IT051356 - Psikodiagnostika 1 : Pengantar Tes Psikologi (3 SKS) [UU]
+4. IT051328 - Psikologi Kepribadian 1 (3 SKS)
+5. IT051336 - Psikologi Pendidikan (3 SKS) [UU]
+6. IT051338 - Psikologi Perkembangan 2 (3 SKS) [UU]
+7. IT000211 - Social Networking and Creative Content (2 SKS) [TT]
+8. IT051361 - Statistika (3 SKS) [UU] [PP]
+
+=== KELAS: 2PA34, 2PA35 (SARMAG) ===
+Total SKS: 22 SKS
+Daftar Mata Kuliah:
+1. HM051201 - Kode Etik Psikologi (2 SKS)
+2. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS) [TT]
+3. IT051356 - Psikodiagnostika 1 : Pengantar Tes Psikologi (3 SKS) [UU]
+4. IT051260 - Psikologi dan Teknologi Internet (2 SKS)
+5. IT051328 - Psikologi Kepribadian 1 (3 SKS)
+6. IT051336 - Psikologi Pendidikan (3 SKS) [UU]
+7. IT051338 - Psikologi Perkembangan 2 (3 SKS) [UU]
+8. IT000211 - Social Networking and Creative Content (2 SKS) [TT]
+9. IT051361 - Statistika (3 SKS) [UU] [PP]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3PA01, 3PA02, 3PA03, 3PA04, 3PA05, 3PA06, 3PA07, 3PA08, 3PA09, 3PA10, 3PA11, 3PA12, 3PA13, 3PA14, 3PA15, 3PA16, 3PA17, 3PA18, 3PA19, 3PA20, 3PA21, 3PA22, 3PA23, 3PA24, 3PA25, 3PA26, 3PA27, 3PA28, 3PA29, 3PA30, 3PA31, 3PA32, 3PA33, 3PA34, 3PA35 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. IT051255 - Inventori (2 SKS) [PP] [Tidak ada UAS]
+2. IT051352 - Metode Pengukuran Inteligensi (3 SKS) [PP]
+3. AK051317 - Metodologi Penelitian Kuantitatif (3 SKS) [Tidak ada UAS]
+4. IT051358 - Psikodiagnostika 3 : Wawancara (3 SKS) [PP] [Tidak ada UAS]
+5. IT051312 - Psikologi Abnormal (3 SKS)
+6. IT051233 - Psikologi Konsumen (2 SKS)
+7. IT051251 - Psikologi lintas Budaya (2 SKS)
+
+=== KELAS: 3PA36 (SARMAG) ===
+Total SKS: 22 SKS
+Daftar Mata Kuliah:
+1. IT051267 - Ergonomi (2 SKS)
+2. IT051255 - Inventori (2 SKS) [PP]
+3. IT051352 - Metode Pengukuran Intelegensi (3 SKS) [PP]
+4. AK051318 - Metodologi Penelitian Kualitatif (3 SKS)
+5. IT051358 - Psikodiagnostik 3 : Wawancara (3 SKS) [PP]
+6. IT051222 - Psikologi Anak Khusus (2 SKS)
+7. AK051219 - Psikologi Kognitif Sains (2 SKS)
+8. IT051332 - Psikologi Konseling (3 SKS)
+9. IT051233 - Psikologi Konsumen (2 SKS)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4PA01, 4PA02, 4PA03, 4PA04, 4PA05, 4PA06, 4PA07, 4PA08, 4PA09, 4PA10, 4PA11, 4PA12, 4PA13, 4PA14, 4PA15, 4PA16, 4PA17, 4PA18, 4PA19, 4PA20, 4PA21, 4PA22, 4PA23, 4PA24, 4PA25, 4PA26, 4PA27, 4PA28, 4PA29, 4PA30, 4PA31, 4PA32, 4PA33, 4PA34, 4PA35, 4PA36, 4PA37, 4PA38, 4PA39, 4PA40, 4PA41, 4PA42 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. IT051201 - Analisis Jabatan (2 SKS) [Tidak ada UAS]
+2. IT000215 - Kecerdasan Artificial dan Masyarakat (2 SKS) [TT]
+3. IT051212 - Penyusunan Skala Psikologi (2 SKS) [Tidak ada UAS]
+4. IT000116 - Praktikum Kecerdasan Artifisial dan Masyarakat (1 SKS) [TT]
+5. AK051312 - Psikologi Eksperimen (3 SKS) [UU]
+6. IT051268 - Psikologi Kesehatan (2 SKS) [P]
+7. AK051219 - Psikologi Kognitif Sains (2 SKS)
+8. IT051233 - Psikologi Konsumen (2 SKS)
+9. IT051245 - Psikoterapi (2 SKS)

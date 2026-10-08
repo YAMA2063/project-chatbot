@@ -1,0 +1,74 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 KEDOKTERAN & PROFESI (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+
+=========================================
+PROGRAM S1 KEDOKTERAN
+=========================================
+=== KELAS: 1HA01 (Semester 1) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. IT071401 - Blok 1.1 Being Medical Student and Profesionalism (4 SKS) [UU]
+2. IT071436 - Blok 1.2 Ilmu Kedokteran Dasar 1 (4 SKS)
+3. IT071437 - Blok 1.3 Ilmu Kedokteran Dasar 2 (4 SKS)
+4. IT071538 - Blok 1.4 Ilmu Kedokteran Dasar 3 (5 SKS)
+5. IT071105 - Ketrampilan Klinik I (1 SKS)
+6. AK071110 - Pengantar Informatika Kesehatan (1 SKS) [UU]
+7. PB071102 - Bahasa Indonesia 1 (1 SKS) [UU]
+
+=== KELAS: 2HA01 (Semester 3) ===
+Total SKS: 22 SKS
+Daftar Mata Kuliah:
+1. PP000207 - Pendidikan Kewarganegaraan (2 SKS) [UU]
+2. PB071201 - Biotek dan Humaniora I (2 SKS)
+3. PB071208 - Bahasa Inggris (2 SKS)
+4. IT071411 - Blok 3.1 Sistem Integumen (4 SKS) [UU]
+5. IT071412 - Blok 3.2 Sistem Muskuloskeletal (4 SKS)
+6. IT071513 - Blok 3.3 Sistem Sensorik Khusus (5 SKS)
+7. IT071214 - Ketrampilan Klinik III (2 SKS)
+8. AK071108 - Pengantar Perancangan Basis Data (1 SKS) [UU]
+
+=== KELAS: 3HA01, 3HA02 (Semester 5) ===
+Total SKS: 22 SKS
+Daftar Mata Kuliah:
+1. IT071642 - Blok 5.1 Sistem Gastrointestinal (6 SKS) [UU]
+2. IT071520 - Blok 5.2 Sistem Endokrin, Metabolisme dan Nutrisi (5 SKS)
+3. IT071521 - Blok 5.3 Sistem Saraf (5 SKS)
+4. IT071322 - Blok 5.4 Sistem Psikiatri (3 SKS)
+5. IT071223 - Ketrampilan Klinik V (2 SKS)
+6. AK071105 - Biometri (1 SKS) [UU]
+
+=== KELAS: 4HA01 (Semester 7) ===
+Total SKS: 22 SKS
+Daftar Mata Kuliah:
+1. PB071407 - Tugas Akhir/Skripsi/Studi Komprehensif (4 SKS)
+2. IT071443 - Blok 7.1 Kegawadaruratan (4 SKS) [UU]
+3. IT071330 - Blok 7.2 Forensik dan Medikolegal (3 SKS)
+4. IT071631 - Blok 7.3 Kedokteran Komunitas (6 SKS)
+5. Blok 7.4 Elektif [Pilih Salah Satu]: Informatika Kedokteran / Bioteknologi / Kedokteran Pariwisata (2 SKS)
+6. IT071235 - Ketrampilan Klinik VII (2 SKS)
+7. AK071107 - Informatika Kesehatan Masyarakat (1 SKS) [UU]
+
+=========================================
+PROGRAM PROFESI KEDOKTERAN
+=========================================
+=== KELAS: 1HD01, 2HD01 ===
+Total SKS: 55 SKS
+Daftar Mata Kuliah:
+1. IT096213 - Anestesiologi dan Terapi Intensif (2 SKS)
+2. IT096308 - Dermatologi dan Venereologi (3 SKS)
+3. IT096602 - Ilmu Bedah (6 SKS)
+4. IT096604 - Ilmu Kebidanan dan Kandungan (6 SKS)
+5. IT096212 - Ilmu Kedokteran Forensik dan Medikolegal (2 SKS)
+6. IT096307 - Ilmu Kedokteran Jiwa (3 SKS)
+7. IT096603 - Ilmu Kesehatan Anak dan Remaja (6 SKS)
+8. IT096505 - Ilmu Kesehatan Masyarakat (5 SKS)
+9. IT096309 - Ilmu Kesehatan Mata (3 SKS)
+10. IT096306 - Ilmu Penyakit Saraf (3 SKS)
+11. IT096310 - Ilmu Penyakit THT (3 SKS)
+12. IT096601 - Imu Penyakit Dalam (6 SKS)
+13. IT096214 - Informatika Kedokteran (2 SKS)
+14. IT096311 - Radiologi (3 SKS)
+15. PB096123 - Tugas Akhir / TA (2 SKS)

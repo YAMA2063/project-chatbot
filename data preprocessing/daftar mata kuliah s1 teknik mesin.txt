@@ -1,0 +1,134 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 TEKNIK MESIN (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1IC01, 1IC02, 1IC03, 1IC04 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. PP042208 - Bahasa Indonesia (2 SKS)
+2. IT042207 - Dasar Komputer dan Pemrograman (2 SKS)
+3. IT042304 - Fisika dan Kimia Dasar 1 (3 SKS)
+4. IT042303 - Kalkulus 1 (3 SKS)
+5. IT042226 - Material Teknik (2 SKS)
+6. IT042209 - Menggambar Teknik (2 SKS)
+7. IT042108 - Praktikum Dasar Komputer dan Pemrograman (1 SKS)
+8. IT042105 - Praktikum Fisika Dasar 1 (1 SKS)
+9. IT042137 - Praktikum Material Teknik (1 SKS)
+10. IT042141 - Praktikum Proses Produksi 1 (1 SKS)
+11. IT042208 - Proses Produksi 1 (2 SKS)
+
+=== KELAS: 1IC05 (SARMAG) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. PP042208 - Bahasa Indonesia (2 SKS)
+2. IT042207 - Dasar Komputer dan Pemrograman (2 SKS)
+3. IT042304 - Fisika dan Kimia Dasar 1 (3 SKS)
+4. IT042303 - Kalkulus 1 (3 SKS)
+5. IT042226 - Material Teknik (2 SKS)
+6. IT042209 - Menggambar Teknik (2 SKS)
+7. IT042108 - Praktikum Dasar Komputer dan Pemrograman (1 SKS)
+8. IT042105 - Praktikum Fisika Dasar 1 (1 SKS)
+9. IT042137 - Praktikum Material Teknik (1 SKS)
+10. IT042141 - Praktikum Proses Produksi 1 (1 SKS)
+11. IT042208 - Proses Produksi 1 (2 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2IC01, 2IC02, 2IC03, 2IC04, 2IC05 ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. IT042321 - Fisika Dasar 3 (3 SKS)
+2. IT042319 - Kalkulus 3 (3 SKS)
+3. IT042259 - Kinematika dan Dinamika Teknik 2 (2 SKS)
+4. IT000203 - Komputasi Big Data (2 SKS) [TT]
+5. IT042339 - Matematika 1 (3 SKS)
+6. AK042210 - Pemilihan Bahan dan Proses (2 SKS) [UU]
+7. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+8. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT]
+9. IT042324 - Statika Struktur (3 SKS) [UU]
+10. IT042222 - Termodinamika Teknik (2 SKS)
+
+=== KELAS: 2IC06 (SARMAG) ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. IT042321 - Fisika Dasar 3 (3 SKS)
+2. IT042319 - Kalkulus 3 (3 SKS)
+3. IT042259 - Kinematika dan Dinamika Teknik 2 (2 SKS)
+4. IT000203 - Komputasi Big Data (2 SKS) [TT]
+5. IT042339 - Matematika 1 (3 SKS)
+6. AK042210 - Pemilihan Bahan dan Proses (2 SKS) [UU]
+7. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+8. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT]
+9. IT042324 - Statika Struktur (3 SKS) [UU]
+10. IT042222 - Termodinamika Teknik (2 SKS)
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3IC01, 3IC02, 3IC03 ===
+Total SKS: 19 SKS
+Daftar Mata Kuliah:
+1. AK042206 - Elemen Mesin 2 (2 SKS) [UU]
+2. AK042204 - Getaran Mekanik (2 SKS) [UU]
+3. IT042341 - Matematika 3 (3 SKS) [UU]
+4. AK042218 - Pengukuran Teknik (2 SKS) [UU]
+5. IT042258 - Perpindahan Kalor dan Massa 2 (2 SKS)
+6. IT042257 - Pneumatik dan Hidrolik (2 SKS)
+7. AK042116 - Praktikum Fenomena Dasar Mesin (1 SKS)
+8. AK042132 - Praktikum Teknik Tenaga Listrik (1 SKS)
+9. IT042238 - Statistik Teknik (2 SKS)
+10. AK042219 - Teknik Tenaga Listrik (2 SKS) [UU]
+
+=== KELAS: 3IC04 (SARMAG) ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. AK042206 - Elemen Mesin 2 (2 SKS) [UU]
+2. AK042204 - Getaran Mekanik (2 SKS) [UU]
+3. IT042341 - Matematika 3 (3 SKS) [UU]
+4. IT042253 - Mekanika Nanomaterial dan Biomaterial (2 SKS)
+5. AK042218 - Pengukuran Teknik (2 SKS) [UU]
+6. IT042258 - Perpindahan Kalor dan Massa 2 (2 SKS)
+7. IT042257 - Pneumatik dan Hidrolik (2 SKS)
+8. AK042116 - Praktikum Fenomena Dasar Mesin (1 SKS)
+9. AK042132 - Praktikum Teknik Tenaga Listrik (1 SKS)
+10. IT042238 - Statistik Teknik (2 SKS)
+11. AK042219 - Teknik Tenaga Listrik (2 SKS) [UU]
+12. AK042253 - Teknologi Rapid Prototyping (2 SKS)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4IC01, 4IC02, 4IC03, 4IC04, 4IC05 ===
+Total SKS: 21 SKS
+Daftar Mata Kuliah:
+1. IT042255 - Bahasa Inggris Bisnis (2 SKS)
+2. AK042436 - Capstone Design (4 SKS)
+3. AK042232 - Keselamatan Kesehatan Kerja dan Lingkungan (2 SKS)
+4. AK042260 - Kewirausahaan Technopreneur (2 SKS)
+5. AK042223 - Manajemen Industri (2 SKS) [UU]
+6. IT042253 - Mekanika Nanomaterial dan Biomaterial (2 SKS)
+7. AK042259 - Metode Elemen Hingga (2 SKS)
+8. IT000108 - Praktikum Robotika Cerdas (1 SKS) [TT]
+9. IT000207 - Robotika Cerdas (2 SKS) [TT]
+10. AK042253 - Teknologi Rapid Prototyping (2 SKS)
+
+=== KELAS: 4IC06 (SARMAG) ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. IT042255 - Bahasa Inggris Bisnis (2 SKS)
+2. AK042436 - Capstone Design (4 SKS)
+3. AK042232 - Keselamatan Kesehatan Kerja dan Lingkungan (2 SKS)
+4. AK042260 - Kewirausahaan Technopreneur (2 SKS)
+5. AK042223 - Manajemen Industri (2 SKS) [UU]
+6. AK042259 - Metode Elemen Hingga (2 SKS)
+7. IT000108 - Praktikum Robotika Cerdas (1 SKS) [TT]
+8. IT000207 - Robotika Cerdas (2 SKS) [TT]
+9. AK042661 - Tugas Akhir / Skripsi/ Studi Komprehensif (6 SKS)

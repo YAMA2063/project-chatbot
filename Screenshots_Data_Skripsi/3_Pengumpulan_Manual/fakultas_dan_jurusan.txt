@@ -1,0 +1,42 @@
+=== DAFTAR FAKULTAS DAN JURUSAN DI UNIVERSITAS GUNADARMA ===
+
+Berikut adalah pemetaan Fakultas beserta Jurusan/Program Studi yang berada di bawah naungannya. Data ini digunakan untuk memberikan pemahaman kepada AI apabila ada pengguna yang bertanya mengenai struktur fakultas atau program studi apa saja yang masuk ke dalam fakultas tertentu.
+
+1. Fakultas Teknologi Industri (FTI)
+- Informatika (Teknik Informatika)
+- Teknik Mesin
+- Teknik Industri
+- Teknik Elektro
+- Agroteknologi
+
+2. Fakultas Ilmu Komputer dan Teknologi Informasi (FIKTI)
+- Sistem Informasi
+- Sistem Komputer
+
+3. Fakultas Teknik Sipil dan Perencanaan (FTSP)
+- Teknik Arsitektur
+- Teknik Sipil
+- Desain Interior
+
+4. Fakultas Psikologi
+- Psikologi
+
+5. Fakultas Ekonomi
+- Akuntansi
+- Manajemen
+- Pariwisata
+
+6. Fakultas Sastra
+- Sastra Inggris
+- Sastra Tiongkok
+
+7. Fakultas Kedokteran
+- Kedokteran
+- Farmasi
+- Kebidanan
+
+8. Fakultas Ilmu Komunikasi
+- Ilmu Komunikasi
+
+Catatan Penting:
+Jurusan "Informatika" secara resmi berada di bawah "Fakultas Teknologi Industri" (FTI), BUKAN Fakultas Ilmu Komputer. Apabila ada pertanyaan mengenai Fakultas Teknologi Industri, maka Informatika termasuk di dalamnya.

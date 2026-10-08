@@ -1,0 +1,33 @@
+JADWAL KULIAH DAN CARA MEMBACA JADWAL
+
+Kurang lebih dua atau tiga minggu sebelum perkuliahan dimulai, BAAK (dalam hal ini Bagian Penjadwalan) mengumumkan jadwal kuliah tiap kelas untuk seluruh Jenjang / Jurusan / Fakultas.
+
+Jadwal kuliah per kelas ini akan diumumkan melalui BAAK On_Line atau ditempel di papan pengumuman di setiap lokasi kampus (C, D, E, dan G). Selain ditempel pada papan pengumuman jadwal kuliah juga dapat ditanyakan di loket pelayanan BAAK atau Sekretariat Dosen dan juga dapat dilihat di BAAK On_Line.
+
+Pada Jadwal Kuliah akan tercantum hari, waktu, lokasi, mata kuliah dan dosen pengajar di tiap kelas per minggunya.
+
+WAKTU KULIAH
+Dalam satu hari, waktu kuliah dibagi menjadi empat belas (14) jam kuliah:
+1. Waktu kuliah kelas pagi akan dimulai jam ke-1 s/d jam ke-10
+2. Waktu kuliah kelas malam akan dimulai jam ke-11 s/d jam ke-14
+
+Rincian Jam Kuliah (Pukul):
+- Jam ke-1: 07.30 - 08.30
+- Jam ke-2: 08.30 - 09.30
+- Jam ke-3: 09.30 - 10.30
+- Jam ke-4: 10.30 - 11.30
+- Jam ke-5: 11.30 - 12.30
+- Jam ke-6: 12.30 - 13.30
+- Jam ke-7: 13.30 - 14.30
+- Jam ke-8: 14.30 - 15.30
+- Jam ke-9: 15.30 - 16.30
+- Jam ke-10: 16.30 - 17.30
+- Jam ke-11: 17.30 - 18.30
+- Jam ke-12: 18.30 - 19.30
+- Jam ke-13: 19.30 - 20.30
+- Jam ke-14: 20.30 - 21.30
+
+CARA MEMBACA JADWAL KULIAH
+Cara Membaca Jadwal Kuliah adalah sebagai berikut:
+Contoh Jadwal: Selasa 1/2/3 E 341 Pemrograman Komputer
+Berarti: Kuliah Pemrograman Komputer hari Selasa jam 07.30 s/d 10.30 di Kampus E gedung 3 lantai 4 ruang 1 (huruf E menunjukkan lokasi kampus E, digit angka pertama menunjukkan gedung ke 3, digit kedua menunjukkan lantai ke 4, dan digit terakhir menunjukkan nomor ruang kelas).

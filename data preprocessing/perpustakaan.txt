@@ -1,0 +1,37 @@
+PERPUSTAKAAN - STUDENTSITE GUNADARMA
+
+=== AKSES PERPUSTAKAAN ===
+- Perpustakaan Gunadarma menggunakan sistem: Gunadarma Library Deposit System
+- Website: https://library.gunadarma.ac.id/deposit-system/
+- Akses melalui menu "Perpustakaan" di Studentsite lalu klik "Login Sekarang"
+- PENTING: Jangan bagikan URL/tautan login kepada orang lain
+  (URL berubah otomatis setiap saat untuk keamanan)
+
+=== MENU YANG TERSEDIA DI PERPUSTAKAAN ===
+- Pembayaran
+- Biodata Diri
+- Peminjaman Buku
+- Penulisan Ilmiah
+- Fotocopy
+- Sumbang Buku
+- Kasus & Notifikasi
+- Bebas Perpustakaan
+- Kunjungan
+- E-Paper
+- Kotak Saran
+
+=== STATISTIK PERPUSTAKAAN ===
+- Total Judul Buku     : 63.761
+- Total Eksemplar Buku : 133.648
+- Total Skripsi        : 184.669
+- Total PI/SSM         : 62.886
+- Total Jurnal Anggota : 21.730
+- Total Anggota        : 225.625
+
+=== SKPI - STUDENTSITE GUNADARMA ===
+- SKPI (Surat Keterangan Pendamping Ijazah)
+- Berisi rekam jejak kegiatan/prestasi mahasiswa selama kuliah
+- Menu yang tersedia: Dashboard, Kegiatan, SKPI
+- Dashboard menampilkan jumlah kegiatan disetujui dan menunggu persetujuan
+- Status SKPI: Waiting Approval (menunggu persetujuan dari kampus)
+- Akses melalui menu "SKPI" di Studentsite

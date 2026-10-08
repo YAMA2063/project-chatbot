@@ -1,0 +1,19 @@
+PORTOFOLIO - STUDENTSITE GUNADARMA
+
+=== MENU PORTOFOLIO ===
+Portofolio terdiri dari 2 submenu:
+
+1. PENULISAN
+   - Berisi daftar karya tulis/penulisan ilmiah mahasiswa
+   - Mahasiswa dapat menambahkan data penulisan via tombol "Tambah Data"
+   - Data yang diisi: NPM, Judul (Title), URL karya
+
+2. TUGAS
+   - Berisi daftar tugas mahasiswa
+   - Tampilan sama seperti menu Penulisan
+   - Mahasiswa dapat menambahkan data tugas via tombol "Tambah Data"
+
+=== CARA AKSES ===
+1. Login ke Studentsite: https://studentsite.gunadarma.ac.id
+2. Klik menu "Portofolio"
+3. Pilih submenu "Penulisan" atau "Tugas"

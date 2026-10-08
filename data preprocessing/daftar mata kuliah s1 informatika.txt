@@ -1,0 +1,117 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 INFORMATIKA (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1IA01, 1IA02, 1IA03, 1IA04, 1IA05, 1IA06, 1IA07, 1IA08, 1IA09, 1IA10, 1IA11, 1IA12, 1IA13, 1IA14, 1IA15, 1IA16 ===
+Total SKS: 18 SKS
+Daftar Mata Kuliah:
+1. PB045204 - Bahasa Indonesia (2 SKS)
+2. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+3. IT045301 - Algoritma dan Pemrograman 1 (3 SKS)
+4. IT045204 - Bahasa Inggris (2 SKS)
+5. IT045208 - Fisika dan Kimia Dasar 1 (2 SKS)
+6. IT045210 - Matematika Dasar 1 (2 SKS)
+7. IT045213 - Matematika Informatika 1 (2 SKS) [PP]
+8. IT045220 - Pengantar Teknologi Komputer dan Informatika (2 SKS) [PP]
+9. IT045121 - Praktikum Algoritma dan Pemrograman 1 (1 SKS)
+
+=== KELAS: 1IA17 (SARMAG) ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. PB045204 - Bahasa Indonesia (2 SKS)
+2. PP000206 - Pendidikan Pancasila (2 SKS) [UU]
+3. IT045301 - Algoritma dan Pemrograman 1 (3 SKS)
+4. IT045204 - Bahasa Inggris (2 SKS)
+5. IT045208 - Fisika dan Kimia Dasar 1 (2 SKS)
+6. PB045202 - Legal Aspek Produk Teknologi Informasi dan Komunikasi (2 SKS)
+7. IT045210 - Matematika Dasar 1 (2 SKS)
+8. IT045213 - Matematika Informatika 1 (2 SKS) [PP]
+9. IT045220 - Pengantar Teknologi Komputer dan Informatika (2 SKS) [PP]
+10. IT045121 - Praktikum Algoritma dan Pemrograman 1 (1 SKS)
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2IA01, 2IA02, 2IA03, 2IA04, 2IA05, 2IA06, 2IA07, 2IA08, 2IA09, 2IA10, 2IA11, 2IA12, 2IA13, 2IA14, 2IA15, 2IA16, 2IA17, 2IA18, 2IA19, 2IA20, 2IA21 ===
+Total SKS: 21 SKS
+Daftar Mata Kuliah:
+1. PB045202 - Legal Aspek Produk Teknologi Informasi dan Komunikasi (2 SKS)
+2. IT045203 - Algoritma dan Pemrograman 3 (2 SKS) [UU]
+3. IT000203 - Komputasi Big Data (2 SKS) [TT]
+4. IT045215 - Matematika Informatika 3 (2 SKS)
+5. IT045217 - Matematika Lanjut 1 (2 SKS)
+6. IT045219 - Organisasi Sistem Komputer (2 SKS) [UU] [PP]
+7. IT045243 - Pengantar Sains Data (2 SKS)
+8. IT045123 - Praktikum Algoritma dan Pemrograman 3 (1 SKS)
+9. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT]
+10. IT045227 - Statistika 1 (2 SKS)
+11. IT045229 - Struktur Data (2 SKS) [PP]
+12. AK045107 - Informatika Kesehatan (1 SKS) [Praktikum/Penunjang]
+
+=== KELAS: 2IA22 (SARMAG) ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. IT045203 - Algoritma dan Pemrograman 3 (2 SKS) [UU]
+2. AK045218 - Kecerdasan Artifisial (2 SKS) [PP]
+3. IT000203 - Komputasi Big Data (2 SKS)
+4. IT045215 - Matematika Informatika 3 (2 SKS)
+5. IT045217 - Matematika Lanjut 1 (2 SKS)
+6. IT045219 - Organisasi Sistem Komputer (2 SKS) [UU] [PP]
+7. IT045243 - Pengantar Sains Data (2 SKS)
+8. IT045123 - Praktikum Algoritma dan Pemrograman 3 (1 SKS)
+9. IT000104 - Praktikum Komputasi Big Data (1 SKS)
+10. AK045333 - Sistem Operasi (3 SKS) [UU] [PP]
+11. IT045227 - Statistika 1 (2 SKS)
+12. IT045229 - Struktur Data (2 SKS) [PP]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3IA01, 3IA02, 3IA03, 3IA04, 3IA05, 3IA06, 3IA07, 3IA08, 3IA09, 3IA10, 3IA11, 3IA12, 3IA13, 3IA14, 3IA15, 3IA16, 3IA17, 3IA18, 3IA19, 3IA20, 3IA21, 3IA22, 3IA23, 3IA24, 3IA25 ===
+Total SKS: 21 SKS
+Daftar Mata Kuliah:
+1. AK045305 - Grafik Komputer (3 SKS) [PP]
+2. AK045307 - Interaksi Manusia dan Komputer (3 SKS) [UU] [PP]
+3. AK045308 - Jaringan Komputer (3 SKS) [UU] [PP]
+4. AK045218 - Kecerdasan Artifisial (2 SKS) [PP]
+5. AK045216 - Pemrograman Web (2 SKS) [PP]
+6. AK045339 - Perancangan dan Analisa Algoritma (3 SKS) [UU] [PP]
+7. AK045329 - Sistem Basis Data 1 (3 SKS) [PP]
+8. IT045237 - Sistem Keamanan Komputer (2 SKS)
+
+=== KELAS: 3IA26 (SARMAG) ===
+Total SKS: 23 SKS
+Daftar Mata Kuliah:
+1. AK045206 - Grafik Komputer 2 (2 SKS) [PP]
+2. AK045307 - Interaksi Manusia dan Komputer (3 SKS) [UU] [PP]
+3. AK045308 - Jaringan Komputer (3 SKS) [UU] [PP]
+4. AK045310 - Konsep Data Mining (3 SKS)
+5. AK045216 - Pemrograman Web (2 SKS) [PP]
+6. AK045325 - Perancangan dan Analisa Algoritma (3 SKS)
+7. AK045227 - Rekayasa Perangkat Lunak 2 (2 SKS) [UU] [PP]
+8. AK045330 - Sistem Basis Data 2 (3 SKS) [UU] [PP]
+9. IT045237 - Sistem Keamanan Komputer (2 SKS)
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4IA01, 4IA02, 4IA03, 4IA04, 4IA05, 4IA06, 4IA07, 4IA08, 4IA09, 4IA10, 4IA11, 4IA12, 4IA13, 4IA14, 4IA15, 4IA16, 4IA17, 4IA18, 4IA19, 4IA20, 4IA21, 4IA22, 4IA23, 4IA24, 4IA25, 4IA26, 4IA27, 4IA28 ===
+Total SKS: 20 SKS
+Daftar Mata Kuliah:
+1. AK045212 - Pemodelan dan Simulasi (2 SKS)
+2. AK045241 - Pengolahan Citra (2 SKS) [PP]
+3. AK045227 - Rekayasa Perangkat Lunak 2 (2 SKS) [UU] [PP]
+4. AK045335 - Teknik Kompilasi (3 SKS) [PP]
+5. IT045240 - Algoritma Deep Learning (2 SKS)
+6. IT045106 - Bahasa Inggris Bisnis 1 (1 SKS)
+7. IT045242 - Forensik Teknologi Informasi (2 SKS)
+8. IT045341 - Pengelolaan Proyek Perangkat Lunak (3 SKS) [Tidak ada UTS dan UAS]
+9. IT000207 - Robotika Cerdas (2 SKS) [TT]
+10. IT000108 - Praktikum Robotika Cerdas (1 SKS) [PP] [TT]

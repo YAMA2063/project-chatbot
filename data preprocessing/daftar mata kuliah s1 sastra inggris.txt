@@ -1,0 +1,78 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 SASTRA INGGRIS (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1SA01, 1SA02, 1SA03, 1SA04, 1SA05 ===
+Total SKS: 18 SKS [cite: 690]
+Daftar Mata Kuliah:
+1. IT061202 - Berbicara 1 (2 SKS) [PP] [cite: 654, 655, 656, 657, 693]
+2. IT061207 - Keterampilan Komputer 1 (2 SKS) [PP] [cite: 658, 659, 660, 661, 693]
+3. IT061236 - Kosa Kata 1 (2 SKS) [PP] [cite: 662, 663, 664, 665, 693]
+4. IT061210 - Membaca 1 (2 SKS) [cite: 666, 667, 668, 669, 693]
+5. IT061213 - Menulis 1 (2 SKS) [cite: 670, 671, 672, 673, 693]
+6. IT061216 - Menyimak 1 (2 SKS) [cite: 674, 678, 679, 680, 693]
+7. IT061222 - Pelafalan (2 SKS) [cite: 675, 681, 682, 683, 693]
+8. PP000207 - Pendidikan Kewarganegaraan (2 SKS) [cite: 676, 684, 685, 686, 693]
+9. IT061201 - Tata Bahasa 1 (2 SKS) [PP] [cite: 677, 687, 688, 689, 693]
+(Note: Kelas 1SA06 SARMAG memiliki tambahan Penerjemahan 1 menjadi total 20 SKS) [cite: 693]
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2SA01, 2SA02, 2SA03, 2SA04, 2SA05 ===
+Total SKS: 19 SKS [cite: 710]
+Daftar Mata Kuliah:
+1. Pendidikan Agama (2 SKS) [cite: 710]
+2. HM061210 - Pemahaman Lintas Budaya (2 SKS) [UU] [cite: 710]
+3. IT061205 - Berbicara 3 (2 SKS) [PP] [cite: 710]
+4. IT061218 - Menyimak 3 (2 SKS) [cite: 710]
+5. AK061220 - Penerjemahan 1 (2 SKS) [cite: 710]
+6. IT061223 - Pengantar Apresiasi Sastra (2 SKS) [UU] [cite: 710]
+7. IT061224 - Pengantar Linguistik (2 SKS) [UU] [cite: 710]
+8. IT000112 - Praktikum Social Networking dan Creative Content (1 SKS) [TT] [cite: 710]
+9. IT000211 - Social Networking dan Creative Content (2 SKS) [TT] [cite: 710]
+10. IT061230 - Tata Bahasa 3 (2 SKS) [PP] [cite: 710]
+(Note: Kelas 2SA06 SARMAG memiliki 21 SKS) [cite: 714]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3SA01, 3SA02, 3SA03, 3SA04, 3SA05, 3SA06 ===
+Total SKS: 20 SKS [cite: 728]
+Daftar Mata Kuliah:
+1. HM061201 - Manusia dan Kebudayaan Indonesia (2 SKS) [UU] [cite: 728]
+2. HM061211 - Pop Culture (2 SKS) [cite: 728]
+3. AK061242 - Kejurubahasaan Inggris - Indonesia (2 SKS) [cite: 728]
+4. AK061245 - Kepariwisataan (2 SKS) [cite: 728]
+5. IT061219 - Metodologi Penelitian Linguistik (2 SKS) [cite: 728]
+6. IT061220 - Metodologi Penelitian Sastra (2 SKS) [cite: 728]
+7. AK061223 - Metodologi Pengajaran Bahasa Inggris (2 SKS) [cite: 728]
+8. IT061221 - Morfologi Bahasa Inggris (2 SKS) [UU] [cite: 728]
+9. AK061228 - Pembelajaran Bahasa Inggris Berbantuan Komputer (2 SKS) [cite: 728]
+10. IT061235 - Teori Sastra (2 SKS) [cite: 728]
+(Note: Kelas 3SA07 SARMAG memiliki variasi matkul seperti Semantik dan Pragmatik) [cite: 731]
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4SA01, 4SA02, 4SA03, 4SA04, 4SA05, 4SA06, 4SA07, 4SA08, 4SA09, 4SA10 ===
+Total SKS: 21 SKS [cite: 741]
+Daftar Mata Kuliah:
+1. HM061209 - Manusia dan KEBudayaan Inggris (2 SKS) [UU] [cite: 741]
+2. IT061254 - Interaksi Budaya (2 SKS) [cite: 741]
+3. IT000215 - Kecerdasan Artifisial dan Masyarakat (2 SKS) [TT] [cite: 741]
+4. AK061212 - Kewirausahaan (2 SKS) [cite: 741]
+5. AK061241 - Pementasan Drama (2 SKS) [cite: 741]
+6. IT061225 - Pengkajian Budaya (2 SKS) [cite: 741]
+7. IT061232 - Pengkajian Drama Inggris (2 SKS) [UU] [cite: 741]
+8. IT061257 - Pengkajian Puisi Inggris (2 SKS) [UU] [cite: 741]
+9. IT000116 - Praktikum Kecerdasan Artifisial dan Masyarakat (1 SKS) [TT] [cite: 741]
+10. IT061262 - Semantik dan Pragmatik (2 SKS) [UU] [cite: 741]
+11. IT061249 - Sosiolinguistik (2 SKS) [UU] [cite: 741]

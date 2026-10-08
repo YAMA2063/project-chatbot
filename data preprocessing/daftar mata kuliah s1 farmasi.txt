@@ -1,0 +1,81 @@
+DOKUMEN: DAFTAR MATA KULIAH S1 FARMASI (SEMESTER GANJIL PTA 2025/2026)
+UNIVERSITAS GUNADARMA
+
+KETERANGAN SIMBOL:
+[UU] = Mata Kuliah Ujian Utama
+[PP] = Mata Kuliah Praktikum Penunjang
+[TT] = Team Teaching
+
+=========================================
+TINGKAT 1 (SEMESTER 1)
+=========================================
+=== KELAS: 1HB01, 1HB02, 1HB03 ===
+Total SKS: 18 SKS [cite: 205]
+Daftar Mata Kuliah:
+1. PB072208 - Bahasa Indonesia (2 SKS) [cite: 205]
+2. PP000206 - Pendidikan Pancasila (2 SKS) [UU] [cite: 205]
+3. IT072214 - Anatomi Fisiologi Manusia (2 SKS) [UU] [cite: 205]
+4. IT072211 - Bahasa Inggris (2 SKS) [cite: 205]
+5. IT072231 - Biologi Sel dan Molekuler (2 SKS) [cite: 205]
+6. IT072213 - Farmasetika Dasar (2 SKS) [cite: 205]
+7. IT072232 - Kimia Farmasi Dasar (2 SKS) [cite: 205]
+8. IT072205 - Kimia Organik 1 (2 SKS) [cite: 205]
+9. IT072206 - Pengantar Ilmu Farmasi (2 SKS) [cite: 205]
+
+=========================================
+TINGKAT 2 (SEMESTER 3)
+=========================================
+=== KELAS: 2HB01, 2HB02, 2HB03 ===
+Total SKS: 21 SKS [cite: 208]
+Daftar Mata Kuliah:
+1. AK072207 - Farmakognosi (2 SKS) [cite: 208]
+2. IT072322 - Farmasi Fisika (3 SKS) [cite: 208]
+3. IT072220 - Imunologi (2 SKS) [cite: 208]
+4. AK072202 - Kimia Farmasi Analisis 1 (2 SKS) [UU] [cite: 208]
+5. IT000203 - Komputasi Big Data (2 SKS) [TT] [cite: 208]
+6. IT072219 - Mikrobiologi Farmasi (2 SKS) [cite: 208]
+7. AK072104 - Praktikum Farmakognosi (1 SKS) [cite: 208]
+8. IT072107 - Praktikum Kimia Analisis (1 SKS) [cite: 208]
+9. AK072101 - Praktikum Kimia Farmasi Analisis 1 (1 SKS) [cite: 208]
+10. IT000104 - Praktikum Komputasi Big Data (1 SKS) [TT] [cite: 208]
+11. IT072117 - Praktikum Mikrobiologi Farmasi (1 SKS) [cite: 208]
+12. AK072105 - Praktikum Teknologi Farmasi Sediaan Solid (1 SKS) [cite: 208]
+13. AK072208 - Teknologi Farmasi Sediaan Solid (2 SKS) [UU] [cite: 208]
+
+=========================================
+TINGKAT 3 (SEMESTER 5)
+=========================================
+=== KELAS: 3HB01, 3HB02 (Peminatan Bahan Alam) ===
+Total SKS: 21 SKS [cite: 226]
+Daftar Mata Kuliah:
+1. AK072214 - Analisis Farmasi Instrumen (2 SKS) [cite: 226]
+2. AK072218 - Farmakologi 2 (2 SKS) [UU] [cite: 226]
+3. AK072245 - Farmakoterapi 1 (2 SKS) [UU] [cite: 226]
+4. AK072230 - Fitoterapi (2 SKS) [cite: 226]
+5. IT072228 - Kimia Medisinal (2 SKS) [cite: 226]
+6. IT072225 - Manajemen Farmasi (2 SKS) [cite: 226]
+7. IT072209 - Metodologi Penelitian Farmasi (2 SKS) [cite: 226]
+8. AK072112 - Praktek Teknik Farmasi Sediaan Semi Solid dan Likuid (1 SKS) [cite: 226]
+9. AK072110 - Praktikum Analisis Farmasi Instrumen (1 SKS) [cite: 226]
+10. AK072107 - Praktikum Farmakologi (1 SKS) [cite: 226]
+11. AK072237 - Standarisasi Obat Bahan Alam (2 SKS) [cite: 226]
+12. AK072226 - Teknologi Farmasi Sediaan Steril (2 SKS) [UU] [cite: 226]
+
+=========================================
+TINGKAT 4 (SEMESTER 7)
+=========================================
+=== KELAS: 4HB01, 4HB02 (Peminatan Bahan Alam) ===
+Total SKS: 23 SKS [cite: 253]
+Daftar Mata Kuliah:
+1. AK072235 - Biofarmasetika dan Farmakokinetika (2 SKS) [UU] [cite: 253]
+2. AK072241 - Elusidasi Struktur (2 SKS) [cite: 253]
+3. AK072345 - Farmakoterapi 2 (3 SKS) [UU] [cite: 253]
+4. AK072234 - Farmasi Industri (2 SKS) [cite: 253]
+5. AK072236 - Farmasi Klinis (2 SKS) [cite: 253]
+6. IT072225 - Manajemen Farmasi (2 SKS) [cite: 253]
+7. AK072227 - Pemodelan Molekul Obat (2 SKS) [cite: 253]
+8. AK072133 - Praktikum Biofarmasetika dan Farmakokinetika (1 SKS) [cite: 253]
+9. IT000108 - Praktikum Robotika Cerdas (1 SKS) [TT] [cite: 253]
+10. AK072125 - Praktikum Teknologi Farmasi Sediaan Steril (1 SKS) [cite: 253]
+11. IT000207 - Robotika Cerdas (2 SKS) [TT] [cite: 253]
+12. AK072344 - Teknologi Bahan Alam (3 SKS) [cite: 253]

@@ -1,0 +1,31 @@
+=== JURUSAN ELEKTRO ===
+Topik: Capaian Pembelajaran Lulusan (CPL)
+URL Asli: https://fti.gunadarma.ac.id/elektro/capaian-pembelajaran-lulusan/
+
+KONTEN:
+
+## CAPAIAN PEMBELAJARAN PROGRAM STUDI TEKNIK ELEKTRO
+
+### SIKAP
+- CPL-01: Bertakwa kepada Tuhan Yang Maha Esa dan memiliki nasionalisme serta rasa tanggungjawab pada negara dan bangsa
+- CPL-02: Mampu berfungsi efektif di dalam tim yang bersifat multidisipliner
+- CPL-03: Memahami etika profesi sebagai seorang sarjana teknik elektro
+- CPL-04: Memiliki semangat kewirausahaan baik secara individu maupun di dalam tim yang bersifat multidisipliner
+
+### PENGETAHUAN
+- CPL-05: Menguasai pengetahuan umum untuk memahami dampak solusi rekayasa
+- CPL-06: Menguasai penerapan konsep teknologi terkini dalam bidang TIK
+- CPL-07: Menguasai penerapan konsep teknologi terkini dalam menyelesaikan permasalahan bidang keelektroteknikan
+- CPL-08: Menguasai penerapan pengetahuan dasar matematika dan sains yang dapat digunakan untuk memecahkan masalah melalui pendekatan keelektroteknikan
+
+### KETERAMPILAN UMUM
+- CPL-09: Mampu mempresentasikan informasi dan mengemukakan ide dengan jelas, baik secara lisan maupun tertulis, kepada pemangku kepentingan dan mampu melakukan komunikasi ilmiah secara efektif, baik secara lisan maupun tertulis.
+- CPL-10: Mampu menerapkan pemikiran logis, kritis, sistematis, dan inovatif dalam konteks pengembangan atau implementasi ilmu pengetahuan dan teknologi serta menerapkan nilai humaniora yang sesuai dengan bidang keahliannya dan mampu menganalisis masalah dan menyimpulkan solusi secara sistematis.
+- CPL-11: Mampu melakukan eksperimen dan melakukan analisis data hasil eksperimen, menyusun deskripsi saintifik hasil kajian, serta mampu mengambil keputusan secara tepat dalam konteks penyelesaian masalah di bidang keahliannya berdasarkan hasil analisis informasi dan data.
+- CPL-12: Mampu memelihara dan mengembangkan jaringan kerja baik di dalam maupun di luar lembaganya, serta mampu bertanggung jawab atas pencapaian hasil kerja kelompok dan melakukan supervisi serta evaluasi terhadap penyelesaian pekerjaan yang ditugaskan kepada kelompok kerja.
+
+### KETERAMPILAN KHUSUS
+- CPL-13: Mampu menerapkan pengetahuan matematika, ilmu pengetahuan alam dan/atau material, teknologi informasi dan keteknikan, untuk mendapatkan pemahaman menyeluruh tentang prinsip-prinsip keteknikan, dan terampil dalam penggunaan perangkat keras dan lunak yang diperlukan dalam perancangan, khususnya pada Sistem Tenaga Elektrik, Teknik Telekomunikasi, Teknik Elektronika, dan Teknik Sistem Kendali.
+- CPL-14: Mampu mengidentifikasi, merumuskan, menganalisis, dan menyelesaikan permasalahan teknik/rekayasa, khususnya di bidang Sistem Tenaga Elektrik, Teknik Telekomunikasi, Teknik Elektronika, dan Teknik Sistem Kendali dengan menganut kaidah-kaidah ilmiah.
+- CPL-15: Mampu mendesain komponen, sistem dan/atau proses untuk memenuhi kebutuhan yang diharapkan di dalam batasan-batasan realistis, misalnya hukum, ekonomi, lingkungan, sosial, politik, kesehatan dan keselamatan, keberlanjutan, serta untuk mengenali dan/atau memanfaatkan potensi sumber daya lokal dan nasional dengan wawasan global, khususnya pada Teknik Tenaga Elektrik dan Teknik Elektronika, sesuai kebutuhan atau spesifikasi.
+- CPL-16: Mampu mengimplementasikan solusi masalah dan menerapkan metode, keterampilan dan piranti teknik yang modern yang diperlukan untuk praktik keteknikan melalui rekayasa Teknik Tenaga Elektrik dan Teknik Elektronika dengan menganut kaidah-kaidah ilmiah.

@@ -1,0 +1,52 @@
+INFORMASI PENGISIAN KRS ONLINE (KARTU RENCANA STUDI)
+
+Selain melihat riwayat KRS di Modul Akademik, mahasiswa wajib melakukan pengisian KRS pada periode yang ditentukan melalui menu utama "KRS" di halaman depan Studentsite (Aplikasi Pengisian KRS Universitas Gunadarma / PSA).
+
+ATURAN SANGAT PENTING TERKAIT KRS:
+1. KRS WAJIB di-download dan dicetak oleh mahasiswa sebelum batas akhir (deadline) yang ditentukan pada masing-masing semester.
+2. Sanksi: Apabila KRS tidak di-download, maka mahasiswa TIDAK AKAN mendapatkan kartu ujian dan NILAI TIDAK AKAN KELUAR!
+
+Syarat dan Ketentuan Pengisian KRS:
+- Mahasiswa wajib mengunggah/upload Foto resmi di mana wajah harus terlihat jelas dengan ukuran maksimal 500 KB melalui Pengaturan Profil StudentSite.
+- Pengisian KRS hanya bisa dilakukan pada periode waktu tertentu. Jika batas waktu sudah lewat, sistem akan memunculkan peringatan "Pengisian KRS ditutup. Tidak dalam Periode Pengisian KRS".
+- Terdapat fitur "Download KRS Semester Lalu" yang memungkinkan mahasiswa untuk mengunduh dan mencetak arsip KRS dari semester 1 hingga semester terbaru.
+
+Layanan Konsultasi dan Bantuan KRS (Dosen PA):
+Jika mahasiswa mengalami masalah, kebingungan, atau kendala saat melakukan pengisian KRS, kampus menyediakan layanan Dosen Penasihat Akademik (PA).
+- Kontak: Mahasiswa dapat mengklik link "Klik disini untuk melihat kontak PA" pada halaman KRS untuk mendapatkan nomor WhatsApp (WA) dosen PA sesuai jurusan dan kelas.
+- Waktu Pelayanan (WA Only): Bantuan hanya dilayani pada HARI KERJA, JAM 09.00 - 15.00 WIB. Chat di luar jam kerja tersebut tidak akan ditanggapi.
+
+# Formulir Rencana Studi (FRS) & Ketentuan Pengisian KRS
+Kartu Rencana Studi atau KRS adalah kartu yang berisi daftar mata kuliah yang akan diikuti oleh setiap mahasiswa dalam satu semester. Dalam KRS tercantum data mahasiswa (NPM, Nama, Kelas, Fakultas, Jurusan, Jumlah Semester dan Tahun Akademik yang diikuti), Kode Mata Kuliah, Mata Kuliah, SKS dan Kelas yang diikuti. KRS berlaku/sah, jika ada pas foto mahasiswa yang bersangkutan dan cap Universitas.
+
+KRS merupakan bukti sebagai mahasiswa yang aktif pada semester yang bersangkutan dan berfungsi sebagai Kartu Peserta Ujian (KRS wajib dibawa setiap kali mengikuti ujian). Pengisian KRS dilakukan oleh setiap mahasiswa secara langsung di PSMA-Online. Tata cara pengisian KRS dapat dilihat pada Buku Pedoman Pengisian KRS yang dikeluarkan oleh PSMA-Online.
+
+## Hal-Hal yang Berkaitan dengan Pengisian KRS :
+1. Formulir Rencana Studi (FRS): Sebelum pengisian KRS, BAAK akan membagikan FRS yang berisi daftar mata kuliah yang ditawarkan di tiap kelas;
+2. Mahasiswa yang sudah tidak mempunyai kelas reguler, mendapatkan FRS dan mengkonsultasikan pengisiannya dengan Sekretaris Jurusan atau Ketua Jurusan;
+3. Bagi mahasiswa yang akan mengulang mata kuliah, harus memperhatikan jadwal kelas yang diambilnya agar tidak bentrok dengan jadwal kuliah kelas regulernya;
+4. Batal/Ubah/Tambah (BUT): Mahasiswa yang sudah mengisi dan mengambil KRS, dapat memperbaiki isi KRS-nya melalui prosedur Batal/Ubah/Tambah (lihat prosedur BUT);
+5. Batas maksimum pengambilan mata kuliah (yang dicantumkan dalam KRS, termasuk mata kuliah yang diulang) dalam satu semester adalah 24 SKS.
+
+Berikut ini adalah FRS setiap program studi (jurusan). Mahasiswa dapat mengunduh FRS ini untuk digunakan sebagai pegangan dalam pengisian KRS di PSMA online. Unduh Format FRS (https://baak.gunadarma.ac.id/file/Perkuliahan%20dan%20Ujian/FRS.pdf)
+Silakan Unduh daftar Mata Kuliah pada Menu Daftar Mata Kuliah
+
+
+## Isi dari Formulir Rencana Studi (FRS)
+Jika mahasiswa bertanya apa saja isi kolom atau data yang harus diisi di dalam lembar Formulir Rencana Studi (FRS), berikut adalah rinciannya:
+- NAMA
+- NPM
+- JURUSAN
+- SEMESTER
+- TAHUN
+- JUML. SEM (Jumlah Semester)
+- KELAS
+- Tabel Daftar Mata Kuliah yang mencakup kolom:
+  - NO. (Nomor urut)
+  - KODE MK. (Kode Mata Kuliah)
+  - MATA KULIAH (Nama Mata Kuliah)
+  - SKS (Jumlah SKS)
+  - KELAS
+  - KET. (Keterangan)
+- JUMLAH SKS YANG DIAMBIL (Total SKS)
+- Kolom tanda tangan: MENYETUJUI PENASEHAT AKADEMIK dan MAHASISWA YBS. (Mahasiswa yang bersangkutan)

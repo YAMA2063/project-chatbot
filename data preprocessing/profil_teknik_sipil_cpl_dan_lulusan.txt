@@ -1,0 +1,24 @@
+=== JURUSAN TEKNIK SIPIL ===
+Topik: Profil Lulusan (PPM) dan Capaian Pembelajaran (CPPS)
+URL Asli: https://ftsp.gunadarma.ac.id/sipil/capaian-pembelajaran/
+
+KONTEN:
+
+## PROFIL PROFESIONAL MANDIRI (PPM)
+Profil lulusan yang dihasilkan memiliki kriteria yang dijabarkan dalam Profil Profesional Mandiri (PPM) sebagai berikut:
+- PPM-1: Memiliki kemampuan dalam perencanaan, perancangan, pembangunan dan pengelolaan di bidang Teknik Sipil dengan mengedepankan aspek etika profesi, berbasis teknologi informasi dan komputasi serta berwawasan lingkungan.
+- PPM-2: Memiliki kemampuan berkomunikasi, mengembangkan jejaring, dan bekerjasama dalam tim dalam multi disiplin ilmu di bidang rekayasa konstruksi.
+- PPM-3: Memiliki kemampuan dalam memahami, mengembangkan dan mengaplikasikan ilmu dasar rekayasa teknik sipil, serta melakukan pendidikan sepanjang hayat.
+
+## CAPAIAN PEMBELAJARAN PROGRAM STUDI (CPPS)
+- CPPS-01: Mampu menerapkan ilmu pengetahuan dasar umum, pengetahuan dasar Teknik Sipil dan prinsip-prinsip rekayasa dalam bidang keteknikSipilan.
+- CPPS-02: Mampu membuat perancangan, pelaksanaan, pengawasan dan penilaian konstruksi yang berwawasan lingkungan.
+- CPPS-03: Mampu memanfaatkan teknologi berbasis komputasi dalam rekayasa di bidang Teknik Sipil.
+- CPPS-04: Mampu melakukan penelitian untuk pemecahan masalah di bidang rekayasa konstruksi sesuai dengan kaidah-kaidah ilmiah.
+- CPPS-05: Memiliki wawasan kewirausahaan di bidang jasa konstruksi.
+- CPPS-06: Mampu berpikir logis, inovatif dan memberikan alternative solusi terhadap permasalahan infrastruktur yang terjadi di masyarakat.
+- CPPS-07: Mampu berkomunikasi dengan baik dan mengembangkan jejaring.
+- CPPS-08: Mempunyai fungsi yang efektif sebagai individu, anggota dan pemimpin dari tim kerja, pada multidisiplin ilmu.
+- CPPS-09: Memiliki kepedulian dan tanggung jawab terhadap aspek keamanan, keselamatan lingkungan, serta sosial budaya dalam pelaksanaan pekerjaan.
+- CPPS-10: Memiliki wawasan tentang keprofesian teknik Sipil dan isu-isu terkini.
+- CPPS-11: Memiliki kemauan dan kemampuan untuk mengembangkan diri dan pembelajaran menerus.

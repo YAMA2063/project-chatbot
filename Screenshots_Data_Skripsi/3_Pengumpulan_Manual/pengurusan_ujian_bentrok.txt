@@ -1,0 +1,11 @@
+# Pengurusan Ujian Bentrok
+Mahasiswa yang mengambil mata kuliah di kelas yang lebih atas atau mengulang di kelas yang lebih bawah, ada kemungkinan jadwal ujiannya bentrok (dua atau lebih mata ujian bersamaan waktu ujiannya). Bagi mahasiswa yang jadwal ujiannya bentrok, wajib melapor dan mengisi formulir yang disediakan oleh BAAK sesuai dengan batas waktu yang ditentukan.
+
+## Prosedur Pengurusan Ujian Bentrok:
+- Isilah form pengurusan ujian bentrok dengan lengkap dan benar (kesalahan pengisian tidak menjadi tanggung jawab BAAK)
+- Jika dalam satu hari terdapat lebih dari dua mata ujian, isilah seluruh jadwal ujian yang akan diikuti pada hari tersebut
+- Periksalah kembali data isian anda.
+- Setelah mengisi form, perhatikan petunjuk untuk langkah selanjutnya.
+- Untuk pengambilan surat keterangan ujian bentrok di loket BAAK, diwajibkan membawa 'lembar pengisian form online'.
+- Jadual dapat diambil satu hari sebelum ujian dimulai di BAAK (Loket 3)
+- Selama ujian berlangsung jadual dapat diambil di Gedung 3 Lantai 1, Kampus E (Sekretariat Dosen / Panitia Ujian)

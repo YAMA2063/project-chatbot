@@ -1,0 +1,38 @@
+=== JURUSAN INFORMATIKA ===
+Topik: Struktur Organisasi
+URL Asli: https://fti.gunadarma.ac.id/informatika/?page_id=295
+
+KONTEN:
+Struktur Organisasi Program Studi Informatika Fakultas Teknologi Industri Universitas Gunadarma dirancang untuk mendukung kegiatan akademik, penelitian, dan pengabdian masyarakat secara optimal. 
+
+Berdasarkan data resmi Program Studi Informatika, susunan pejabat strukturalnya adalah sebagai berikut:
+
+1. Ketua Program Studi (Kaprodi)
+   - Nama: Prof. Dr. Lintang Yuniar Banowosari, SKom., M.Sc
+   - Lokasi: Gd 4 Lt. 2 Kampus D - Jl. Margonda Raya 100 Depok
+   - URL Staf: http://lintang.staff.gunadarma.ac.id
+
+2. Sekretaris Program Studi (Sekprodi)
+   - Nama: Hurnaningsih, SKom., MM
+   - Lokasi: Gd 4 Lt 2 Kampus D - Jl. Margonda Raya 100 Depok
+   - URL Staf: http://hurna.staff.gunadarma.ac.id
+
+3. Staff Program Studi
+   - Nama: Risdiandri Iskandar, SKom., MMSI
+   - Lokasi: Gd 4 Lt 2 Kampus D - Jl. Margonda Raya 100 Depok
+   - URL Staf: http://risdiandri.staff.gunadarma.ac.id
+
+4. Staff Program Studi
+   - Nama: Nurul Adhayanti, SKom., MMSI
+   - Lokasi: Gd 4 Lt 2 Kampus D - Jl. Margonda Raya 100 Depok
+   - URL Staf: http://nurul_a.staff.gunadarma.ac.id
+
+5. Staff Program Studi
+   - Nama: Dini Triasanti, ST., MMSI
+   - Lokasi: Gd 4 Lt 2 Kampus D - Jl. Margonda Raya 100 Depok
+   - URL Staf: http://dini3asa.staff.gunadarma.ac.id
+
+6. Staff Program Studi
+   - Nama: Ike Putri Kusumawijaya, ST., MMSI
+   - Lokasi: Gd 4 Lt 2 Kampus D - Jl. Margonda Raya 100 Depok
+   - URL Staf: http://ikeputri.staff.gunadarma.ac.id

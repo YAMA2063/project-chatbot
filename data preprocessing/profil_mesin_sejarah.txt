@@ -1,0 +1,40 @@
+=== JURUSAN MESIN ===
+Topik: Sejarah Program Studi
+URL Asli: https://fti.gunadarma.ac.id/mesin/sejarah/#
+
+KONTEN:
+
+## SEJARAH PROGRAM STUDI TEKNIK MESIN
+
+Program Studi S-1 Teknik Mesin merupakan program yang diselenggarakan oleh Jurusan Teknik Mesin di lingkungan Fakultas Teknologi Industri Universitas Gunadarma.
+
+- Pendirian: Ditetapkan oleh SK Menteri Pendidikan dan Kebudayaan No. 92/Dikti/Kep./1996 pada tanggal 3 April 1996.
+- Akreditasi Nasional: Terakreditasi dengan Peringkat A (Baik sekali) berdasarkan SK BAN-PT No. 1414/SK/BAN-PT/Ak-PPJ/S/III/2022 (Berlaku: 21 Oktober 2021 s.d. 21 Oktober 2026).
+- Akreditasi Internasional: Mendapatkan status Provisonally Accredited dari IABEE (Indonesian Accreditation Board for Engineering Education) pada tanggal 13 Februari 2020. (Update 2025: Telah terakreditasi penuh - Accredited).
+
+## PENGEMBANGAN KURIKULUM
+
+Kurikulum disusun berdasarkan Visi, Misi, Tujuan, dan Sasaran Program Studi, berpedoman pada:
+- UU RI No. 12 Tahun 2012 tentang Pendidikan Tinggi.
+- Peraturan Presiden No. 08 tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia (KKNI).
+- Permendikbudristek RI No. 3 Tahun 2020 tentang Standar Nasional Pendidikan Tinggi (SN-DIKTI).
+- Kurikulum Inti Program Sarjana Teknik Mesin Indonesia dari Badan Kerja Sama Teknik Mesin Indonesia (Tahun 2020).
+
+## PEMINATAN DAN PEMBEKALAN
+Program Studi Teknik Mesin Universitas Gunadarma memiliki peminatan teknik mesin umum yang memuat bidang keahlian:
+- Material dan Manufaktur
+- Konversi Energi
+- Desain dan Mekanika
+- Mekatronika dan Otomasi Industri
+
+Mahasiswa juga dibekali dengan berbagai kursus dan workshop keahlian tersertifikasi, seperti:
+- CAD/CAM (AutoCAD Mechanical, INVENTOR, CATIA)
+- CFD/FEA (SOLIDWORKS)
+- Rapid Prototyping (CNC dan 3D Printing)
+- Otomasi Industri (PLC, Sequence Control Mechanic)
+- HVAC (VRV Express dan Heat Load Calculation)
+- Standarisasi Manajemen Lingkungan ISO 14001
+- Sertifikasi Keahlian dari BNSP (Skema KKNI Kualifikasi 6 Bidang Otomasi Industri).
+
+## KEGIATAN PENELITIAN
+Penelitian dan Pengembangan Teknologi Mobile Hemat Energi (KMHE), Kompetisi Mobil Listrik Indonesia (KMLI), dan Penelitian Aerodinamika menggunakan Open Circuit Wind Tunnel dengan software seperti Lab View, ANSYS, Techplot, dan COMSOL.

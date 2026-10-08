@@ -1,0 +1,7 @@
+INFORMASI MENU SKPI (Surat Keterangan Pendamping Ijazah)
+
+Menu SKPI digunakan untuk mengelola data dan sertifikat kegiatan mahasiswa yang akan dicetak sebagai pendamping ijazah saat lulus nanti. Menu ini memiliki tiga bagian utama:
+
+1. Dashboard SKPI: Menampilkan ringkasan (summary) status SKPI mahasiswa. Di sini mahasiswa bisa melihat total "Kegiatan disetujui", "Kegiatan menunggu persetujuan", dan "Status SKPI" secara keseluruhan (misalnya: Waiting Approval).
+2. Menu Kegiatan (List PSP): Menampilkan daftar riwayat kegiatan, kursus, atau workshop yang telah diikuti oleh mahasiswa (contoh: Building Website, Fundamental Desktop/Web Programming). Halaman ini juga memuat informasi Pelaksana kegiatan (Universitas Gunadarma) beserta Status persetujuan kegiatan tersebut (misalnya: Approve).
+3. Menu SKPI (List SKPI): Menampilkan status pengajuan dokumen SKPI akhir. Pada halaman ini terdapat informasi biodata kelulusan seperti NPM, Nama Mahasiswa, Tanggal Lahir, Tanggal Yudisium, Status Yudisium (contoh: Belum), dan Status akhir dokumen SKPI (contoh: Waiting Approval).
