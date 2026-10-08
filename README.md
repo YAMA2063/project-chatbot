@@ -8,7 +8,7 @@ app_port: 7860
 pinned: false
 ---
 
-# 🎓 Chatbot RAG Kampus Universitas Gunadarma v2.0
+# 🎓 Chatbot RAG Universitas Gunadarma v2.0
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python)](https://python.org)
@@ -134,8 +134,8 @@ flowchart TD
 
 ### 1. Clone Repositori
 ```bash
-git clone https://github.com/username/project-chatbot.git
-cd project-chatbot
+git clone https://github.com/YAMA2063/chatbot-rag-universitas-gunadarma.git
+cd chatbot-rag-universitas-gunadarma
 ```
 
 ### 2. Buat Virtual Environment & Install Dependensi
