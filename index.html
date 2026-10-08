@@ -614,7 +614,7 @@
                     .slice(-6);
                 formData.append('riwayat', JSON.stringify(historyToBackend));
 
-                const response = await fetch('http://127.0.0.1:8000/tanya-ai/', {
+                const response = await fetch('/tanya-ai/', {
                     method: 'POST',
                     body: formData,
                     signal: abortController.signal

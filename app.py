@@ -1,3 +1,8 @@
+import sys
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 from fastapi import FastAPI, Form, UploadFile, File, Depends, HTTPException, Request, Response
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse, JSONResponse, FileResponse
@@ -222,17 +227,13 @@ def _gemini_stream_answer(system_content: str, question: str):
 _LLM_PROVIDER = os.getenv("LLM_PROVIDER", "auto").lower()
 print(f"[LLM] Provider: {_LLM_PROVIDER} | Groq: OK | Gemini 3 ({_GEMINI_MODEL}): {len(_GEMINI_KEYS)} keys")
 
-# ─── CORS (dibatasi ke origin yang dikonfigurasi) ───
-_ALLOWED_ORIGINS = [
-    o.strip() for o in os.getenv("ALLOWED_ORIGINS", "http://localhost:8000,http://127.0.0.1:8000").split(",")
-    if o.strip()
-]
+# ─── CORS (mendukung akses lokal, domain publik & Cloudflare Tunnel) ───
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=_ALLOWED_ORIGINS,
+    allow_origin_regex=r".*",
     allow_credentials=True,
-    allow_methods=["GET", "POST", "DELETE"],
-    allow_headers=["Authorization", "Content-Type"],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 # ─── SECURITY RESPONSE HEADERS ───
@@ -616,8 +617,11 @@ async def tanya_ai(pertanyaan: str = Form(...), riwayat: str = Form(None)):
             full_answer += citation
             yield citation
         
-        print(f"\n4. Jawaban AI      : {full_answer}")
-        print(f"{'='*60}\n")
+        try:
+            print(f"\n4. Jawaban AI      : {full_answer}")
+            print(f"{'='*60}\n")
+        except Exception:
+            pass
 
     return StreamingResponse(stream_with_log(), media_type="text/plain")
 
