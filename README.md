@@ -24,13 +24,31 @@ Sistem Chatbot Akademik berbasis **Retrieval-Augmented Generation (RAG)** cerdas
 
 ---
 
-## 🚀 Live Demo & Panduan Uji Coba Cepat
+## 📸 Galeri & Tampilan Antarmuka Sistem (UI Showcase)
 
-Anda dapat langsung mencoba chatbot ini secara interaktif:
+Berikut adalah tangkapan layar antarmuka nyata sistem Chatbot RAG Universitas Gunadarma v2.0:
 
-### 🔗 Link Demo Online (Aktif & Siap Pakai):
-👉 **[Buka Demo Online Chatbot Gunadarma](https://efficient-predicted-alcohol-overnight.trycloudflare.com)**  
-*(Dilindungi Cloudflare HTTPS — Siap Digunakan Langsung via Browser HP & Laptop tanpa login/password)*
+### 💬 1. Demonstrasi Tanya Jawab Nyata & Sitasi Dokumen Kampus
+Chatbot memberikan respons cepat dengan gaya bahasa ramah, akurat, dan **secara transparan menyematkan badge dokumen resmi** (`[Sumber: ...]`) di bawah setiap jawaban:
+![Demo Percakapan Chatbot RAG Gunadarma](screenshots/demo_percakapan_rag.png)
+
+### 🏛️ 2. Halaman Utama Chatbot (Tema Gelap Gunadarma)
+Tampilan antarmuka interaktif yang elegan, ringan, dan ramah pengguna dengan tombol pintas pertanyaan akademik:
+![Tampilan Utama Chatbot Gunadarma](screenshots/tampilan_utama.png)
+
+### ⚙️ 3. Panel Administrator & Keamanan
+Portal otentikasi admin berbasis Bcrypt dan JWT untuk pengelolaan dokumen akademik kampus:
+![Panel Admin Chatbot](screenshots/panel_admin.png)
+
+---
+
+## 🚀 Panduan Uji Coba Cepat (Live Demo)
+
+Anda dapat langsung mencoba chatbot ini secara interaktif saat server sedang aktif:
+
+### 🔗 Link Demo Online:
+👉 **[Buka Demo Online Chatbot Gunadarma](https://busy-majority-anime-referring.trycloudflare.com)**  
+*(Dilindungi Cloudflare HTTPS — Siap Digunakan Langsung via Browser HP & Laptop)*
 
 ### 💬 Contoh Pertanyaan untuk Menguji Sistem:
 Coba tanyakan berbagai topik berikut untuk melihat kemampuan pencarian hybrid dan kecerdasan AI:
