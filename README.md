@@ -36,9 +36,13 @@ Chatbot memberikan respons cepat dengan gaya bahasa ramah, akurat, dan **secara 
 Tampilan antarmuka interaktif yang elegan, ringan, dan ramah pengguna dengan tombol pintas pertanyaan akademik:
 ![Tampilan Utama Chatbot Gunadarma](screenshots/tampilan_utama.png)
 
-### ⚙️ 3. Panel Administrator & Keamanan
-Portal otentikasi admin berbasis Bcrypt dan JWT untuk pengelolaan dokumen akademik kampus:
-![Panel Admin Chatbot](screenshots/panel_admin.png)
+### ⚙️ 3. Dashboard Manajemen Dokumen & Sinkronisasi Vektor (Admin)
+Panel kontrol administrator kampus untuk mengunggah dokumen PDF/TXT, sinkronisasi *Incremental Indexing* ChromaDB tanpa rebuild total, dan memantau 153 dokumen akademik:
+![Dashboard Manajemen Dokumen Admin](screenshots/panel_admin_dashboard.png)
+
+### 🔐 4. Portal Otentikasi Administrator Terenkripsi
+Gerbang masuk admin yang dilindungi algoritma hash Bcrypt (12 rounds) dan sesi Stateless JWT (HS256):
+![Portal Login Admin Chatbot](screenshots/panel_admin.png)
 
 ---
 
